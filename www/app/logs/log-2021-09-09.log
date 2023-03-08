@@ -1,0 +1,2 @@
+ERROR - 2021-09-09 23:57:45 --> 404 Page Not Found: /index
+ERROR - 2021-09-09 23:59:52 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42

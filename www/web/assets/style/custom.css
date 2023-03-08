@@ -1,0 +1,15 @@
+
+
+.sf-menu li a {
+    opacity: 0.85;
+    color: #FFF;
+    font-size : 0.9rem;
+    font-weight: 700;
+}
+
+.sf-menu li.selected a {
+    opacity: 0.85;
+    color: #FFF;
+    font-size : 1.0rem;
+    font-weight: 900;
+}

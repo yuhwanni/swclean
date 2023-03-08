@@ -1,0 +1,178 @@
+.pagenation_div {display: flex; flex-direction: column; flex: 1 1 auto; margin-top: 10px;}
+
+.sidebar { width: 16rem; }
+
+.hr-line-dashed {
+    border-top: 1px dashed #414561;
+    color: #414561;
+    background-color: #414561;
+    height: 1px;
+    margin: 5px 0;
+}
+
+.form-group {
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.validate-error {
+    color: #7367f0 !important;
+    font-size: 0.85rem;
+    margin-bottom: 0;
+    padding-left: 0.2rem;
+}
+
+.form-control.border-dark { border-color: #ddd !important }
+select.border-dark { border-color: #ddd !important }
+
+.hr-line-dashed { border-top: 1px dashed #ffffff; color: #414561; background-color: #caccdc; height: 1px; margin: 5px 0; }
+
+.custom-file-input-sm {
+    height: calc(1.6924em + .625rem + 2px);
+    padding: .3125rem .75rem;
+    font-size: .8125rem;
+    line-height: 1.6924;
+    border-radius: .1875rem
+}
+
+.custom-file-input-lg {
+    height: calc(1.4667em + 1.125rem + 2px);
+    padding: .5625rem 1rem;
+    font-size: .9375rem;
+    line-height: 1.4667;
+    border-radius: .3125rem
+}
+
+#frm_sch label { display: inline-block; margin-bottom: .1rem; }
+.dot {
+    margin-top: 0.85rem !important;
+    margin-bottom: 0.85rem !important;
+    border-style: dotted !important;
+}
+
+/*.custom-file-input:lang(en)~.custom-file-label::after {
+    content: "파일찾기";
+}*/
+.custom-control-label {
+    line-height: 24px;
+}
+
+.loading_dimmer {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 999999;
+}
+
+.loading_dimmer .lds-css {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+@-webkit-keyframes lds-wedges {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+.lds-wedges {
+    position: relative;
+}
+
+.lds-wedges > div > div {
+    -webkit-transform-origin: 100px 100px;
+    transform-origin: 100px 100px;
+    -webkit-animation: lds-wedges 3s linear infinite;
+    animation: lds-wedges 3s linear infinite;
+    opacity: 0.8;
+}
+
+.lds-wedges > div > div > div {
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    width: 70px;
+    height: 70px;
+    border-radius: 70px 0 0 0;
+    -webkit-transform-origin: 100px 100px;
+    transform-origin: 100px 100px;
+}
+
+.lds-wedges > div div:nth-child(1) > div {
+    background: #93dbe9;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+
+.lds-wedges > div div:nth-child(1) {
+    -webkit-animation-duration: 0.75s;
+    animation-duration: 0.75s;
+}
+
+.lds-wedges > div div:nth-child(2) > div {
+    background: #689cc5;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+
+.lds-wedges > div div:nth-child(2) {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+}
+
+.lds-wedges > div div:nth-child(3) > div {
+    background: #5e6fa3;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+
+.lds-wedges > div div:nth-child(3) {
+    -webkit-animation-duration: 1.5s;
+    animation-duration: 1.5s;
+}
+
+.lds-wedges > div div:nth-child(4) > div {
+    background: #3b4368;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+
+.lds-wedges > div div:nth-child(4) {
+    -webkit-animation-duration: 3s;
+    animation-duration: 3s;
+}
+
+.lds-wedges {
+    width: 200px !important;
+    height: 200px !important;
+    -webkit-transform: translate(-100px, -100px) scale(1) translate(100px, 100px);
+    transform: translate(-100px, -100px) scale(1) translate(100px, 100px);
+}
+
+.btn_middle { padding: 9px; }
+.hide { display:none }
+
+#modalBinDefault {
+    text-align: center;
+}
+#modalBinDefault .modal-dialog {
+    max-width: 100%;
+    width: auto !important;
+    display: inline-block;
+}
+.font-bold { font-weight: 600 !important; }
+
+.badge2 { padding: 9px 10px 9px 10px !important; font-size: 0.9rem; }
+.con-center th, .con-center td, .con-center tr { text-align: center }
