@@ -5,7 +5,7 @@
             <!-- SLIDE 1 -->
             <li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
                 <!-- MAIN IMAGE -->
-                <img src="/web/assets/images/main/main4.jpg" alt="slidebg1" data-bgfit="cover">
+                <img src="/web/assets/images/main/main6.jpg" alt="slidebg1" data-bgfit="cover">
                 <!-- LAYERS -->
                 <!-- LAYER 01 -->
                 <div class="tp-caption"
@@ -38,6 +38,47 @@
                      data-y="['476', '478', '304', '353']"
                 >
 
+                </div>
+                <!-- / -->
+            </li>
+            <!-- SLIDE 2 -->
+            <li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
+                <!-- MAIN IMAGE -->
+                <img src="/web/assets/images/main/main5.jpg" alt="slidebg2" data-bgfit="cover">
+                <!-- LAYERS -->
+                <!-- LAYER 01 -->
+                <div class="tp-caption customin customout"
+                     data-frames='[{"delay":500,"speed":1500,"from":"y:-40;o:0;","ease":"easeInOutExpo"},{"delay":"wait","speed":500,"to":"o:0;","ease":"easeInOutExpo"}]'
+                     data-x="center"
+                     data-y="['211', '257', '160', '218']"
+                >
+                    <h4>Reliable and Stable Crews</h4>
+                </div>
+                <!-- LAYER 02 -->
+                <div class="tp-caption customin customout"
+                     data-frames='[{"delay":900,"speed":2000,"from":"y:40;o:0;","ease":"easeInOutExpo"},{"delay":"wait","speed":500,"to":"o:0;","ease":"easeInOutExpo"}]'
+                     data-x="center"
+                     data-y="['273', '313', '200', '260']"
+                >
+                    <h2><a href="?page=service_calculator" title="Estimate Total Costs">OUR TEAM IS OUR MOST</a></h2>
+                </div>
+                <!-- LAYER 03 -->
+                <div class="tp-caption customin customout"
+                     data-frames='[{"delay":1100,"speed":2000,"from":"y:40;o:0;","ease":"easeInOutExpo"},{"delay":"wait","speed":500,"to":"o:0;","ease":"easeInOutExpo"}]'
+                     data-x="center"
+                     data-y="['345', '368', '236', '290']"
+                >
+                    <h2 class="slider-subtitle"><strong>VALUABLE RESOURCE</strong></h2>
+                </div>
+                <!-- LAYER 04 -->
+                <div class="tp-caption customin customout"
+                     data-frames='[{"delay":1500,"speed":1500,"from":"y:40;o:0;","ease":"easeInOutExpo"},{"delay":"wait","speed":500,"to":"o:0;","ease":"easeInOutExpo"}]'
+                     data-x="center"
+                     data-y="['476', '478', '304', '353']"
+                >
+                    <div class="align-center">
+                        <a class="more" href="?page=service_calculator" title="Service calculator">Service calculator</a>
+                    </div>
                 </div>
                 <!-- / -->
             </li>
