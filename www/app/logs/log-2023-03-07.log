@@ -434,12 +434,3 @@ ERROR - 2023-03-07 02:57:05 --> Non-existent class: Func
 ERROR - 2023-03-07 02:57:05 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at D:\WORK\PHP\SWCLEAN\www\app\libraries\Func.php:1) D:\WORK\PHP\SWCLEAN\system\core\Common.php 570
 ERROR - 2023-03-07 02:57:05 --> Non-existent class: Func
 ERROR - 2023-03-07 02:57:05 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at D:\WORK\PHP\SWCLEAN\www\app\libraries\Func.php:1) D:\WORK\PHP\SWCLEAN\system\core\Common.php 570
-ERROR - 2023-03-07 05:29:57 --> 404 Page Not Found: web/Assets/js
-ERROR - 2023-03-07 05:30:53 --> 404 Page Not Found: web/Assets/js
-ERROR - 2023-03-07 05:31:07 --> 404 Page Not Found: web/Assets/js
-ERROR - 2023-03-07 05:31:21 --> 404 Page Not Found: web/Assets/js
-ERROR - 2023-03-07 05:31:31 --> 404 Page Not Found: web/Assets/js
-ERROR - 2023-03-07 05:31:57 --> 404 Page Not Found: web/Assets/js
-ERROR - 2023-03-07 05:50:35 --> 404 Page Not Found: web/Assets/js
-ERROR - 2023-03-07 05:50:47 --> 404 Page Not Found: web/Assets/js
-ERROR - 2023-03-07 05:50:49 --> 404 Page Not Found: web/Assets/js

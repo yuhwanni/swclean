@@ -1,0 +1,212 @@
+ERROR - 2021-10-22 10:35:39 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): ����� ���������κ��� ����� ���� ������� ���߰ų�, ȣ��Ʈ�κ��� ����� ���� ����� �������ϴ�.
+ D:\WORK\PHP\KUMYO\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2021-10-22 10:35:39 --> Unable to connect to the database
+ERROR - 2021-10-22 10:35:39 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 10:36:18 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): ����� ���������κ��� ����� ���� ������� ���߰ų�, ȣ��Ʈ�κ��� ����� ���� ����� �������ϴ�.
+ D:\WORK\PHP\KUMYO\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2021-10-22 10:36:18 --> Unable to connect to the database
+ERROR - 2021-10-22 10:36:28 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): ����� ���������κ��� ����� ���� ������� ���߰ų�, ȣ��Ʈ�κ��� ����� ���� ����� �������ϴ�.
+ D:\WORK\PHP\KUMYO\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2021-10-22 10:36:28 --> Unable to connect to the database
+ERROR - 2021-10-22 10:36:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 10:36:39 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 10:37:39 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-22 10:38:39 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-22 23:12:32 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'devmaster'@'211.212.177.73' (using password: YES) D:\WORK\PHP\PIXCAST\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2021-10-22 23:12:32 --> Unable to connect to the database
+ERROR - 2021-10-22 23:12:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:12:40 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'devmaster'@'211.212.177.73' (using password: YES) D:\WORK\PHP\PIXCAST\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2021-10-22 23:12:40 --> Unable to connect to the database
+ERROR - 2021-10-22 23:12:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:13:08 --> Query error: Unknown column 'sale_status' in 'where clause' - Invalid query:  SELECT * FROM ky_member WHERE 1=1 AND biz_auth = 'Y' AND sale_status = 'N' ORDER BY wdate desc LIMIT 5 
+ERROR - 2021-10-22 23:13:43 --> Severity: Notice --> Undefined variable: main_order_list D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 7
+ERROR - 2021-10-22 23:13:43 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 7
+ERROR - 2021-10-22 23:13:43 --> Severity: Notice --> Undefined variable: main_order_list D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 25
+ERROR - 2021-10-22 23:13:43 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 25
+ERROR - 2021-10-22 23:13:43 --> Severity: Notice --> Undefined variable: main_order_list D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 26
+ERROR - 2021-10-22 23:13:43 --> Severity: Notice --> Undefined variable: main_payout_list D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 85
+ERROR - 2021-10-22 23:13:43 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 85
+ERROR - 2021-10-22 23:13:43 --> Severity: Notice --> Undefined variable: main_payout_list D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 104
+ERROR - 2021-10-22 23:13:43 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 104
+ERROR - 2021-10-22 23:13:43 --> Severity: Notice --> Undefined variable: main_payout_list D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 105
+ERROR - 2021-10-22 23:13:43 --> Severity: Notice --> Undefined variable: main_order_list D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 155
+ERROR - 2021-10-22 23:13:43 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 155
+ERROR - 2021-10-22 23:13:43 --> Severity: Notice --> Undefined variable: main_order_list D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 173
+ERROR - 2021-10-22 23:13:43 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 173
+ERROR - 2021-10-22 23:13:43 --> Severity: Notice --> Undefined variable: main_order_list D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 174
+ERROR - 2021-10-22 23:13:43 --> Severity: Notice --> Undefined variable: main_payout_list D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 233
+ERROR - 2021-10-22 23:13:43 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 233
+ERROR - 2021-10-22 23:13:43 --> Severity: Notice --> Undefined variable: main_payout_list D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 252
+ERROR - 2021-10-22 23:13:43 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 252
+ERROR - 2021-10-22 23:13:43 --> Severity: Notice --> Undefined variable: main_payout_list D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 253
+ERROR - 2021-10-22 23:13:43 --> Severity: Notice --> Undefined variable: main_mem_list D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 304
+ERROR - 2021-10-22 23:13:43 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 304
+ERROR - 2021-10-22 23:13:43 --> Severity: Notice --> Undefined variable: main_mem_list D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 327
+ERROR - 2021-10-22 23:13:43 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 327
+ERROR - 2021-10-22 23:13:43 --> Severity: Notice --> Undefined variable: main_mem_list D:\WORK\PHP\PIXCAST\www\app\views\adm\dashboard\main.php 328
+ERROR - 2021-10-22 23:15:43 --> Query error: Table 'PXCAST_DB.ky_shop_category' doesn't exist - Invalid query: 
+            SELECT 
+              C.id,
+              C.category_name,
+              C.category_options,
+              C.category_location,
+              C.code,
+              C.image,
+              (
+                SELECT 
+                  group_concat(CONCAT(CODE, '|', category_name, '|', (SELECT COUNT(*) AS CNT FROM ky_shop_brand B WHERE B.category = CODE AND status = '1') ) ORDER BY category_location ASC SEPARATOR '^')  
+                FROM ky_shop_category 
+                WHERE 
+                  LEFT(CODE, 3) = LEFT(C.code, 3) AND RIGHT(CODE, 6) = RIGHT(C.code,6) AND CODE != C.code
+                ORDER BY category_location ASC
+              ) AS sub_category                              
+            FROM ky_shop_category C
+            WHERE RIGHT(C.code,9) = '000000000' 
+            ORDER BY C.category_location ASC
+        
+ERROR - 2021-10-22 23:17:21 --> 404 Page Not Found: adm/Main/index
+ERROR - 2021-10-22 23:19:09 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:19:09 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:19:09 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:19:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:19:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:19:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:20:41 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:20:41 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:20:41 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:21:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:21:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:21:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:21:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:22:26 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:22:26 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:22:26 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:22:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:22:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:22:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:22:35 --> 404 Page Not Found: adm/Main/index
+ERROR - 2021-10-22 23:22:36 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:22:36 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:22:36 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:22:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:22:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:22:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:23:02 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:23:02 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:23:02 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:23:03 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:23:04 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:23:04 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:23:04 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:23:04 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:23:04 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:23:26 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:23:26 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:23:26 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:29:04 --> 404 Page Not Found: /index
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant SITE_INFO - assumed 'SITE_INFO' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 41
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Illegal string offset 'site_tel' D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 41
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant ST_MENU - assumed 'ST_MENU' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 73
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant SHOP_CATEGORY - assumed 'SHOP_CATEGORY' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 76
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Invalid argument supplied for foreach() D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 76
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant TH_DIR - assumed 'TH_DIR' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 96
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant CATEGORY - assumed 'CATEGORY' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 100
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Invalid argument supplied for foreach() D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 100
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant TH_DIR - assumed 'TH_DIR' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 121
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant CATEGORY - assumed 'CATEGORY' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 126
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Invalid argument supplied for foreach() D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 126
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant TH_DIR - assumed 'TH_DIR' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 143
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant TH_DIR - assumed 'TH_DIR' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 146
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant TH_DIR - assumed 'TH_DIR' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 149
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant SITE_INFO - assumed 'SITE_INFO' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\footer.php 47
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Illegal string offset 'saup_num' D:\WORK\PHP\PIXCAST\www\app\views\web\common\footer.php 47
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant SITE_INFO - assumed 'SITE_INFO' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\footer.php 53
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Illegal string offset 'site_tel' D:\WORK\PHP\PIXCAST\www\app\views\web\common\footer.php 53
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant SITE_INFO - assumed 'SITE_INFO' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\footer.php 55
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Illegal string offset 'site_fax' D:\WORK\PHP\PIXCAST\www\app\views\web\common\footer.php 55
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant ST_MENU - assumed 'ST_MENU' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\layout_hlcrf.php 132
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant SHOP_CATEGORY - assumed 'SHOP_CATEGORY' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\layout_hlcrf.php 135
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Invalid argument supplied for foreach() D:\WORK\PHP\PIXCAST\www\app\views\web\layout_hlcrf.php 135
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant ST_MENU - assumed 'ST_MENU' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\layout_hlcrf.php 155
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant CATEGORY - assumed 'CATEGORY' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\layout_hlcrf.php 160
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Invalid argument supplied for foreach() D:\WORK\PHP\PIXCAST\www\app\views\web\layout_hlcrf.php 160
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant TH_DIR - assumed 'TH_DIR' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\layout_hlcrf.php 182
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Use of undefined constant CATEGORY - assumed 'CATEGORY' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\layout_hlcrf.php 186
+ERROR - 2021-10-22 23:29:36 --> Severity: Warning --> Invalid argument supplied for foreach() D:\WORK\PHP\PIXCAST\www\app\views\web\layout_hlcrf.php 186
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/css
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/css
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/css
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/js
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/js
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/images
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/images
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/images
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/images
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/js
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/js
+ERROR - 2021-10-22 23:29:36 --> 404 Page Not Found: web/Assets/js
+ERROR - 2021-10-22 23:29:37 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:37 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:29:37 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Use of undefined constant SITE_INFO - assumed 'SITE_INFO' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 41
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Illegal string offset 'site_tel' D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 41
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Use of undefined constant ST_MENU - assumed 'ST_MENU' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 73
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Use of undefined constant SHOP_CATEGORY - assumed 'SHOP_CATEGORY' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 76
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Invalid argument supplied for foreach() D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 76
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Use of undefined constant TH_DIR - assumed 'TH_DIR' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 96
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Use of undefined constant CATEGORY - assumed 'CATEGORY' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 100
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Invalid argument supplied for foreach() D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 100
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Use of undefined constant TH_DIR - assumed 'TH_DIR' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 121
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Use of undefined constant CATEGORY - assumed 'CATEGORY' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 126
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Invalid argument supplied for foreach() D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 126
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Use of undefined constant TH_DIR - assumed 'TH_DIR' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 143
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Use of undefined constant TH_DIR - assumed 'TH_DIR' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 146
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Use of undefined constant TH_DIR - assumed 'TH_DIR' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 149
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Use of undefined constant SITE_INFO - assumed 'SITE_INFO' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\footer.php 47
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Illegal string offset 'saup_num' D:\WORK\PHP\PIXCAST\www\app\views\web\common\footer.php 47
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Use of undefined constant SITE_INFO - assumed 'SITE_INFO' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\footer.php 53
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Illegal string offset 'site_tel' D:\WORK\PHP\PIXCAST\www\app\views\web\common\footer.php 53
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Use of undefined constant SITE_INFO - assumed 'SITE_INFO' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\footer.php 55
+ERROR - 2021-10-22 23:30:37 --> Severity: Warning --> Illegal string offset 'site_fax' D:\WORK\PHP\PIXCAST\www\app\views\web\common\footer.php 55
+ERROR - 2021-10-22 23:30:37 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:30:37 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:30:37 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:30:37 --> 404 Page Not Found: web/Assets/vendor
+ERROR - 2021-10-22 23:30:37 --> 404 Page Not Found: web/Assets/css
+ERROR - 2021-10-22 23:30:37 --> 404 Page Not Found: web/Assets/css
+ERROR - 2021-10-22 23:30:37 --> 404 Page Not Found: web/Assets/css
+ERROR - 2021-10-22 23:30:37 --> 404 Page Not Found: web/Assets/images
+ERROR - 2021-10-22 23:30:37 --> 404 Page Not Found: web/Assets/images
+ERROR - 2021-10-22 23:30:38 --> 404 Page Not Found: web/Assets/images
+ERROR - 2021-10-22 23:30:38 --> 404 Page Not Found: web/Assets/images
+ERROR - 2021-10-22 23:30:38 --> 404 Page Not Found: web/Assets/js
+ERROR - 2021-10-22 23:31:31 --> Severity: Warning --> Use of undefined constant SITE_INFO - assumed 'SITE_INFO' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 41
+ERROR - 2021-10-22 23:31:31 --> Severity: Warning --> Illegal string offset 'site_tel' D:\WORK\PHP\PIXCAST\www\app\views\web\common\header.php 41
+ERROR - 2021-10-22 23:31:31 --> 404 Page Not Found: web/Assets/images
+ERROR - 2021-10-22 23:33:03 --> 404 Page Not Found: /index

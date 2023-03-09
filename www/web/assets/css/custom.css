@@ -1,0 +1,106 @@
+@media (min-width: 992px) {
+    #header .header-nav-main nav > ul > li > a {
+        font-size: 15px !important;
+    }
+}
+
+@media (min-width: 992px) {
+    #header .header-nav-main nav > ul > li.dropdown .dropdown-menu li a {
+        font-size: 0.98em;
+    }
+}
+
+/*html .bg-color-primary, html .bg-primary {
+    background-color: #08c!important;
+}*/
+
+.hlogs { width:244px; height: 24px; }
+
+/*#header { background:#34373b !important; }
+#header .header-body {
+    background: #24252a !important;
+    border-bottom: 0px solid #504444 !important;
+}
+
+#header .header-nav-features .header-nav-features-dropdown {
+    min-width: 135px; margin-right: -64px;
+}*/
+
+.post-image img {  }
+
+.dropdown-item {
+    color: #fff;
+}
+.header-nav-features-dropdown .dropdown-item {
+    color: #212529 !important;
+}
+
+.header-nav-features i {
+    color: #fff !important;
+}
+
+.header-logo-sub { margin-left: 0.3rem; margin-top: 18px; }
+.border-color-light2 { border-color: #433a62 !important; }
+
+.text-left { text-align: left !important; }
+
+html .pixelsystem {
+    background-color: #212529 !important;
+}
+
+#footer {
+    margin-top: 0px;
+    z-index: 999999;
+}
+
+.highlighted-word.highlighted-word-animation-1.highlighted-word-animation-1-2:after {
+    -webkit-animation-name: pencilAnimation2;
+    animation-name: pencilAnimation2;
+    right: calc(100% - 115px);
+    background: url(/web/img/pencil-blue-line-2.png);
+    background-repeat: no-repeat;
+}
+
+/*국문*/
+.kor .sports h2{
+    /*font-size:55px !important;*/
+}
+
+.bootbox-close-button { display: none !important; }
+
+
+/*.news_content img { width:100% !important; }*/
+
+.news_content p {
+    line-height: 21px;
+    margin: 0 0 0px;
+}
+
+#header .header-nav-features {
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+/* 모바일 */
+@media (max-width: 991px) {
+    #header .header-nav-main nav > ul li.dropdown.open > .dropdown-menu {
+        margin-top: 0px !important;
+    }
+
+    .dropdown-item { color: #000; }
+    .hlogs { width: 142px; height: 18px; margin-left: 10px; }
+    .header-logo-sub { display: none; }
+
+    .px-main-line-up { display: inline-block; }
+}
+
+
+.validate-error {
+    color: #ea2d84 !important;
+    font-size: 0.85rem;
+    margin-bottom: 0;
+    padding-left: 0.2rem;
+}
+
+.mainTxt02 { font-size: 1.60em !important; }
+.mainTxt01 { font-size: 1.70em !important; line-height: 1.2; }

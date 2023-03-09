@@ -148,7 +148,7 @@ $REQUEST_URI_ARR = explode("/", $_SERVER['REQUEST_URI']);
 define( 'LOC_TYPE', $REQUEST_URI_ARR[1]);
 
 //SITE INFO
-define( 'HEAD_TITLE', "성우환경");
+define( 'HEAD_TITLE', "PIXELCAST");
 define( 'HEAD_KEYWORD', "카메라, 영상, PIXELCAST");
 define( 'HEAD_DISC', "카메라, 영상, PIXELCAST");
 define( 'HEAD_AUTHOR', "카메라, 영상, PIXELCAST");

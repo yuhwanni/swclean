@@ -1,0 +1,309 @@
+ERROR - 2021-10-14 19:09:03 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 19:10:17 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 19:10:51 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 19:11:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 19:12:43 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-14 19:13:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 19:14:42 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-14 19:15:42 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-14 19:17:21 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-14 19:18:21 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-14 19:18:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 19:19:46 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:20:46 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:21:46 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:22:46 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:24:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:25:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:26:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:27:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:28:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:29:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:30:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:31:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:32:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:33:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:34:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:35:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:36:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:37:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:38:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:39:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:40:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:41:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:42:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:43:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:44:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:45:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:46:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:47:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:48:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:49:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:50:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:51:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:52:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:53:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:54:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:55:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:56:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:57:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:58:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 19:59:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:00:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:01:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:02:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:03:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:04:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:05:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:06:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:07:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:08:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:09:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:10:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:11:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:12:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:13:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:14:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:15:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:16:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:17:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:18:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:19:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:20:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:21:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:22:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:23:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:24:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:25:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:26:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:27:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:28:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:29:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:30:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:31:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:32:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:33:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:34:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:35:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:36:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:37:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:38:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:39:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:40:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:41:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:42:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:43:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:44:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:45:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:46:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:47:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:48:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:49:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:50:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:51:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:52:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:53:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:54:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:55:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:56:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:57:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:58:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 20:59:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:00:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:01:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:02:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:03:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:04:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:05:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:06:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:07:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:08:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:09:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:10:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:11:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:12:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:13:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:14:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:15:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:16:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:17:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:18:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:19:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:20:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:21:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:22:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:23:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:24:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:25:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:26:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:27:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:28:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:29:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:30:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:31:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:32:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:33:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:34:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:35:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:36:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:37:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:38:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:39:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:40:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:41:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:42:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:43:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:44:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:45:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:46:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:47:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:48:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:49:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:50:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:51:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:52:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:53:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:54:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:55:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:56:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:57:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:58:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 21:59:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:00:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:01:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:02:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:03:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:04:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:05:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:06:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:07:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:08:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:09:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:10:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:11:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:12:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:13:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:14:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:15:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:16:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:17:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:18:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:19:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:20:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:21:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:22:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:23:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:24:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:25:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:26:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:27:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:28:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:29:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:30:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:31:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:32:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:33:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:34:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:35:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:36:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:37:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:38:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:39:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:40:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:41:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:42:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:43:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:44:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:45:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:46:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:47:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:48:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:49:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:50:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:50:46 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:51:46 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:52:46 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:53:46 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:54:46 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:56:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:57:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:58:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 22:59:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:00:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:01:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:02:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:03:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:04:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:04:22 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 23:04:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string D:\WORK\PHP\KUMYO\system\database\DB_driver.php 1477
+ERROR - 2021-10-14 23:04:43 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '2021-10-14 23:04:43', 'sysadmin')' at line 1 - Invalid query: INSERT INTO `ky_sms` (`sms_type`, `sms_gunun`, `sms_title`, `sms_content`, `sms_status`, `crt_date`, `crt_id`) VALUES ('L', 'M', '[금요경매] 전문쇼핑몰 주문접수안내.', '\r\n                [금요경매] 주문접수가 완료되었습니다. 주문번호 : 2021101455981 \r\n                입금 계좌 및 은행 : 대구은행 : 088-08-013789  예금주 : 박민철\r\n                입금 예정일 : 김유환\r\n                입금자 성명 : 2021-10-14\r\n            ', , '2021-10-14 23:04:43', 'sysadmin')
+ERROR - 2021-10-14 23:04:50 --> Severity: 4096 --> Object of class stdClass could not be converted to string D:\WORK\PHP\KUMYO\system\database\DB_driver.php 1477
+ERROR - 2021-10-14 23:04:50 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '2021-10-14 23:04:50', 'sysadmin')' at line 1 - Invalid query: INSERT INTO `ky_sms` (`sms_type`, `sms_gunun`, `sms_title`, `sms_content`, `sms_status`, `crt_date`, `crt_id`) VALUES ('L', 'M', '[금요경매] 전문쇼핑몰 주문접수안내.', '\r\n                [금요경매] 주문접수가 완료되었습니다. 주문번호 : 2021101404209 \r\n                입금 계좌 및 은행 : 대구은행 : 088-08-013789  예금주 : 박민철\r\n                입금 예정일 : 김유환\r\n                입금자 성명 : 2021-10-14\r\n            ', , '2021-10-14 23:04:50', 'sysadmin')
+ERROR - 2021-10-14 23:05:34 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-14 23:06:34 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-14 23:07:34 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-14 23:08:34 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-14 23:09:34 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-14 23:09:41 --> Severity: Notice --> Undefined variable: userid D:\WORK\PHP\KUMYO\www\app\models\web\Shop_m.php 321
+ERROR - 2021-10-14 23:09:49 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 23:10:49 --> Severity: Notice --> Undefined variable: userid D:\WORK\PHP\KUMYO\www\app\models\web\Shop_m.php 321
+ERROR - 2021-10-14 23:11:49 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-14 23:12:07 --> Severity: Notice --> Undefined variable: userid D:\WORK\PHP\KUMYO\www\app\models\web\Shop_m.php 321
+ERROR - 2021-10-14 23:12:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 23:12:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 23:14:51 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:15:51 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:16:51 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:17:51 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:18:51 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:19:51 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:20:51 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:21:51 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:23:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:24:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:25:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:26:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:27:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:28:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:28:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 23:29:47 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:30:47 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:31:47 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:32:47 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-14 23:32:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 23:33:02 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 23:33:20 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 23:34:02 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 23:34:41 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 23:35:58 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:35:58 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:35:58 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:35:58 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:35:58 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:39:57 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:39:57 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:39:57 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:39:57 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:39:57 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:40:00 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:40:00 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:40:00 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:40:00 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:40:00 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:40:01 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:40:01 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:40:01 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:40:01 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:40:01 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:40:02 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 23:41:04 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:41:04 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:41:04 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:41:04 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:41:04 --> Severity: Notice --> Undefined offset: 5 D:\WORK\PHP\KUMYO\www\app\views\adm\dashboard\main.php 127
+ERROR - 2021-10-14 23:44:10 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 23:44:56 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 23:45:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 23:45:23 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 23:45:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-14 23:47:18 --> 404 Page Not Found: /index

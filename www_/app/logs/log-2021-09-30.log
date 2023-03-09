@@ -1,0 +1,72 @@
+ERROR - 2021-09-30 23:02:33 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:03:56 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:04:56 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:05:56 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:06:56 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:07:37 --> Severity: Notice --> Undefined variable: L_list_cnt D:\WORK\PHP\KUMYO\www\app\views\web\mypage\wish.php 39
+ERROR - 2021-09-30 23:07:37 --> Severity: Notice --> Undefined variable: page_link D:\WORK\PHP\KUMYO\www\app\views\web\mypage\wish.php 121
+ERROR - 2021-09-30 23:09:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:10:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:11:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:12:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:13:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:14:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:15:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:16:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:16:12 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:17:10 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:17:46 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:18:38 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:18:50 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:19:50 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:19:58 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:20:26 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:21:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:22:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:23:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:24:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:25:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:26:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:27:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:28:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:29:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:30:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:31:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:32:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:33:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:34:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:35:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:36:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:37:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:38:15 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:39:16 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:40:16 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:40:59 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:41:40 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:41:40 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:41:40 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:42:00 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:42:02 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:42:02 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:43:00 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:43:38 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:44:38 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:44:54 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:45:54 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:46:11 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:47:11 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:47:38 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:48:39 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:49:39 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:50:39 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:51:39 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:52:39 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:53:39 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:54:24 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:54:25 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:54:56 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:55:36 --> 404 Page Not Found: /index
+ERROR - 2021-09-30 23:56:36 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:57:37 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:58:36 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-09-30 23:59:36 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42

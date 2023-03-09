@@ -1,0 +1,408 @@
+ERROR - 2021-10-16 20:17:55 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000014686S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 20:17:55 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 20:17:55 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 20:17:55 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0020010000000010802S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 20:17:55 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 20:17:55 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 20:17:55 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0020010000000006692S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 20:17:55 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 20:17:55 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 20:17:55 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/1100000000000000073S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 20:17:55 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 20:17:55 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 20:17:56 --> 404 Page Not Found: /index
+ERROR - 2021-10-16 20:17:58 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000014686S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 20:17:58 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 20:17:58 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 20:17:58 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0020010000000010802S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 20:17:58 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 20:17:58 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 20:17:58 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0020010000000006692S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 20:17:58 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 20:17:58 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 20:17:58 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/1100000000000000073S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 20:17:58 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 20:17:58 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 20:18:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:19:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:20:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:21:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:22:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:24:00 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:25:01 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:26:02 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:27:03 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:28:04 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:29:05 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:30:06 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:31:07 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:32:08 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:33:09 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:34:10 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:35:11 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:36:12 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:37:13 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:38:14 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:39:15 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:40:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:41:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:42:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:43:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:44:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:45:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:46:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:47:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:48:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:49:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:50:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:51:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:52:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:53:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:54:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:55:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:56:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:57:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:58:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 20:59:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:00:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:01:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:02:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:03:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:04:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:05:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:06:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:07:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:08:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:09:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:10:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:11:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:12:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:13:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:14:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:15:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:16:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:17:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:18:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:19:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:20:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:21:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:22:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:23:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:24:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:25:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:26:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:27:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:28:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:29:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:30:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:31:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:32:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:33:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:34:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:35:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:36:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:37:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:38:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:39:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:40:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:41:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:42:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:43:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:44:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:45:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:46:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:47:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:48:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:49:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:50:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:51:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:52:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:53:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:54:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:55:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:56:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:57:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:58:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 21:59:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:00:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:01:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:02:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:03:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:04:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:05:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:06:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:07:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:08:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:09:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:10:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:11:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:12:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:13:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:14:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:15:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:16:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:17:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:18:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:19:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:20:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:21:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:22:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:23:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:24:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:25:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:26:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:27:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:28:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:29:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:30:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:31:17 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:32:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:33:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:34:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:35:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:36:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:37:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:38:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:39:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:40:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:41:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:42:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:43:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:44:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:45:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:46:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:47:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:48:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:49:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:50:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:51:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:52:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:53:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:54:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:55:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:56:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:57:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:58:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 22:59:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:00:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:01:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:02:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:03:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:04:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:05:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:06:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:07:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:08:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:09:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:10:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:11:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:12:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:13:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:14:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:15:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:16:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:17:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:18:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:19:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:20:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:21:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:22:16 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:23:07 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:23:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:24:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:25:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:26:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:27:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:29:00 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:29:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:30:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:31:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:32:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:33:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:35:00 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:36:01 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:37:02 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:37:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:38:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:39:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:40:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:41:59 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:43:00 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:44:01 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:45:02 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:46:03 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:47:04 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:48:05 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:49:06 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:50:08 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:51:09 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:52:10 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:53:11 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:54:12 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:55:13 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:56:14 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:57:19 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:58:01 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0020010000000009885S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:05 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000022950S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:05 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010020000000002577S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:05 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010020000000002561S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:05 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000021429S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:05 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0020010000000013284S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:05 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000014686S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:05 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000014540S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:05 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000015959S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:05 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000000323S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:05 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000000344S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:05 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000000337S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:05 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:05 --> 404 Page Not Found: /index
+ERROR - 2021-10-16 23:58:17 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010030000000007551S.53): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:17 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:17 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:17 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000021641S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:17 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:17 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:17 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000021635S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:17 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:17 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:17 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000020492S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:17 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:17 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:18 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000021642S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:18 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:18 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:18 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000017006S.09): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:18 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:18 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:18 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000020485S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:18 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:18 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:18 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000020488S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:18 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:18 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:18 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000020489S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:18 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:18 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:18 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000020490S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:18 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:18 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:18 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010020000000003378S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:18 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:18 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:18 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010030000000005109S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:58:18 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:58:18 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:00 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000079S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:01 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000022S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:01 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000014S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:01 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000035S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:01 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000038S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:01 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000127S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:01 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000080S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:01 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000082S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:01 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000083S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:01 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000086S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:01 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000087S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:01 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000057S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:01 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:01 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:12 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000089S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:12 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:12 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:12 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000090S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:12 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:12 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:12 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000059S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:12 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:12 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:12 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000036S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:12 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:12 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:12 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000099S.46): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:12 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:12 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:12 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000102S.22): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:12 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:12 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010030000000007554S.04): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:27 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010030000000007553S.02): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:27 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010030000000007556S.09): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:27 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000016312S.56): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:27 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010020000000002478S.56): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:27 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010030000000007552S.00): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:27 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010030000000007555S.06): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:27 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010030000000007559S.15): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:27 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0040010000000000195S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:27 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0030030000000000094S.21): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:27 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0040020000000000040S.JPG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:27 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> getimagesize(D:/WORK/PHP/KUMYO/_upload/old_auction_product/0010010000000017494S.jpg): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2089
+ERROR - 2021-10-16 23:59:27 --> Severity: Notice --> Undefined variable: newimg D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131
+ERROR - 2021-10-16 23:59:27 --> Severity: Warning --> imagedestroy() expects parameter 1 to be resource, null given D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2131

@@ -1,96 +1,58 @@
-<div class="row dark footer-row full-width padding-top-30">
-    <div class="row padding-bottom-33">
-        <div class="column column-1-3">
-            <ul class="contact-details-list">
-                <li class="features-phone">
-                    <label>CALL US TODAY</label>
-                    <p><a href="tel:2507257052">250 725 7052</a></p>
-                </li>
-            </ul>
-        </div>
-        <div class="column column-1-3">
-            <ul class="contact-details-list">
-                <li class="features-map">
-                    <label>OTTAWA, ONTARIO</label>
-                    <p>745 Adelaide St.</p>
-                </li>
-            </ul>
-        </div>
-        <div class="column column-1-3">
-            <ul class="contact-details-list">
-                <li class="features-wallet">
-                    <label>ESTIMATE YOUR COSTS</label>
-                    <p><a href="service_calculator.html" title="Online Service Calculator">Online Calculator</a></p>
-                </li>
-            </ul>
-        </div>
-    </div>
-</div>
-<div class="row dark-gray footer-row full-width padding-top-61 padding-bottom-36">
-    <div class="row row-4-4">
-        <div class="column column-1-4">
-            <h6>ABOUT US</h6>
-            <p class="margin-top-23">Founded in 1995 Cleanmate quickly built a reputation as one of the leading providers of residential and commercial cleaning solutions.</p>
-            <p>Our focus is to listen to our clients, understand their needs and provide the exceptional level of cleaning service.</p>
-            <div class="margin-top-37 padding-bottom-16">
-                <a class="more gray" href="about.html" title="Learn more">Learn more</a>
+<footer id="footer" class="footer-reveal bg-color-secondary border-0 mt-0">
+    <div class="container container-xl-custom pt-4 pb-3">
+        <div class="row py-5">
+            <div class="col-md-4 col-lg-4 mb-4 mb-lg-0">
+                <h4 class="font-weight-bold ls-0">주소 (Our Address)</h4>
+                <ul class="list list-unstyled mb-0">
+                    <li class="mb-1">
+                        경기도 남양주시 경춘로 732 (일패동 521-21)
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-lg-4 mb-4 mb-lg-0">
+                <h4 class="font-weight-bold ls-0">고객센터</h4>
+                <ul class="list list-unstyled mb-0">
+                    <li class="mb-1">
+                        031-559-5116 ~ 5118
+                    </li>
+                    <li class="mb-1">
+                        평일 09:00 ~ 18:00
+                    </li>
+                    <li class="mb-1">
+                        토, 일, 공휴일 휴무
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-lg-4 mb-4 mb-md-0">
+                <h4 class="font-weight-bold ls-0">회사정보</h4>
+                <ul class="list-unstyled mb-0">
+                    <li class="mb-1">
+                        <a>(주)성우환경 | 대표자: 이영미</a>
+                    </li>
+                    <li class="mb-1">
+                        <a>Email. bswoo605@naver.com</a>
+                    </li>
+                </ul>
             </div>
         </div>
-        <div class="column column-1-4">
-            <h6>OUR SERVICES</h6>
-            <ul class="list margin-top-31">
-                <li class="template-arrow-horizontal-2"><a href="service_commercial_cleaning.html" title="Commercial Cleaning">Commercial Cleaning</a></li>
-                <li class="template-arrow-horizontal-2"><a href="service_house_cleaning.html" title="House Cleaning">House Cleaning</a></li>
-                <li class="template-arrow-horizontal-2"><a href="service_move_in_out.html" title="Move In Out Service">Move In Out Service</a></li>
-                <li class="template-arrow-horizontal-2"><a href="service_post_renovation.html" title="Post Renovation">Post Renovation</a></li>
-                <li class="template-arrow-horizontal-2"><a href="service_window_cleaning.html" title="Window Cleaning">Window Cleaning</a></li>
-                <li class="template-arrow-horizontal-2"><a href="service_green_spaces_maintenance.html" title="Green Spaces Maintenance">Green Spaces Maintenance</a></li>
-                <li class="template-arrow-horizontal-2">Novum Elementum</li>
-                <li class="template-arrow-horizontal-2">Sicilium Polon</li>
-            </ul>
-        </div>
-        <div class="column column-1-4">
-            <h6>LATEST POSTS</h6>
-            <ul class="latest-post margin-top-42">
-                <li>
-                    <a href="post.html" title="Best pro tips for home cleaning">Best pro tips for home cleaning</a>
-                    <abbr title="August 25, 2017">August 25, 2017</abbr>
-                </li>
-                <li>
-                    <a href="post.html" title="Best pro tips for home cleaning">Best pro tips for home cleaning</a>
-                    <abbr title="August 24, 2017">August 24, 2017</abbr>
-                </li>
-                <li>
-                    <a href="post.html" title="Best pro tips for home cleaning">Best pro tips for home cleaning</a>
-                    <abbr title="August 23, 2017">August 23, 2017</abbr>
-                </li>
-            </ul>
-        </div>
-        <div class="column column-1-4">
-            <h6>CONTACT INFO</h6>
-            <ul class="contact-data margin-top-20">
-                <li class="template-location"><div class="value">745 Adelaide St., Ottawa, Ontario</div></li>
-                <li class="template-mobile"><div class="value"><a href="tel:2507257052">250 725 7052</a></div></li>
-                <li class="template-email"><div class="value"><a href="mailto:contact@cleanmate.com">contact@cleanmate.com</a></div></li>
-                <li class="template-clock"><div class="value">Mon-Fri: 08.00 am - 05.00 pm</div></li>
-                <li class="template-clock"><div class="value">Saturday, Sunday: closed</div></li>
-            </ul>
+    </div>
+    <div class="footer-copyright bg-color-secondary">
+        <div class="container container-xl-custom pb-4">
+            <div class="row">
+                <div class="col opacity-3">
+                    <hr class="my-0 bg-color-light opacity-1">
+                </div>
+            </div>
+            <div class="row py-4 mt-2">
+                <div class="col-lg-6 text-center text-lg-start mb-3 mb-lg-0">
+                    <a href="demo-cleaning-services.html">
+                        <img alt="Porto" src="/web/assets/img/logos/logo_big.png">
+                    </a>
+                </div>
+                <div class="col-lg-6 text-center text-lg-end">
+                    <p class="text-3 mb-0">성우환경. © 2023. All Rights Reserved</p>
+                </div>
+            </div>
         </div>
     </div>
-    <div class="row page-padding-top">
-        <ul class="social-icons align-center">
-            <li>
-                <a target="_blank" href="https://twitter.com/QuanticaLabs" class="social-twitter" title="twitter"></a>
-            </li>
-            <li>
-                <a href="https://pinterest.com/quanticalabs/" class="social-pinterest" title="pinterest"></a>
-            </li>
-            <li>
-                <a target="_blank" href="https://facebook.com/QuanticaLabs" class="social-facebook" title="facebook"></a>
-            </li>
-        </ul>
-    </div>
-    <div class="row align-center padding-top-30">
-        <span class="copyright">© Copyright 2021 <a href="https://1.envato.market/cleanmate-cleaning-company-maid-gardening-template" title="Cleanmate Template" target="_blank">Cleanmate Template</a> by <a href="https://quanticalabs.com" title="QuanticaLabs" target="_blank">QuanticaLabs</a></span>
-    </div>
-</div>
+</footer>

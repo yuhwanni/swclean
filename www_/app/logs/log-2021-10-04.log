@@ -1,0 +1,996 @@
+ERROR - 2021-10-04 00:00:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:00:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:00:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:01:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:01:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:01:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:02:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:02:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:02:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:03:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:03:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:03:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:04:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:04:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:04:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:05:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:05:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:05:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:05:10 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:05:10 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:05:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:05:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:05:14 --> Severity: Notice --> Undefined variable: seq D:\WORK\PHP\KUMYO\www\app\models\adm\Order_m.php 239
+ERROR - 2021-10-04 00:05:41 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:05:41 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:05:41 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:05:41 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:05:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:05:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:05:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:05:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:05:56 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:05:56 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:05:56 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:05:56 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:06:00 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:06:00 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:06:00 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:06:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:06:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:06:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:07:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:07:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:07:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:07:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:07:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:07:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:07:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:08:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:08:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:08:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:09:02 --> Severity: error --> Exception: Call to undefined method Delivery::fnc_sel_box() D:\WORK\PHP\KUMYO\www\app\controllers\adm\Delivery.php 87
+ERROR - 2021-10-04 00:09:02 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:09:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:09:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:09:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:09:20 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:09:20 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:09:20 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:09:20 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:09:23 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:09:23 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:09:23 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:10:02 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:10:02 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:10:02 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:10:02 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:10:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:10:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:10:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:10:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:10:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:10:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:10:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:10:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:10:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:10:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:10:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:11:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:11:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:11:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:11:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:11:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:11:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:11:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:11:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:11:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:11:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:11:17 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:11:17 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:11:17 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:11:28 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:11:28 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:11:28 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:12:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:12:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:12:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:12:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:12:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:12:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:12:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:12:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:12:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:12:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:13:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:13:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:13:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:13:10 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:13:10 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:13:10 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:13:10 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:13:18 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:13:18 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:13:18 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:13:18 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:13:52 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:13:52 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:13:52 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:13:52 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:14:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:14:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:14:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:49 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:49 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:49 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:51 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:51 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:51 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:14:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:15:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:15:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:15:05 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:05 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:05 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:15:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:16:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:16:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:16:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:16:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:16:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:16:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:16:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:17:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:17:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:17:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:18:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:18:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:18:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:19:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:19:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:19:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:19:18 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:19:18 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:19:18 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:19:18 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:19:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:19:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:19:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:19:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:20:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:20:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:20:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:21:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:21:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:21:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:21:14 --> Severity: Notice --> Undefined index: seq D:\WORK\PHP\KUMYO\www\app\models\adm\Order_m.php 172
+ERROR - 2021-10-04 00:21:14 --> Severity: Notice --> Undefined index: seq D:\WORK\PHP\KUMYO\www\app\models\adm\Order_m.php 172
+ERROR - 2021-10-04 00:21:14 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:21:14 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:21:14 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:21:14 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:21:27 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:21:27 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:21:27 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:21:27 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:21:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:21:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:21:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:21:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:22:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:22:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:22:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:25 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:25 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:25 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:39 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:39 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:39 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:42 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:42 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:42 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:45 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:45 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:45 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:22:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:23:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:23:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:23:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:23:22 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:23:23 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:23:23 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:23:23 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:23:28 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:23:28 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:23:28 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:23:28 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:24:00 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:24:01 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:24:01 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:24:01 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:24:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:24:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:24:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:24:22 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:24:22 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:24:22 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:24:22 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:25:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:25:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:25:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:25:12 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:25:12 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:25:12 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:25:12 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:25:22 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:25:22 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:25:22 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:25:23 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 00:26:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:26:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:26:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:27:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:27:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:27:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:28:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:28:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:28:03 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:28:15 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-10-04 00:28:46 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:29:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:29:46 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:30:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 00:31:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 17:24:01 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:27:21 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:27:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:36:25 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:36:29 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:36:29 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:36:29 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:36:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:36:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:36:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:36:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:37:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:37:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:37:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:37:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:42:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:42:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:42:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:42:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:42:19 --> Severity: Notice --> Undefined variable: adm_pw D:\WORK\PHP\KUMYO\www\app\controllers\adm\Order.php 184
+ERROR - 2021-10-04 17:42:19 --> Severity: Notice --> Undefined variable: d_type D:\WORK\PHP\KUMYO\www\app\models\adm\Order_m.php 266
+ERROR - 2021-10-04 17:42:19 --> Query error: Unknown column 'd_type' in 'field list' - Invalid query: 
+             update
+                ky_shop_order
+             set
+                d_type = ''
+              , content = 'd41d8cd98f00b204e9800998ecf8427e'
+             where ordernum = '2021100353791' 
+                               
+        
+ERROR - 2021-10-04 17:42:54 --> Severity: Warning --> Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) D:\WORK\PHP\KUMYO\www\app\controllers\adm\Order.php 185
+ERROR - 2021-10-04 17:42:54 --> Severity: Notice --> Undefined variable: d_type D:\WORK\PHP\KUMYO\www\app\models\adm\Order_m.php 266
+ERROR - 2021-10-04 17:42:54 --> Query error: Unknown column 'd_type' in 'field list' - Invalid query: 
+             update
+                ky_shop_order
+             set
+                d_type = ''
+              , content = 'ddd'
+             where ordernum = '2021100353791' 
+                               
+        
+ERROR - 2021-10-04 17:43:08 --> Severity: Notice --> Undefined variable: d_type D:\WORK\PHP\KUMYO\www\app\models\adm\Order_m.php 266
+ERROR - 2021-10-04 17:43:08 --> Query error: Unknown column 'd_type' in 'field list' - Invalid query: 
+             update
+                ky_shop_order
+             set
+                d_type = ''
+              , content = 'ddd'
+             where ordernum = '2021100353791' 
+                               
+        
+ERROR - 2021-10-04 17:43:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:43:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:43:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:43:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:43:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:43:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:44:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:44:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:44:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:44:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:44:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:44:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:44:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:45:12 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:45:12 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:45:12 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:45:12 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:48:09 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:48:09 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:48:09 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:48:09 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:48:12 --> Severity: Notice --> Undefined variable: content D:\WORK\PHP\KUMYO\www\app\controllers\adm\Order.php 196
+ERROR - 2021-10-04 17:49:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:49:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:49:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:49:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:50:58 --> Severity: error --> Exception: syntax error, unexpected '$args' (T_VARIABLE) D:\WORK\PHP\KUMYO\www\app\controllers\adm\Order.php 198
+ERROR - 2021-10-04 17:50:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:51:07 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:51:07 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:51:07 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:51:07 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:54:51 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:54:51 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:54:51 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:54:51 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:55:12 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:55:12 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:55:12 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:55:12 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 17:57:00 --> Severity: Notice --> Undefined variable: reulst D:\WORK\PHP\KUMYO\www\app\controllers\adm\Order.php 203
+ERROR - 2021-10-04 18:00:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:00:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:00:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:00:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:01:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:01:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:01:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:01:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:01:16 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:01:16 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:01:16 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:01:17 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:01:17 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:01:17 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:01:17 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:22:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:22:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:22:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:23:04 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:23:04 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:23:04 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:25:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:25:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:25:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:25:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:26:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:26:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:26:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:26:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:26:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:26:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:26:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:26:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:26:39 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:26:39 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:26:39 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:27:43 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:27:43 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:27:43 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:27:43 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:27:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:27:49 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:27:49 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:28:10 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:28:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:28:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:28:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:28:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:28:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:28:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:29:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:29:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:29:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:29:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:29:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:29:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:29:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:29:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:29:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:29:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:29:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:29:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:29:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:29:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:01 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:01 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:01 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:16 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:16 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:16 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:21 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:22 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:22 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:26 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:26 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:26 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:28 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:28 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:28 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:43 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:43 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:43 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:43 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:52 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:52 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:52 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:54 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:54 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:54 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:56 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:56 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:56 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:33:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:35:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:35:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:35:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:35:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:36:52 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:36:52 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:36:52 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:36:52 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:37:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:37:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:37:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:37:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:37:50 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:37:50 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:37:50 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:37:50 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:41 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:41 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:41 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:41 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:44 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:45 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:45 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:49 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:49 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:49 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:52 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:52 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:52 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:54 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:54 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:54 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:38:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:03 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:03 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:03 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:10 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:10 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:10 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:19 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:19 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:19 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:20 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:20 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:20 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:25 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:25 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:25 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:31 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:31 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:31 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:31 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:31 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:42 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:42 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:42 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:44 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:44 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:39:44 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:40:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:41:29 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:41:41 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:42:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:43:05 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:43:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:43:23 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:44:25 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:46:56 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:47:09 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:55:36 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:55:36 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:55:36 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:55:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:55:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:55:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:55:44 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:55:44 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:55:44 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:55:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:55:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:55:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:55:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:55:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:55:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:56:01 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:56:01 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:56:01 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:56:03 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:56:03 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:56:03 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:56:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:56:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:56:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 18:57:47 --> Severity: Notice --> Undefined property: CI::$order_m D:\WORK\PHP\KUMYO\www\app\third_party\MX\Controller.php 62
+ERROR - 2021-10-04 18:57:47 --> Severity: error --> Exception: Call to a member function getOrderList() on null D:\WORK\PHP\KUMYO\www\app\controllers\web\Mypage.php 1311
+ERROR - 2021-10-04 18:57:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:25:45 --> Severity: error --> Exception: Call to undefined method Mypage_m::getOrderList() D:\WORK\PHP\KUMYO\www\app\controllers\web\Mypage.php 1311
+ERROR - 2021-10-04 19:25:45 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:26:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:26:45 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:27:35 --> Severity: error --> Exception: syntax error, unexpected end of file D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_list.php 142
+ERROR - 2021-10-04 19:27:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:27:55 --> Severity: error --> Exception: syntax error, unexpected end of file D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_list.php 130
+ERROR - 2021-10-04 19:27:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:28:02 --> Severity: error --> Exception: syntax error, unexpected end of file D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_list.php 133
+ERROR - 2021-10-04 19:28:02 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:28:20 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:28:42 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:29:01 --> Severity: Notice --> Undefined variable: total_price D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_list.php 88
+ERROR - 2021-10-04 19:29:01 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:29:09 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:30:14 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:31:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:31:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:32:16 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:32:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:35:04 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:35:07 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:35:28 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:36:14 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:38:17 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:38:21 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:38:23 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:38:44 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:39:27 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:39:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:40:43 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:41:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:41:14 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:42:23 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:42:49 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:43:07 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:43:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:45:00 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:45:05 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:45:17 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:45:26 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:45:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:45:41 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:45:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:46:05 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:46:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:46:17 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:46:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:46:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:47:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:48:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:48:31 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:48:44 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:48:52 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:48:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:49:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:50:27 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:53:24 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:53:29 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:54:01 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:54:27 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:54:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:55:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:56:22 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:56:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:58:25 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:58:50 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 19:59:26 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:00:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:00:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:01:27 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:02:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:02:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:02:44 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:03:02 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:03:17 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:03:45 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:04:03 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:04:51 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:08:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:09:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderSubList D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 50
+ERROR - 2021-10-04 20:11:12 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 50
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderSubList D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 51
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 117
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 125
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 132
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 132
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 132
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 140
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 140
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 140
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 148
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 148
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 148
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 149
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 157
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 182
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 189
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 189
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 189
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 197
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 197
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 197
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 205
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 205
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 205
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 206
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 213
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 219
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 244
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined index:  D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 244
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 251
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 257
+ERROR - 2021-10-04 20:11:12 --> Severity: Notice --> Undefined variable: orderInfo D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 263
+ERROR - 2021-10-04 20:11:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:11:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:11:44 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:12:24 --> Severity: Notice --> Undefined variable: mypage_title D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 7
+ERROR - 2021-10-04 20:12:24 --> Severity: Notice --> Undefined variable: mypage_title D:\WORK\PHP\KUMYO\www\app\views\web\mypage\shop_order_view.php 13
+ERROR - 2021-10-04 20:12:25 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:12:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:13:12 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:13:24 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:13:37 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:13:42 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:14:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:15:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:16:16 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:16:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:17:17 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:18:17 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:19:17 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:20:17 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:21:17 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:22:18 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:23:19 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:24:20 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:25:21 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:26:22 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:27:23 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:28:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:29:25 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:30:26 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:31:27 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:32:28 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:33:29 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:34:30 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:35:31 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:36:32 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:37:33 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:38:34 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:39:35 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:40:36 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:41:37 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:42:38 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:43:39 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:44:40 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:45:02 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:45:22 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:45:39 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:45:41 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 42
+ERROR - 2021-10-04 20:46:17 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:46:26 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:46:31 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:46:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:47:00 --> Severity: error --> Exception: Call to undefined method Contactus::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Contactus.php 40
+ERROR - 2021-10-04 20:47:09 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:47:16 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:47:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:47:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:47:59 --> Severity: error --> Exception: Call to undefined method Contactus::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Contactus.php 40
+ERROR - 2021-10-04 20:48:21 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:48:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:48:59 --> Severity: error --> Exception: Call to undefined method Contactus::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Contactus.php 40
+ERROR - 2021-10-04 20:49:27 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:49:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:49:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:50:00 --> Severity: error --> Exception: Call to undefined method Contactus::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Contactus.php 40
+ERROR - 2021-10-04 20:50:01 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:50:59 --> Severity: error --> Exception: Call to undefined method Contactus::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Contactus.php 40
+ERROR - 2021-10-04 20:52:00 --> Severity: error --> Exception: Call to undefined method Contactus::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Contactus.php 40
+ERROR - 2021-10-04 20:52:59 --> Severity: error --> Exception: Call to undefined method Contactus::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Contactus.php 40
+ERROR - 2021-10-04 20:53:29 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:53:54 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:54:00 --> Severity: error --> Exception: Call to undefined method Contactus::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Contactus.php 40
+ERROR - 2021-10-04 20:54:09 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:54:31 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:54:37 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:54:42 --> Severity: Notice --> Undefined variable: userid D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 343
+ERROR - 2021-10-04 20:55:12 --> Severity: Notice --> Undefined variable: userid D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 343
+ERROR - 2021-10-04 20:55:36 --> Severity: Notice --> Undefined variable: userid D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 343
+ERROR - 2021-10-04 20:55:37 --> Severity: Notice --> Undefined index: sess_mem D:\WORK\PHP\KUMYO\www\app\views\web\auction\auction_regist.php 152
+ERROR - 2021-10-04 20:55:37 --> Severity: Notice --> Undefined offset: 1 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 20:55:37 --> Severity: Notice --> Undefined offset: 3 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 20:55:37 --> Severity: Notice --> Undefined offset: 1 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 20:55:37 --> Severity: Notice --> Undefined offset: 3 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 20:56:04 --> Severity: Notice --> Undefined offset: 1 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 20:56:04 --> Severity: Notice --> Undefined offset: 3 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 20:57:37 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:58:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:59:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 20:59:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:00:13 --> Severity: Notice --> Undefined variable: user_id D:\WORK\PHP\KUMYO\www\app\models\web\Mypage_m.php 1885
+ERROR - 2021-10-04 21:00:13 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user_id = ''  AND  A.wdate BETWEEN '2021-09-01 00:00:00' AND '2021-10-04 23:59:5' at line 5 - Invalid query: SELECT COUNT(A.id) as cnt FROM 
+            ky_shop_order A 
+            LEFT JOIN ky_shop_order_brand C ON(A.ordernum = C.ordernum) 
+            LEFT JOIN ky_shop_brand B ON(B.shop_seq = C.brandcode OR B.brandcode = C.brandcode)
+         WHERE  A.ordernum = C.ordernum AND 1=1 user_id = ''  AND  A.wdate BETWEEN '2021-09-01 00:00:00' AND '2021-10-04 23:59:59' GROUP BY C.ordernum
+ERROR - 2021-10-04 21:00:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:00:21 --> Severity: Notice --> Undefined variable: user_id D:\WORK\PHP\KUMYO\www\app\models\web\Mypage_m.php 1885
+ERROR - 2021-10-04 21:00:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'A.user_id = ''  AND  A.wdate BETWEEN '2021-09-01 00:00:00' AND '2021-10-04 23:59' at line 5 - Invalid query: SELECT COUNT(A.id) as cnt FROM 
+            ky_shop_order A 
+            LEFT JOIN ky_shop_order_brand C ON(A.ordernum = C.ordernum) 
+            LEFT JOIN ky_shop_brand B ON(B.shop_seq = C.brandcode OR B.brandcode = C.brandcode)
+         WHERE  A.ordernum = C.ordernum AND 1=1 A.user_id = ''  AND  A.wdate BETWEEN '2021-09-01 00:00:00' AND '2021-10-04 23:59:59' GROUP BY C.ordernum
+ERROR - 2021-10-04 21:00:21 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:00:31 --> Severity: Notice --> Undefined variable: user_id D:\WORK\PHP\KUMYO\www\app\models\web\Mypage_m.php 1885
+ERROR - 2021-10-04 21:00:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'A.user_id = ''  AND  A.wdate BETWEEN '2021-09-01 00:00:00' AND '2021-10-04 23:59' at line 5 - Invalid query: SELECT COUNT(A.id) as cnt FROM 
+            ky_shop_order A 
+            LEFT JOIN ky_shop_order_brand C ON(A.ordernum = C.ordernum) 
+            LEFT JOIN ky_shop_brand B ON(B.shop_seq = C.brandcode OR B.brandcode = C.brandcode)
+         WHERE  A.ordernum = C.ordernum AND 1=1 A.user_id = ''  AND  A.wdate BETWEEN '2021-09-01 00:00:00' AND '2021-10-04 23:59:59' GROUP BY C.ordernum
+ERROR - 2021-10-04 21:00:31 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:00:49 --> Severity: Notice --> Undefined variable: user_id D:\WORK\PHP\KUMYO\www\app\models\web\Mypage_m.php 1885
+ERROR - 2021-10-04 21:00:49 --> Query error: Unknown column 'A.user_id' in 'where clause' - Invalid query: SELECT COUNT(A.id) as cnt FROM 
+            ky_shop_order A 
+            LEFT JOIN ky_shop_order_brand C ON(A.ordernum = C.ordernum) 
+            LEFT JOIN ky_shop_brand B ON(B.shop_seq = C.brandcode OR B.brandcode = C.brandcode)
+         WHERE  A.ordernum = C.ordernum AND A.user_id = ''  AND  A.wdate BETWEEN '2021-09-01 00:00:00' AND '2021-10-04 23:59:59' GROUP BY C.ordernum
+ERROR - 2021-10-04 21:00:49 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:00:56 --> Query error: Unknown column 'A.user_id' in 'where clause' - Invalid query: SELECT COUNT(A.id) as cnt FROM 
+            ky_shop_order A 
+            LEFT JOIN ky_shop_order_brand C ON(A.ordernum = C.ordernum) 
+            LEFT JOIN ky_shop_brand B ON(B.shop_seq = C.brandcode OR B.brandcode = C.brandcode)
+         WHERE  A.ordernum = C.ordernum AND A.user_id = 'yuhwanni9896'  AND  A.wdate BETWEEN '2021-09-01 00:00:00' AND '2021-10-04 23:59:59' GROUP BY C.ordernum
+ERROR - 2021-10-04 21:00:56 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:01:02 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:03:02 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:03:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:03:22 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:04:00 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:04:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:05:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:05:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:06:11 --> Severity: Notice --> Undefined variable: userid D:\WORK\PHP\KUMYO\www\app\models\web\Mypage_m.php 1885
+ERROR - 2021-10-04 21:06:12 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:06:14 --> Severity: Notice --> Undefined variable: userid D:\WORK\PHP\KUMYO\www\app\models\web\Mypage_m.php 1885
+ERROR - 2021-10-04 21:06:17 --> Severity: Notice --> Undefined variable: userid D:\WORK\PHP\KUMYO\www\app\models\web\Mypage_m.php 1885
+ERROR - 2021-10-04 21:06:20 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:06:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:06:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:06:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:06:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:06:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:07:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:07:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:08:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:11:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:11:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:12:12 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:13:51 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:13:53 --> Severity: Notice --> Undefined variable: seq D:\WORK\PHP\KUMYO\www\app\controllers\web\Mypage.php 1369
+ERROR - 2021-10-04 21:14:16 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:14:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:16:49 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:16:49 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:24 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:36 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:36 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:36 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:36 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:37 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:37 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:37 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:17:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:18:17 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:18:59 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:19:03 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:19:03 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:19:03 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:19:04 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:19:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:19:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:19:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:19:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:19:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:19:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:21:06 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'all LIKE ('%dfaa%')' at line 1 - Invalid query: SELECT COUNT(A.auction_seq) as cnt FROM  ky_brand A INNER JOIN ky_category C ON(A.category = C.code)  WHERE  A.status != '4' and (unix_timestamp(A.edate) > 1633350066 and unix_timestamp(A.sdate) < 1633350066) and A.auction_sin = 0  AND  all LIKE ('%dfaa%')
+ERROR - 2021-10-04 21:21:29 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'all LIKE ('%dfaa%')' at line 1 - Invalid query: SELECT COUNT(A.auction_seq) as cnt FROM  ky_brand A INNER JOIN ky_category C ON(A.category = C.code)  WHERE  A.status != '4' and (unix_timestamp(A.edate) > 1633350089 and unix_timestamp(A.sdate) < 1633350089) and A.auction_sin = 0  AND  all LIKE ('%dfaa%')
+ERROR - 2021-10-04 21:23:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:24:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:25:48 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(ON.A.ordernum = BS.ordernum)
+         WHERE  A.ordernum = C.ordernum AND A.use' at line 5 - Invalid query: SELECT COUNT(A.id) as cnt FROM 
+            ky_shop_order A 
+            LEFT JOIN ky_shop_order_brand C ON(A.ordernum = C.ordernum) 
+            LEFT JOIN ky_shop_brand B ON(B.shop_seq = C.brandcode OR B.brandcode = C.brandcode)
+            LEFT JOIN ky_shop_baesong BS(ON.A.ordernum = BS.ordernum)
+         WHERE  A.ordernum = C.ordernum AND A.userid = 'yuhwanni9896'  AND  A.wdate BETWEEN '2021-10-04 00:00:00' AND '2021-10-04 23:59:59' GROUP BY C.ordernum
+ERROR - 2021-10-04 21:25:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:26:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:27:05 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:35:05 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:35:44 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:36:45 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:37:09 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:38:04 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:38:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:38:51 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:39:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:39:58 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:40:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:40:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:41:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:41:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:42:28 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:42:31 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:42:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:43:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:44:07 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:44:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:45:23 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:46:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:46:36 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:46:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:47:25 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:47:51 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:48:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:48:55 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:49:00 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:49:36 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:50:17 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:50:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:51:53 --> Severity: Notice --> Undefined offset: 1 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:51:53 --> Severity: Notice --> Undefined offset: 3 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:51:56 --> Severity: Notice --> Undefined variable: userid D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 343
+ERROR - 2021-10-04 21:52:54 --> Severity: Notice --> Undefined offset: 1 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:52:54 --> Severity: Notice --> Undefined offset: 3 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:52:54 --> Severity: Notice --> Undefined offset: 1 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:52:54 --> Severity: Notice --> Undefined offset: 3 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:52:57 --> Severity: Notice --> Undefined offset: 1 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:52:57 --> Severity: Notice --> Undefined offset: 3 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:52:57 --> Severity: Notice --> Undefined offset: 1 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:52:57 --> Severity: Notice --> Undefined offset: 3 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:52:57 --> Severity: Notice --> Undefined offset: 1 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:52:57 --> Severity: Notice --> Undefined offset: 3 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:53:57 --> Severity: Notice --> Undefined offset: 1 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:53:57 --> Severity: Notice --> Undefined offset: 3 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:53:57 --> Severity: Notice --> Undefined offset: 1 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:53:57 --> Severity: Notice --> Undefined offset: 3 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:53:57 --> Severity: Notice --> Undefined offset: 1 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:53:57 --> Severity: Notice --> Undefined offset: 3 D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 2269
+ERROR - 2021-10-04 21:58:20 --> Severity: Notice --> Undefined variable: category D:\WORK\PHP\KUMYO\www\app\views\web\mypage\wish.php 65
+ERROR - 2021-10-04 21:58:20 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:58:36 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-04 21:58:36 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:59:09 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 21:59:36 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-04 22:00:36 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-04 22:01:16 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 22:01:22 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 22:01:36 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-04 22:02:36 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-04 22:03:37 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-04 22:03:43 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 22:03:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 22:04:01 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 22:04:14 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 22:04:18 --> 404 Page Not Found: /index
+ERROR - 2021-10-04 22:04:38 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-04 22:05:39 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-04 22:06:40 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-04 22:07:41 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-04 22:08:42 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43
+ERROR - 2021-10-04 22:09:42 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 43

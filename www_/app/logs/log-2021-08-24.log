@@ -1,0 +1,96 @@
+ERROR - 2021-08-24 00:00:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:01:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:02:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:03:11 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 00:03:11 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 00:03:11 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 00:03:11 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 00:03:19 --> Severity: Notice --> Undefined variable: thumb_img D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 1548
+ERROR - 2021-08-24 00:03:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:04:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:04:59 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 00:04:59 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 00:04:59 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 00:04:59 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 00:05:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:06:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:07:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:08:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:09:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:10:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:10:56 --> Severity: error --> Exception: Too few arguments to function Func::img_file_nm(), 1 passed in D:\WORK\PHP\KUMYO\www\app\libraries\Func.php on line 1533 and exactly 2 expected D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 1778
+ERROR - 2021-08-24 00:11:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:12:23 --> Severity: Notice --> Undefined index: upload_path D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 1557
+ERROR - 2021-08-24 00:12:23 --> Severity: Warning --> getimagesize(ea67c2ed22a26c51b066cf5e7ad58260.PNG): failed to open stream: No such file or directory D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 1557
+ERROR - 2021-08-24 00:12:23 --> Severity: Notice --> Undefined index: upload_path D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 1562
+ERROR - 2021-08-24 00:12:23 --> Severity: Notice --> Undefined index: upload_path D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 1563
+ERROR - 2021-08-24 00:12:23 --> The path to the image is not correct.
+ERROR - 2021-08-24 00:12:23 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2021-08-24 00:12:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:13:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:14:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:15:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:16:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:17:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:18:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:19:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:20:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:20:57 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 00:20:57 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 00:20:57 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 00:20:57 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 00:21:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:22:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:23:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:24:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:25:23 --> Severity: Notice --> Undefined variable: ext D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 1850
+ERROR - 2021-08-24 00:25:23 --> Severity: Notice --> Undefined index: upload_path D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 1568
+ERROR - 2021-08-24 00:25:23 --> Severity: Notice --> Undefined index: upload_path D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 1569
+ERROR - 2021-08-24 00:25:23 --> The path to the image is not correct.
+ERROR - 2021-08-24 00:25:23 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2021-08-24 00:25:23 --> The path to the image is not correct.
+ERROR - 2021-08-24 00:25:23 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2021-08-24 00:25:23 --> Severity: Warning --> A non-numeric value encountered D:\WORK\PHP\KUMYO\system\libraries\Image_lib.php 1196
+ERROR - 2021-08-24 00:25:23 --> Severity: Warning --> A non-numeric value encountered D:\WORK\PHP\KUMYO\system\libraries\Image_lib.php 1206
+ERROR - 2021-08-24 00:25:23 --> Severity: Warning --> imagecopy() expects parameter 1 to be resource, boolean given D:\WORK\PHP\KUMYO\system\libraries\Image_lib.php 1223
+ERROR - 2021-08-24 00:25:23 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2021-08-24 00:25:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:26:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:27:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:28:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:29:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:30:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:30:32 --> Unable to find a font to use.
+ERROR - 2021-08-24 00:31:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:32:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:33:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:34:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:35:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 00:36:24 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 10:01:08 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:01:40 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:02:11 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:05:15 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:05:16 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:05:16 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:05:16 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:05:30 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:05:30 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:05:30 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:05:30 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:06:35 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 10:06:47 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 10:07:47 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 10:08:47 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 10:09:47 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 10:10:47 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 10:11:36 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:11:36 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:11:36 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:11:36 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:11:47 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-24 10:12:16 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:12:16 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:12:16 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:12:17 --> 404 Page Not Found: /index
+ERROR - 2021-08-24 10:12:48 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
