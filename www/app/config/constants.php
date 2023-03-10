@@ -148,10 +148,10 @@ $REQUEST_URI_ARR = explode("/", $_SERVER['REQUEST_URI']);
 define( 'LOC_TYPE', $REQUEST_URI_ARR[1]);
 
 //SITE INFO
-define( 'HEAD_TITLE', "PIXELCAST");
-define( 'HEAD_KEYWORD', "카메라, 영상, PIXELCAST");
-define( 'HEAD_DISC', "카메라, 영상, PIXELCAST");
-define( 'HEAD_AUTHOR', "카메라, 영상, PIXELCAST");
+define( 'HEAD_TITLE', "주식회사 성우환경");
+define( 'HEAD_KEYWORD', "청소용품 도소매, 학교청소, 청소 위생용역, 방역, 소독, 저수조 청소, 놀이터 모래소독 및 안전점검, 에어컨 살균, 소독");
+define( 'HEAD_DISC', "청소용품 도소매, 학교청소, 청소 위생용역, 방역, 소독, 저수조 청소, 놀이터 모래소독 및 안전점검, 에어컨 살균, 소독");
+define( 'HEAD_AUTHOR', "청소용품 도소매, 학교청소, 청소 위생용역, 방역, 소독, 저수조 청소, 놀이터 모래소독 및 안전점검, 에어컨 살균, 소독");
 
 define( 'TOP_STYLE', "A"); // A: B :
 

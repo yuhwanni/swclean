@@ -4288,3 +4288,13 @@ ERROR - 2023-03-09 14:11:24 --> 404 Page Not Found: /index
 ERROR - 2023-03-09 14:11:43 --> 404 Page Not Found: /index
 ERROR - 2023-03-09 22:12:35 --> Severity: Notice --> Undefined index:  D:\WORK\PHP\SWCLEAN\www\app\hooks\common.php 19
 ERROR - 2023-03-09 14:12:35 --> 404 Page Not Found: web/Img/demos
+ERROR - 2023-03-09 14:31:14 --> 404 Page Not Found: web/Img/demos
+ERROR - 2023-03-09 14:31:15 --> 404 Page Not Found: /index
+ERROR - 2023-03-09 14:31:47 --> 404 Page Not Found: web/Img/demos
+ERROR - 2023-03-09 14:32:31 --> 404 Page Not Found: web/Img/demos
+ERROR - 2023-03-09 14:32:32 --> 404 Page Not Found: /index
+ERROR - 2023-03-09 14:34:39 --> 404 Page Not Found: web/Img/demos
+ERROR - 2023-03-09 22:34:49 --> Severity: Notice --> Undefined index:  D:\WORK\PHP\SWCLEAN\www\app\hooks\common.php 19
+ERROR - 2023-03-09 14:34:50 --> 404 Page Not Found: web/Img/demos
+ERROR - 2023-03-09 22:35:01 --> Severity: Notice --> Undefined index:  D:\WORK\PHP\SWCLEAN\www\app\hooks\common.php 19
+ERROR - 2023-03-09 14:35:01 --> 404 Page Not Found: web/Img/demos
