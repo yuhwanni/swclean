@@ -102,5 +102,15 @@ html .pixelsystem {
     padding-left: 0.2rem;
 }
 
-.mainTxt02 { font-size: 1.60em !important; }
-.mainTxt01 { font-size: 1.70em !important; line-height: 1.2; }
+.mainTxt02 { font-size: 1.60rem !important; }
+.mainTxt01 { font-size: 1.70rem !important; line-height: 1.2; }
+
+.sub_txt01 { font-size: 1.10rem; margin-bottom: 35px; }
+.list-ordened li { font-size:1.1rem; margin-bottom: 25px }
+.list-ordened { padding-left:5px !important; }
+.business .gradient-text-color { font-size:1.2rem; }
+.business .gradient-text-color {
+    color: #093844;
+    background: linear-gradient(to bottom right, #ffffff, #728caf);
+    background-image: linear-gradient(to right, #193a85, #4f5b6c);
+}

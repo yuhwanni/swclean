@@ -4,7 +4,7 @@
  *
  * @property
  */
-class Kor extends FW_Controller
+class Sub extends FW_Controller
 {
 
     public $GP = "";
@@ -41,7 +41,7 @@ class Kor extends FW_Controller
         }
     }
 
-    function index() {
+    function vision() {
         if (is_array($this->post)) {
             foreach ($this->post as $k => $v) ${$k} = $v;
         }
@@ -49,20 +49,13 @@ class Kor extends FW_Controller
             foreach ($this->get as $k => $v) ${$k} = $v;
         }
 
-        //$this->data['ADD_SCRIPT'] = "<script src='".WEB_RES."/js/search/search_info.js'></script>";
         $this->data['main_stype'] = "";
         $this->data['JS_MODULE'] = array('');
 
-//        //메인 이미지 관리
-//        $args = array();
-//        $this->data['main_img_list'] = $this->design_m->getMainImgData($args);
-
-        $this->data['popup_data'] = $this->gita_m->getPopupShow([]);
-
-        $this->render( 'web/kor/index', $this->data, LAYOUT_HLCRF );
+        $this->render( 'web/kor/company/vision', $this->data, LAYOUT_HLCRF );
     }
 
-    function about() {
+    function greeting() {
         if (is_array($this->post)) {
             foreach ($this->post as $k => $v) ${$k} = $v;
         }
@@ -70,12 +63,74 @@ class Kor extends FW_Controller
             foreach ($this->get as $k => $v) ${$k} = $v;
         }
 
-        //$this->data['ADD_SCRIPT'] = "<script src='".WEB_RES."/js/search/search_info.js'></script>";
         $this->data['main_stype'] = "";
         $this->data['JS_MODULE'] = array('');
 
-        $this->render( 'web/kor/about/greeting', $this->data, LAYOUT_HLCRF );
+        $this->render( 'web/kor/company/greeting', $this->data, LAYOUT_HLCRF );
     }
+
+    function map() {
+        if (is_array($this->post)) {
+            foreach ($this->post as $k => $v) ${$k} = $v;
+        }
+        if (is_array($this->get)) {
+            foreach ($this->get as $k => $v) ${$k} = $v;
+        }
+
+        $this->data['main_stype'] = "";
+        $this->data['JS_MODULE'] = array('');
+
+        $this->render( 'web/kor/company/map', $this->data, LAYOUT_HLCRF );
+    }
+
+
+    function business01() {
+        if (is_array($this->post)) {
+            foreach ($this->post as $k => $v) ${$k} = $v;
+        }
+        if (is_array($this->get)) {
+            foreach ($this->get as $k => $v) ${$k} = $v;
+        }
+
+        $this->data['main_stype'] = "";
+        $this->data['JS_MODULE'] = array('');
+
+        $this->render( 'web/kor/business/business01', $this->data, LAYOUT_HLCRF );
+    }
+
+    function business02() {
+        if (is_array($this->post)) {
+            foreach ($this->post as $k => $v) ${$k} = $v;
+        }
+        if (is_array($this->get)) {
+            foreach ($this->get as $k => $v) ${$k} = $v;
+        }
+
+        $this->data['main_stype'] = "";
+        $this->data['JS_MODULE'] = array('');
+
+        $this->render( 'web/kor/business/business02', $this->data, LAYOUT_HLCRF );
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     function conditioner() {
         if (is_array($this->post)) {
@@ -89,8 +144,17 @@ class Kor extends FW_Controller
         $this->data['main_stype'] = "";
         $this->data['JS_MODULE'] = array('');
 
-        $this->render( 'web/kor/about/conditioner', $this->data, LAYOUT_HLCRF );
+        $this->render( 'web/kor/company/conditioner', $this->data, LAYOUT_HLCRF );
     }
+
+
+
+
+
+
+
+
+
 
 
 

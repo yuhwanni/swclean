@@ -87,7 +87,7 @@
                     <div class="d-flex align-items-center mb-2">
                         <span class="custom-line appear-animation" data-appear-animation="customLineAnimation" appear-animation-duration="1s"></span>
                         <div class="overflow-hidden ms-3">
-                            <h2 class="text-color-primary font-weight-semibold line-height-3 text-4 mb-0 appear-animation" data-appear-animation="maskRight" data-appear-animation-delay="500">
+                            <h2 class="text-color-primary font-weight-semibold line-height-3 text-4 mb-0 appear-animation" data-appear-animation="maskRight" data-appear-animation-delay="400">
                                 ABOUT COMPANY
                             </h2>
                         </div>
@@ -97,14 +97,14 @@
                         회사의 이념에 대해 <br>
                         <span class="text-1 d-block">회사의 이념에 대해 들어가면 될듯</span>
                     </h3>
-                    <p class="text-4 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">
+                    <p class="text-4 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">
                         성우는 어떤 회사이고 어떠한 일을 하고 있는지. 성우는 어떤 회사이고 어떠한 일을 하고 있는지. 성우는 어떤 회사이고 어떠한 일을 하고 있는지.
                         성우는 어떤 회사이고 어떠한 일을 하고 있는지. 성우는 어떤 회사이고 어떠한 일을 하고 있는지.
                     </p>
-                    <p class="pb-1 mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">
+                    <p class="pb-1 mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="550">
 
                     </p>
-                    <a href="demo-cleaning-services-about.html" class="btn btn-primary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1800">
+                    <a href="demo-cleaning-services-about.html" class="btn btn-primary btn-modern font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
                         VIEW MORE
                     </a>
                 </div>
@@ -123,12 +123,12 @@
 
                 <div class="col-sm-10 col-lg-6 offset-sm-1 ps-sm-5 ps-lg-0">
                     <div class="position-relative">
-                        <div data-plugin-float-element data-plugin-options="{'startPos': 'top', 'speed': 0.2, 'transition': true, 'transitionDuration': 1000, 'isInsideSVG': true}">
-                            <img src="/web/assets/img/main/main03.png" class="img-fluid rounded-circle custom-box-shadow-1 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1800" alt="" />
+                        <div data-plugin-float-element data-plugin-options="{'startPos': 'top', 'speed': 0.2, 'transition': true, 'transitionDuration': 500, 'isInsideSVG': true}">
+                            <img src="/web/assets/img/main/main03.png" class="img-fluid rounded-circle custom-box-shadow-1 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="600" alt="" />
                         </div>
                         <div class="position-absolute top-50pct left-50pct transform3dxy-n50" style="left: 25%;">
-                            <div data-plugin-float-element data-plugin-options="{'startPos': 'top', 'speed': 0.3, 'transition': true, 'transitionDuration': 1000, 'isInsideSVG': true}">
-                                <img src="/web/assets/img/main/main02.png" class="img-fluid rounded-circle custom-box-shadow-1 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1400" alt="" />
+                            <div data-plugin-float-element data-plugin-options="{'startPos': 'top', 'speed': 0.3, 'transition': true, 'transitionDuration': 700, 'isInsideSVG': true}">
+                                <img src="/web/assets/img/main/main02.png" class="img-fluid rounded-circle custom-box-shadow-1 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="800" alt="" />
                             </div>
                         </div>
                     </div>
@@ -145,15 +145,15 @@
                     <div class="d-flex align-items-center mb-2">
                         <span class="custom-line appear-animation" data-appear-animation="customLineAnimation" appear-animation-duration="1s"></span>
                         <div class="overflow-hidden ms-3">
-                            <h2 class="text-color-primary font-weight-semibold line-height-3 text-4 mb-0 appear-animation" data-appear-animation="maskRight" data-appear-animation-delay="1000">
+                            <h2 class="text-color-primary font-weight-semibold line-height-3 text-4 mb-0 appear-animation" data-appear-animation="maskRight" data-appear-animation-delay="100">
                                 성우 사업영역
                             </h2>
                         </div>
                     </div>
-                    <h3 class="text-color-secondary font-weight-bold text-transform-none text-8 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">
+                    <h3 class="text-color-secondary font-weight-bold text-transform-none text-8 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">
                         Out Service
                     </h3>
-                    <p class="mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400">
+                    <p class="mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">
                         성우 사업영역 문구가 들어가도 되고 안들어가면 빼도 되고 성우 사업영역 문구가 들어가도 되고 안들어가면 빼도 되고 성우 사업영역 문구가 들어가도 되고 안들어가면 빼도 되고
                     </p>
                 </div>
@@ -161,9 +161,9 @@
                     <div class="d-flex justify-content-lg-end"></div>
                 </div>
             </div>
-            <div class="row appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="2000">
+            <div class="row appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">
                 <div class="col">
-                    <div class="owl-carousel nav-outside nav-arrows-1 custom-carousel-box-shadow-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 2}, '979': {'items': 3}, '1199': {'items': 3}}, 'autoplay': false, 'autoplayTimeout': 5000, 'autoplayHoverPause': true, 'dots': false, 'nav': true, 'loop': false, 'margin': 20, 'stagePadding': '75'}">
+                    <div class="owl-carousel nav-outside nav-arrows-1 custom-carousel-box-shadow-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 2}, '979': {'items': 3}, '1199': {'items': 3}}, 'autoplay': false, 'autoplayTimeout': 5000, 'autoplayHoverPause': true, 'dots': false, 'nav': true, 'loop': false, 'margin': 20, 'stagePadding': '75'}">
                         <div>
                             <a href="demo-cleaning-services-services-detail.html" class="text-decoration-none">
                                 <div class="card custom-card-style-1">

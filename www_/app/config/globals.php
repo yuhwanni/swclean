@@ -230,9 +230,9 @@ array_push($config['SITE_MENU']['eng'],
 );
 
 //국문메뉴
-$config['SITE_MENU']['kor'] = [];
+$config['SITE_MENU']['Main'] = [];
 
-array_push($config['SITE_MENU']['kor'],
+array_push($config['SITE_MENU']['Main'],
     [
         'title' => '홈',
         'name' => '홈', 'en_name' => '', "icon" => "icon-package", "href" => "/web/kor", "folder" => "",
@@ -240,21 +240,21 @@ array_push($config['SITE_MENU']['kor'],
 );
 
 
-array_push($config['SITE_MENU']['kor'],
+array_push($config['SITE_MENU']['Main'],
     [
         'title' => '제품',
         'name' => '제품', 'en_name' => '', "icon" => "icon-package", "href" => "/web/kor/product", "folder" => "product",
     ]
 );
 
-array_push($config['SITE_MENU']['kor'],
+array_push($config['SITE_MENU']['Main'],
     [
         'title' => '스포츠',
         'name' => '스포츠', 'en_name' => '', "icon" => "icon-package", "href" => "/web/kor/sports", "folder" => "sports",
     ]
 );
 
-array_push($config['SITE_MENU']['kor'],
+array_push($config['SITE_MENU']['Main'],
     [
         'title' => 'PIXELSCOPE',
         'name' => 'PIXELSCOPE', 'en_name' => '', "icon" => "icon-package", "href" => "/web/kor/pixelscope", "folder" => "pixelscope",
@@ -262,14 +262,14 @@ array_push($config['SITE_MENU']['kor'],
 );
 
 
-array_push($config['SITE_MENU']['kor'],
+array_push($config['SITE_MENU']['Main'],
     [
         'title' => '뉴스',
         'name' => '뉴스', 'en_name' => '', "icon" => "icon-package", "href" => "/web/kor/news", "folder" => "news",
     ]
 );
 
-array_push($config['SITE_MENU']['kor'],
+array_push($config['SITE_MENU']['Main'],
     [
         'title' => '문의',
         'name' => '문의', 'en_name' => '', "icon" => "icon-package", "href" => "/web/kor/contact", "folder" => "contact",

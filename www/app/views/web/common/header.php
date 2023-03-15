@@ -39,25 +39,43 @@
                                     <ul class="nav nav-pills" id="mainNav">
                                         <li><a href="/" class="nav-link active">Home</a></li>
                                         <li class="dropdown">
-                                            <a href="demo-auto-services-services.html" class="nav-link dropdown-toggle">회사소개</a>
+                                            <a href="/web/sub/vision" class="nav-link dropdown-toggle">회사소개</a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="/web/kor/about/" class="dropdown-item">인사말</a></li>
-                                                <li><a href="/web/kor/about/" class="dropdown-item">사회적기업이란</a></li>
-                                                <li><a href="/web/kor/about/" class="dropdown-item">찾아오시는길</a></li>
+                                                <li><a href="/web/sub/vision" class="dropdown-item">비전</a></li>
+                                                <li><a href="/web/sub/greeting" class="dropdown-item">인사말</a></li>
+                                                <li><a href="/web/sub/map" class="dropdown-item">오시는길</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown">
-                                            <a href="demo-auto-services-services.html" class="nav-link dropdown-toggle">사업안내</a>
+                                            <a href="/web/sub/business" class="nav-link dropdown-toggle">사업안내</a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">건물위생관리</a></li>
-                                               <li><a href="/web/kor/conditioner" class="dropdown-item">에어컨청소소</a></li>
-                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">Suspension Repair</a></li>
-                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">Transmission Repair</a></li>
-                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">A/C Repair</a></li>
+                                                <li><a href="/web/sub/business01" class="dropdown-item">사업안내</a></li>
+                                                <li><a href="/web/sub/business02" class="dropdown-item">건물위생관리</a></li>
+                                                <li><a href="/web/kor/conditioner" class="dropdown-item">학교청소</a></li>
+                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">후드·닥트 청소</a></li>
+                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">방역소독</a></li>
+                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">저수조청소</a></li>
+                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">화장실·하수도 배관청소</a></li>
+                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">에어컨 청소</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="demo-auto-services-products.html" class="nav-link">청소용품</a></li>
-                                        <li><a href="demo-auto-services-blog.html" class="nav-link">온라인문의</a></li>
+                                        <li class="dropdown">
+                                            <a href="demo-auto-services-services.html" class="nav-link dropdown-toggle">청소용품</a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">청소장비</a></li>
+                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">청소용품</a></li>
+                                                <li><a href="/web/kor/conditioner" class="dropdown-item">청소약품</a></li>
+                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">친환경제품</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a href="demo-auto-services-services.html" class="nav-link dropdown-toggle">커뮤니티</a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">공지사항</a></li>
+                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">사진게시판</a></li>
+                                                <li><a href="/web/kor/conditioner" class="dropdown-item">FAQ</a></li>
+                                            </ul>
+                                        </li>
                                         <li><a href="demo-auto-services-appointment.html" class="nav-link">쇼핑몰</a></li>
                                     </ul>
                                 </nav>
