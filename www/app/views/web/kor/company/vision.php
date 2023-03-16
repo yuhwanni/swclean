@@ -68,6 +68,54 @@
                         </p>
                     </div>
                 </div>
+
+                <div class="row justify-content-center" style="padding:40px;">
+                    <div class="col-sm-10 col-md-7 col-lg-3 mb-4 mb-lg-0">
+                        <div class="featured-boxes featured-boxes-modern-style-2 featured-boxes-modern-style-2-hover-only featured-boxes-modern-style-primary my-4">
+                            <div class="featured-box">
+                                <div class="box-content px-lg-4 px-xl-5 py-lg-5">
+                                    <i class="icon-featured far fa-heart text-color-primary"></i>
+                                    <h2 class="font-weight-normal text-5">지속가능한 <strong class="font-weight-extra-bold">일자리제공</strong></h2>
+                                    <p class="mb-0">취약계층을 노동시장으로 통합<br>보람되고 좋은 일자리 확대</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-10 col-md-7 col-lg-3 mb-4 mb-lg-0">
+                        <div class="featured-boxes featured-boxes-modern-style-2 featured-boxes-modern-style-2-hover-only featured-boxes-modern-style-primary my-4">
+                            <div class="featured-box">
+                                <div class="box-content px-lg-4 px-xl-5 py-lg-5">
+                                    <i class="icon-featured far fa-comments text-color-primary"></i>
+                                    <h2 class="font-weight-normal text-5">지역사회 <strong class="font-weight-extra-bold">활성화</strong></h2>
+                                    <p class="mb-0">지역사회 통합<br>사회적토자확충을 통한 지역경제 발전전</p>
+                               </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-10 col-md-7 col-lg-3 mb-4 mb-lg-0">
+                        <div class="featured-boxes featured-boxes-modern-style-2 featured-boxes-modern-style-2-hover-only featured-boxes-modern-style-primary my-4">
+                            <div class="featured-box">
+                                <div class="box-content px-lg-4 px-xl-5 py-lg-5">
+                                    <i class="icon-featured far fa-file-alt text-color-primary"></i>
+                                    <h2 class="font-weight-normal text-5">사회서비스 <strong class="font-weight-extra-bold">확충</strong></h2>
+                                    <p class="mb-0">새로운 공공서비스 수요 충족<br>공공서비스 혁신</p>                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-10 col-md-7 col-lg-3 mb-4 mb-lg-0">
+                        <div class="featured-boxes featured-boxes-modern-style-2 featured-boxes-modern-style-2-hover-only featured-boxes-modern-style-primary my-4">
+                            <div class="featured-box">
+                                <div class="box-content px-lg-4 px-xl-5 py-lg-5">
+                                    <i class="icon-featured far fa-star text-color-primary"></i>
+                                    <h2 class="font-weight-normal text-5"><strong class="font-weight-extra-bold">윤리적</strong> 시장 확산</h2>
+                                    <p class="mb-0">기업의 사회공헌과 윤리적 경영문화 확산<br>착한 소비 문화 조성</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
         <div class="shape-divider shape-divider-bottom" style="height: 260px;">
@@ -86,9 +134,6 @@
     </section>
 
     <div id="" class="container py-2">
-
-
-
 
 
         <div class="row">

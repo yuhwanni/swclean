@@ -114,3 +114,14 @@ html .pixelsystem {
     background: linear-gradient(to bottom right, #ffffff, #728caf);
     background-image: linear-gradient(to right, #193a85, #4f5b6c);
 }
+
+.thumb-info .thumb-info-title {
+    padding: 13px 21px 16px;
+}
+
+.portfolio-item { border:1px solid #f4f4f4; }
+
+.breadcrumb {
+    font-size: 18px;
+}
+.product_menu a { font-size:16px !important; }

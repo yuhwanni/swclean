@@ -16,10 +16,13 @@
         </div>
     </section>
 
-    <div id="" class="container py-2">
-
-
-        <div class="row">
+    <section class="section section-height-5 section-with-shape-divider border-0 my-5 lazyloaded">
+        <div class="shape-divider shape-divider-reverse-x" style="height: 120px;">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2000 120" preserveAspectRatio="xMinYMin">
+                <polygon fill="#FFF" points="-11,2 693,112 2019,6 2019,135 -11,135 "></polygon>
+            </svg>
+        </div>
+        <div class="spacer py-5" style="padding:0px 90px 0px 90px !important;">
             <div class="col">
                 <h4>
                     인사말
@@ -37,6 +40,13 @@
                 </h4>
                 <hr>
             </div>
+
         </div>
-    </div>
+        <div class="shape-divider shape-divider-bottom shape-divider-reverse-y" style="height: 120px;">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2000 120" preserveAspectRatio="xMinYMin">
+                <polygon fill="#FFF" points="-11,2 693,112 2019,6 2019,135 -11,135 "></polygon>
+            </svg>
+        </div>
+    </section>
+
 </div>

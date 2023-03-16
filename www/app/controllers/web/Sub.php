@@ -112,8 +112,103 @@ class Sub extends FW_Controller
         $this->render( 'web/kor/business/business02', $this->data, LAYOUT_HLCRF );
     }
 
+    function business03() {
+        if (is_array($this->post)) {
+            foreach ($this->post as $k => $v) ${$k} = $v;
+        }
+        if (is_array($this->get)) {
+            foreach ($this->get as $k => $v) ${$k} = $v;
+        }
 
+        $this->data['main_stype'] = "";
+        $this->data['JS_MODULE'] = array('');
 
+        $this->render( 'web/kor/business/business03', $this->data, LAYOUT_HLCRF );
+    }
+
+    function business04() {
+        if (is_array($this->post)) {
+            foreach ($this->post as $k => $v) ${$k} = $v;
+        }
+        if (is_array($this->get)) {
+            foreach ($this->get as $k => $v) ${$k} = $v;
+        }
+
+        $this->data['main_stype'] = "";
+        $this->data['JS_MODULE'] = array('');
+
+        $this->render( 'web/kor/business/business04', $this->data, LAYOUT_HLCRF );
+    }
+
+    function business05() {
+        if (is_array($this->post)) {
+            foreach ($this->post as $k => $v) ${$k} = $v;
+        }
+        if (is_array($this->get)) {
+            foreach ($this->get as $k => $v) ${$k} = $v;
+        }
+
+        $this->data['main_stype'] = "";
+        $this->data['JS_MODULE'] = array('');
+
+        $this->render( 'web/kor/business/business05', $this->data, LAYOUT_HLCRF );
+    }
+
+    function business06() {
+        if (is_array($this->post)) {
+            foreach ($this->post as $k => $v) ${$k} = $v;
+        }
+        if (is_array($this->get)) {
+            foreach ($this->get as $k => $v) ${$k} = $v;
+        }
+
+        $this->data['main_stype'] = "";
+        $this->data['JS_MODULE'] = array('');
+
+        $this->render( 'web/kor/business/business06', $this->data, LAYOUT_HLCRF );
+    }
+
+    function business07() {
+        if (is_array($this->post)) {
+            foreach ($this->post as $k => $v) ${$k} = $v;
+        }
+        if (is_array($this->get)) {
+            foreach ($this->get as $k => $v) ${$k} = $v;
+        }
+
+        $this->data['main_stype'] = "";
+        $this->data['JS_MODULE'] = array('');
+
+        $this->render( 'web/kor/business/business07', $this->data, LAYOUT_HLCRF );
+    }
+
+    function business08() {
+        if (is_array($this->post)) {
+            foreach ($this->post as $k => $v) ${$k} = $v;
+        }
+        if (is_array($this->get)) {
+            foreach ($this->get as $k => $v) ${$k} = $v;
+        }
+
+        $this->data['main_stype'] = "";
+        $this->data['JS_MODULE'] = array('');
+
+        $this->render( 'web/kor/business/business08', $this->data, LAYOUT_HLCRF );
+    }
+
+    function product01() {
+        if (is_array($this->post)) {
+            foreach ($this->post as $k => $v) ${$k} = $v;
+        }
+        if (is_array($this->get)) {
+            foreach ($this->get as $k => $v) ${$k} = $v;
+        }
+
+        $this->data['main_stype'] = "";
+        $this->data['JS_MODULE'] = array('');
+
+        $this->render( 'web/kor/cleaner/product01', $this->data, LAYOUT_HLCRF );
+    }
 
 
 

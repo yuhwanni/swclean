@@ -37,7 +37,7 @@
                             <div class="header-nav-main header-nav-main-arrows header-nav-main-dropdown-no-borders header-nav-main-effect-3 header-nav-main-sub-effect-1">
                                 <nav class="collapse">
                                     <ul class="nav nav-pills" id="mainNav">
-                                        <li><a href="/" class="nav-link active">Home</a></li>
+                                        <li><a href="/" class="nav-link">Home</a></li>
                                         <li class="dropdown">
                                             <a href="/web/sub/vision" class="nav-link dropdown-toggle">회사소개</a>
                                             <ul class="dropdown-menu">
@@ -51,18 +51,18 @@
                                             <ul class="dropdown-menu">
                                                 <li><a href="/web/sub/business01" class="dropdown-item">사업안내</a></li>
                                                 <li><a href="/web/sub/business02" class="dropdown-item">건물위생관리</a></li>
-                                                <li><a href="/web/kor/conditioner" class="dropdown-item">학교청소</a></li>
-                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">후드·닥트 청소</a></li>
-                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">방역소독</a></li>
-                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">저수조청소</a></li>
-                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">화장실·하수도 배관청소</a></li>
-                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">에어컨 청소</a></li>
+                                                <li><a href="/web/sub/business03" class="dropdown-item">학교청소</a></li>
+                                                <li><a href="/web/sub/business04" class="dropdown-item">후드·닥트 청소</a></li>
+                                                <li><a href="/web/sub/business05" class="dropdown-item">방역소독</a></li>
+                                                <li><a href="/web/sub/business06" class="dropdown-item">저수조청소</a></li>
+                                                <li><a href="/web/sub/business07" class="dropdown-item">화장실·하수도 배관청소</a></li>
+                                                <li><a href="/web/sub/business08" class="dropdown-item">에어컨 청소</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown">
-                                            <a href="demo-auto-services-services.html" class="nav-link dropdown-toggle">청소용품</a>
+                                            <a href="/web/sub/product01" class="nav-link dropdown-toggle">청소용품</a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">청소장비</a></li>
+                                                <li><a href="/web/sub/product01" class="dropdown-item">청소장비</a></li>
                                                 <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">청소용품</a></li>
                                                 <li><a href="/web/kor/conditioner" class="dropdown-item">청소약품</a></li>
                                                 <li><a href="demo-auto-services-services-detail.html" class="dropdown-item">친환경제품</a></li>
