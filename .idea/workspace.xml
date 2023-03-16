@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="20ce6d2b-0d4a-48d8-834a-94ef71bb1b68" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/www/app/logs/log-2023-03-08.log" beforeDir="false" afterPath="$PROJECT_DIR$/www/app/logs/log-2023-03-08.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/app/views/web/kor/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/app/views/web/kor/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/demo-startup-agency.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/tttt.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/www/vendor/composer/" />
     <ignored path="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/" />
@@ -19,17 +16,7 @@
     <pharConfigPath>$PROJECT_DIR$/www/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/app/views/web/kor/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="814">
-              <caret line="46" column="55" selection-start-line="46" selection-start-column="55" selection-end-line="46" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,8 +35,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="762" />
-    <option name="y" value="55" />
+    <option name="x" value="477" />
+    <option name="y" value="210" />
     <option name="width" value="1737" />
     <option name="height" value="1145" />
   </component>
@@ -58,6 +45,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,7 +92,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -143,16 +130,17 @@
       <updated>1678272841863</updated>
       <workItem from="1678272842990" duration="5000" />
       <workItem from="1678277198424" duration="725000" />
+      <workItem from="1678407950015" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="730000" />
+    <option name="totallyTimeSpent" value="754000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="55" width="1737" height="1145" extended-state="0" />
+    <frame x="477" y="210" width="1737" height="1145" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24985093" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25283244" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
