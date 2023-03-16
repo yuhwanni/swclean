@@ -16,7 +16,7 @@ class _Common
 
         //상단메뉴
         if($CI->uri->segment(1) != 'adm') {
-            define( 'TOP_MENU', $this->GP['SITE_MENU'][$CI->uri->segment(2)]);
+            //define( 'TOP_MENU', $this->GP['SITE_MENU'][$CI->uri->segment(2)]);
         }
 
     }

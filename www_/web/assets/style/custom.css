@@ -1,0 +1,15 @@
+
+
+.sf-menu li a {
+    font-size : 1.0rem !important;;
+
+}
+
+.sf-menu li.selected a {
+    font-size : 1.1rem !important;;
+
+}
+
+.contact-details li {
+    font-size : 0.9rem;
+}

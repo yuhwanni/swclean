@@ -59,9 +59,14 @@ class Auth extends FW_Controller {
                 $args['adm_id'] 	= $adm_id;
                 $rst = $this -> auth_m -> getAdmLoginChk($args);
 
+                if(empty($rst)) {
+                    $rst = array('rst' => 'E1', 'msg' => '아이디 혹은 패스워드가 틀립니다.', 'url' => '/');
+                    die(json_encode($rst));
+                }
+
                 $input_pw = hash("sha256", $adm_pw);
                 $chk_pw	= $rst['adm_pw'];
-                
+
                 if($input_pw == $chk_pw) {
                     $_SESSION['sess_adm']['sess_idx'] = $rst['adm_idx'];
                     $_SESSION['sess_adm']['sess_id'] = $rst['adm_id'];

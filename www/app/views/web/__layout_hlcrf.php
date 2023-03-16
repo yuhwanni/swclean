@@ -1,1389 +1,863 @@
+
 <!DOCTYPE html>
 <html>
 <head>
-    <title>CleanMate - Cleaning Company Maid Gardening Template</title>
-    <!--meta-->
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.2" />
-    <meta name="format-detection" content="telephone=no" />
-    <meta name="keywords" content="Clean, Cleaning, Maid, Laundry, Car Cleaning, Gardening, Janitorial, Move In Out, Window Cleaning" />
-    <meta name="description" content="Responsive Cleaning Company Maid Gardening Template" />
-    <!--slider revolution-->
-    <link rel="stylesheet" type="text/css" href="/web/assets/rs-plugin/css/settings.css">
-    <!--style-->
-    <link href='//fonts.googleapis.com/css?family=Raleway:300,400,500&amp;subset=latin-ext' rel='stylesheet' type='text/css'>
-    <link href='//fonts.googleapis.com/css?family=Lato:300,400,700,900&amp;subset=latin-ext' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="/web/assets/style/reset.css">
-    <link rel="stylesheet" type="text/css" href="/web/assets/style/superfish.css">
-    <link rel="stylesheet" type="text/css" href="/web/assets/style/prettyPhoto.css">
-    <link rel="stylesheet" type="text/css" href="/web/assets/style/jquery.qtip.css">
-    <link rel="stylesheet" type="text/css" href="/web/assets/style/style.css">
-    <link rel="stylesheet" type="text/css" href="/web/assets/style/animations.css">
-    <link rel="stylesheet" type="text/css" href="/web/assets/style/responsive.css">
-    <link rel="stylesheet" type="text/css" href="/web/assets/style/odometer-theme-default.css">
-    <!--fonts-->
-    <link rel="stylesheet" type="text/css" href="/web/assets/fonts/features/style.css">
-    <link rel="stylesheet" type="text/css" href="/web/assets/fonts/template/style.css">
-    <link rel="stylesheet" type="text/css" href="/web/assets/fonts/social/style.css">
-    <link rel="shortcut icon" href="/web/assets/images/favicon.ico">
+    <!-- Basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Porto - Responsive HTML5 Template</title>
+    <meta name="keywords" content="HTML5 Template" />
+    <meta name="description" content="Porto - Responsive HTML5 Template">
+    <meta name="author" content="okler.net">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+    <!-- Web Fonts  -->
+    <link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap" rel="stylesheet" type="text/css">
+    <!-- Vendor CSS -->
+    <link rel="stylesheet" href="/web/vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/web/vendor/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="/web/vendor/animate/animate.compat.css">
+    <link rel="stylesheet" href="/web/vendor/simple-line-icons/css/simple-line-icons.min.css">
+    <link rel="stylesheet" href="/web/vendor/owl.carousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="/web/vendor/owl.carousel/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="/web/vendor/magnific-popup/magnific-popup.min.css">
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="/web/assets/css/theme.css">
+    <link rel="stylesheet" href="/web/assets/css/theme-elements.css">
+    <link rel="stylesheet" href="/web/assets/css/theme-blog.css">
+    <link rel="stylesheet" href="/web/assets/css/theme-shop.css">
+
+    <!-- Skin CSS -->
+    <link id="skinCSS" rel="stylesheet" href="/web/assets/css/skins/default.css">
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="/web/assets/css/custom.css">
+    <!-- Head Libs -->
+    <script src="/web/vendor/modernizr/modernizr.min.js"></script>
+
 </head>
-<body>
-<div class="site-container">
-    <div class="transparent-header-container height-auto">
-        <div class="header-top-bar-container clearfix">
-            <div class="header-top-bar">
-                <ul class="contact-details clearfix">
-                    <li class="template-location">
-                        745 Adelaide Street, Ottawa
-                    </li>
-                    <li class="template-mobile">
-                        <a href="tel:2507257052">250 725 7052</a>
-                    </li>
-                    <li class="template-clock">
-                        08.00 am - 05.00 pm
-                    </li>
-                </ul>
-                <ul class="social-icons">
-                    <li class="show-on-mobiles">
-                        <a class="template-search" href="#" title="Search"></a>
-                        <form class="search">
-                            <input type="text" name="s" placeholder="Type and hit enter..." value="Type and hit enter..." class="search-input hint">
-                            <fieldset class="search-submit-container">
-                                <span class="template-search"></span>
-                                <input type="submit" class="search-submit" value="">
-                            </fieldset>
-                            <input type="hidden" name="page" value="search">
-                        </form>
-                    </li>
-                    <li class="show-on-mobiles">
-                        <a href="#" class="template-cart"><span class="cart-items-number">2<span class="cart-items-number-arrow"></span></span></a>
-                    </li>
-                    <li>
-                        <a target="_blank" href="https://facebook.com/QuanticaLabs" class="social-facebook" title="facebook"></a>
-                    </li>
-                    <li>
-                        <a target="_blank" href="https://twitter.com/QuanticaLabs" class="social-twitter" title="twitter"></a>
-                    </li>
-                    <li>
-                        <a href="https://pinterest.com/quanticalabs/" class="social-pinterest" title="pinterest"></a>
-                    </li>
-                </ul>
-            </div>
-            <a href="#" class="header-toggle template-arrow-vertical-3"></a>
-        </div>
-        <div class="header-container sticky">
-            <div class="header clearfix">
-                <div class="menu-container first-menu clearfix">
-                    <nav>
-                        <ul class="sf-menu">
-                            <li class="selected">
-                                <a href="home.html" title="Home">
-                                    HOME
+<body id="body" class="one-page alternative-font-5" data-plugin-scroll-spy data-plugin-options="{'target': '#header'}">
+<div class="body">
+    <header id="header" class="header-transparent header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': false, 'stickyChangeLogo': true, 'stickyStartAt': 30, 'stickyHeaderContainerHeight': 70}">
+        <div class="header-body border-top-0 bg-dark box-shadow-none">
+            <div class="header-container container">
+                <div class="header-row">
+                    <div class="header-column">
+                        <div class="header-row">
+                            <div class="header-logo">
+                                <a href="index.html">
+                                    <img alt="Porto" width="82" height="40" src="img/logo-default-slim-dark-small.png">
                                 </a>
-                                <ul>
-                                    <li class="selected">
-                                        <a href="home.html" title="Home Style 1">
-                                            Home Style 1
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="home_2.html" title="Home Style 2">
-                                            Home Style 2
-                                        </a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="about.html" title="Pages">
-                                    PAGES
-                                </a>
-                                <ul>
-                                    <li>
-                                        <a href="about.html" title="About Us Style 1">
-                                            About Us Style 1
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="about_2.html" title="About Us Style 2">
-                                            About Us Style 2
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="services.html" title="Services Style 1">
-                                            Services Style 1
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="services_2.html" title="Services Style 2">
-                                            Services Style 2
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="service_house_cleaning.html" title="Single Service">
-                                            Single Service
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="projects.html" title="Projects">
-                                            Projects
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="project_apartment_cleaning.html" title="Single Project">
-                                            Single Project
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="team.html" title="Our Team">
-                                            Our Team
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="team_celevic_parkhill.html" title="Single Team Member">
-                                            Single Team Member
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="testimonials.html" title="Testimonials">
-                                            Testimonials
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="cleaning_checklist.html" title="Cleaning Checklist">
-                                            Cleaning Checklist
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="404.html" title="404 Not Found">
-                                            404 Not Found
-                                        </a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="service_calculator.html" title="Calculator">
-                                    CALCULATOR
-                                </a>
-                            </li>
-                            <li>
-                                <a href="services.html" title="Services">
-                                    SERVICES
-                                </a>
-                                <ul>
-                                    <li>
-                                        <a href="service_house_cleaning.html" title="House Cleaning">
-                                            House Cleaning
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="service_post_renovation.html" title="Post Renovation">
-                                            Post Renovation
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="service_green_spaces_maintenance.html" title="Green Spaces Maintenance">
-                                            Green Spaces Maintenance
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="service_move_in_out.html" title="Move In Out Service">
-                                            Move In Out Service
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="service_commercial_cleaning.html" title="Commercial Cleaning">
-                                            Commercial Cleaning
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="service_window_cleaning.html" title="Window Cleaning">
-                                            Window Cleaning
-                                        </a>
-                                    </li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </nav>
-                    <div class="mobile-menu-container">
-                        <nav>
-                            <ul class="mobile-menu collapsible-mobile-submenus">
-                                <li><a class="template-arrow-vertical-3" href="#">&nbsp;</a></li>
-                                <li class="selected">
-                                    <a href="home.html" title="Home">
-                                        HOME
-                                    </a>
-                                    <a href="#" class="template-arrow-menu"></a>
-                                    <ul>
-                                        <li class="selected">
-                                            <a href="home.html" title="Home Style 1">
-                                                Home Style 1
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="home_2.html" title="Home Style 2">
-                                                Home Style 2
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="about.html" title="Pages">
-                                        PAGES
-                                    </a>
-                                    <a href="#" class="template-arrow-menu"></a>
-                                    <ul>
-                                        <li>
-                                            <a href="about.html" title="About Us Style 1">
-                                                About Us Style 1
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="about_2.html" title="About Us Style 2">
-                                                About Us Style 2
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="services.html" title="Services Style 1">
-                                                Services Style 1
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="services_2.html" title="Services Style 2">
-                                                Services Style 2
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="service_house_cleaning.html" title="Single Service">
-                                                Single Service
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="projects.html" title="Projects">
-                                                Projects
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="project_apartment_cleaning.html" title="Single Project">
-                                                Single Project
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="team.html" title="Our Team">
-                                                Our Team
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="team_celevic_parkhill.html" title="Single Team Member">
-                                                Single Team Member
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="testimonials.html" title="Testimonials">
-                                                Testimonials
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="cleaning_checklist.html" title="Cleaning Checklist">
-                                                Cleaning Checklist
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="404.html" title="404 Not Found">
-                                                404 Not Found
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="service_calculator.html" title="Calculator">
-                                        CALCULATOR
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="services.html" title="Services">
-                                        SERVICES
-                                    </a>
-                                    <a href="#" class="template-arrow-menu"></a>
-                                    <ul>
-                                        <li>
-                                            <a href="service_house_cleaning.html" title="House Cleaning">
-                                                House Cleaning
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="service_post_renovation.html" title="Post Renovation">
-                                                Post Renovation
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="service_green_spaces_maintenance.html" title="Green Spaces Maintenance">
-                                                Green Spaces Maintenance
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="service_move_in_out.html" title="Move In Out Service">
-                                                Move In Out Service
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="service_commercial_cleaning.html" title="Commercial Cleaning">
-                                                Commercial Cleaning
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="service_window_cleaning.html" title="Window Cleaning">
-                                                Window Cleaning
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="projects.html" title="Projects">
-                                        PROJECTS
-                                    </a>
-                                    <a href="#" class="template-arrow-menu"></a>
-                                    <ul>
-                                        <li>
-                                            <a href="project_apartment_cleaning.html" title="Apartment Cleaning">
-                                                Apartment Cleaning
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="project_garden_maintenance.html" title="Garden Maintenance">
-                                                Garden Maintenance
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="project_move_in_out.html" title="Move In Out">
-                                                Move In Out
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="project_after_renovation_cleaning.html" title="After Renovation Cleaning">
-                                                After Renovation Cleaning
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="project_house_cleaning.html" title="House Cleaning">
-                                                House Cleaning
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="project_gutter_cleaning.html" title="Gutter Cleaning">
-                                                Gutter Cleaning
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="blog.html" title="Blog">
-                                        BLOG
-                                    </a>
-                                    <a href="#" class="template-arrow-menu"></a>
-                                    <ul>
-                                        <li>
-                                            <a href="blog.html" title="Blog">
-                                                Blog
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="blog_small_image.html" title="Blog Small Image">
-                                                Blog Small Image
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="blog_2_columns.html" title="Blog 2 Columns">
-                                                Blog 2 Columns
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="blog_left_sidebar.html" title="Blog Left Sidebar">
-                                                Blog Left Sidebar
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="post.html" title="Single Post">
-                                                Single Post
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="search.html?s=ipsum" title="Search Template">
-                                                Search Template
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="contact.html" title="Contact">
-                                        CONTACT
-                                    </a>
-                                    <a href="#" class="template-arrow-menu"></a>
-                                    <ul>
-                                        <li>
-                                            <a href="contact.html" title="Contact Style 1">
-                                                Contact Style 1
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="contact_2.html" title="Contact Style 2">
-                                                Contact Style 2
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="contact_3.html" title="Contact Style 3">
-                                                Contact Style 3
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </nav>
+                            </div>
+                        </div>
                     </div>
-                </div>
-                <div class="logo">
-                    <h1>
-                        <a href="home.html" title="CleanMate">
-                            <img src="/web/assets/images/logo.png" srcset="/web/assets/images/logo_retina.png 2x" class="secondary-logo" alt="logo">
-                            <img src="/web/assets/images/logo_transparent.png" srcset="/web/assets/images/logo_transparent_retina.png 2x" class="primary-logo" alt="logo">
-                            <span class="logo-text">CLEANMATE</span>
-                        </a>
-                    </h1>
-                    <div class="logo-clone">
-                        <h1>
-                            <a href="home.html" title="CleanMate">
-                                <img src="/web/assets/images/logo.png" srcset="/web/assets/images/logo_retina.png 2x" class="secondary-logo" alt="logo">
-                                <img src="/web/assets/images/logo_transparent.png" srcset="/web/assets/images/logo_transparent_retina.png 2x" class="primary-logo" alt="logo">
-                                <span class="logo-text">CLEANMATE</span>
-                            </a>
-                        </h1>
+                    <div class="header-column justify-content-end">
+                        <div class="header-row">
+                            <div class="header-nav header-nav-links header-nav-dropdowns-dark header-nav-light-text order-2 order-lg-1">
+                                <div class="header-nav-main header-nav-main-font-lg header-nav-main-font-lg-upper-2 header-nav-main-mobile-dark header-nav-main-square header-nav-main-dropdown-no-borders header-nav-main-effect-2 header-nav-main-sub-effect-1">
+                                    <nav class="collapse">
+                                        <ul class="nav nav-pills" id="mainNav">
+                                            <li class="dropdown">
+                                                <a data-hash class="nav-link active" href="#home">
+                                                    Home
+                                                </a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a class="nav-link" href="index-classic.html">Default Home</a></li>
+                                                    <li><a class="nav-link" href="index-one-page.html">One Page Website</a></li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="68" href="#services">Services</a>
+                                            </li>
+                                            <li>
+                                                <a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="68" href="#projects">Projects</a>
+                                            </li>
+                                            <li>
+                                                <a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="68" href="#clients">Clients</a>
+                                            </li>
+                                            <li>
+                                                <a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="68" href="#team">Meet the Team</a>
+                                            </li>
+                                            <li>
+                                                <a class="nav-link" data-hash data-hash-offset="0" data-hash-offset-lg="68" href="#contact">Contact Us</a>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                                <button class="btn header-btn-collapse-nav" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">
+                                    <i class="fas fa-bars"></i>
+                                </button>
+                            </div>
+                        </div>
                     </div>
-                </div>
-                <a href="#" class="mobile-menu-switch">
-                    <span class="line"></span>
-                    <span class="line"></span>
-                    <span class="line"></span>
-                    <span class="line"></span>
-                </a>
-                <div class="menu-container clearfix second-menu">
-                    <nav>
-                        <ul class="sf-menu">
-                            <li>
-                                <a href="projects.html" title="Projects">
-                                    PROJECTS
-                                </a>
-                                <ul>
-                                    <li>
-                                        <a href="project_apartment_cleaning.html" title="Apartment Cleaning">
-                                            Apartment Cleaning
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="project_garden_maintenance.html" title="Garden Maintenance">
-                                            Garden Maintenance
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="project_move_in_out.html" title="Move In Out">
-                                            Move In Out
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="project_after_renovation_cleaning.html" title="After Renovation Cleaning">
-                                            After Renovation Cleaning
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="project_house_cleaning.html" title="House Cleaning">
-                                            House Cleaning
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="project_gutter_cleaning.html" title="Gutter Cleaning">
-                                            Gutter Cleaning
-                                        </a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="blog.html" title="Blog">
-                                    BLOG
-                                </a>
-                                <ul>
-                                    <li>
-                                        <a href="blog.html" title="Blog">
-                                            Blog
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="blog_small_image.html" title="Blog Small Image">
-                                            Blog Small Image
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="blog_2_columns.html" title="Blog 2 Columns">
-                                            Blog 2 Columns
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="blog_left_sidebar.html" title="Blog Left Sidebar">
-                                            Blog Left Sidebar
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="post.html" title="Single Post">
-                                            Single Post
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="search.html?s=ipsum" title="Search Template">
-                                            Search Template
-                                        </a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="left-flyout">
-                                <a href="contact.html" title="Contact">
-                                    CONTACT
-                                </a>
-                                <ul>
-                                    <li>
-                                        <a href="contact.html" title="Contact Style 1">
-                                            Contact Style 1
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="contact_2.html" title="Contact Style 2">
-                                            Contact Style 2
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="contact_3.html" title="Contact Style 3">
-                                            Contact Style 3
-                                        </a>
-                                    </li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </nav>
-                </div>
-                <div class="header-icons-container hide-on-mobiles">
-                    <a href="#" class="template-cart"><span class="cart-items-number">2<span class="cart-items-number-arrow"></span></span></a>
-                    <a class="template-search" href="#" title="Search"></a>
-                    <form class="search">
-                        <input type="text" name="s" placeholder="Type and hit enter..." value="Type and hit enter..." class="search-input hint">
-                        <fieldset class="search-submit-container">
-                            <span class="template-search"></span>
-                            <input type="submit" class="search-submit" value="">
-                        </fieldset>
-                        <input type="hidden" name="page" value="search">
-                    </form>
                 </div>
             </div>
         </div>
-    </div>
+    </header>
+    <div role="main" class="main">
+        <div id="home" class="owl-carousel owl-carousel-light owl-carousel-light-init-fadeIn owl-theme manual dots-inside dots-horizontal-center show-dots-hover nav-inside nav-inside-plus nav-dark nav-md nav-font-size-md show-nav-hover mb-0" data-plugin-options="{'autoplayTimeout': 7000}" style="height: 100vh;">
+            <div class="owl-stage-outer">
+                <div class="owl-stage">
 
-    <!-- Slider Revolution -->
-    <div class="revolution-slider-container">
-        <div class="revolution-slider" data-version="5.4.5">
-            <ul>
-                <!-- SLIDE 1 -->
-                <li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
-                    <!-- MAIN IMAGE -->
-                    <img src="/web/assets/images/slider/placeholder.jpg" alt="slidebg1" data-bgfit="cover">
-                    <!-- LAYERS -->
-                    <!-- LAYER 01 -->
-                    <div class="tp-caption"
-                         data-frames='[{"delay":500,"speed":1500,"from":"y:-40;o:0;","ease":"easeInOutExpo"},{"delay":"wait","speed":500,"to":"o:0;","ease":"easeInOutExpo"}]'
-                         data-x="center"
-                         data-y="['211', '257', '160', '218']"
-                    >
-                        <h4>User-Friendly. Simple. Awesome.</h4>
-                    </div>
-                    <!-- LAYER 02 -->
-                    <div class="tp-caption"
-                         data-frames='[{"delay":900,"speed":2000,"from":"y:40;o:0;","ease":"easeInOutExpo"},{"delay":"wait","speed":500,"to":"o:0;","ease":"easeInOutExpo"}]'
-                         data-x="center"
-                         data-y="['273', '313', '200', '260']"
-                    >
-                        <h2><a href="service_calculator.html" title="Estimate Total Costs">ESTIMATE TOTAL COSTS</a></h2>
-                    </div>
-                    <!-- LAYER 03 -->
-                    <div class="tp-caption"
-                         data-frames='[{"delay":1100,"speed":2000,"from":"y:40;o:0;","ease":"easeInOutExpo"},{"delay":"wait","speed":500,"to":"o:0;","ease":"easeInOutExpo"}]'
-                         data-x="center"
-                         data-y="['345', '368', '236', '290']"
-                    >
-                        <h2 class="slider-subtitle"><strong>OF HOUSE CLEANING</strong></h2>
-                    </div>
-                    <!-- LAYER 04 -->
-                    <div class="tp-caption"
-                         data-frames='[{"delay":1500,"speed":1500,"from":"y:40;o:0;","ease":"easeInOutExpo"},{"delay":"wait","speed":500,"to":"o:0;","ease":"easeInOutExpo"}]'
-                         data-x="center"
-                         data-y="['476', '478', '304', '353']"
-                    >
-                        <div class="align-center">
-                            <a class="more" href="service_calculator.html" title="Service calculator">Service calculator</a>
+                    <!-- Carousel Slide 1 -->
+                    <div class="owl-item position-relative pt-5" style="background-image: url(img/slides/slide-one-page-1-1.jpg); background-size: cover; background-position: center; background-color: #35383d;">
+                        <div class="container position-relative z-index-3 h-100">
+                            <div class="row justify-content-center align-items-center h-100">
+                                <div class="col-lg-6">
+                                    <div class="d-flex flex-column align-items-center">
+                                        <h3 class="position-relative text-color-light text-4 line-height-5 font-weight-medium px-4 mb-3 appear-animation" data-appear-animation="fadeInDownShorterPlus" data-plugin-options="{'firstLoadNoAnim': true, 'minWindowWidth': 0}">
+													<span class="position-absolute right-100pct top-50pct transform3dy-n50 opacity-3">
+														<img src="img/slides/slide-title-border.png" class="w-auto appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="250" data-plugin-options="{'firstLoadNoAnim': true, 'minWindowWidth': 0}" alt="" />
+													</span>
+                                            WE WORK HARD AND PORTO HAS
+                                            <span class="position-absolute left-100pct top-50pct transform3dy-n50 opacity-3">
+														<img src="img/slides/slide-title-border.png" class="w-auto appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="250" data-plugin-options="{'firstLoadNoAnim': true, 'minWindowWidth': 0}" alt="" />
+													</span>
+                                        </h3>
+                                        <h2 class="text-color-light font-weight-extra-bold text-12 mb-4 appear-animation" data-appear-animation="blurIn" data-appear-animation-delay="500" data-plugin-options="{'firstLoadNoAnim': true, 'minWindowWidth': 0}">
+                                            THE <span class="position-relative">BEST<span class="position-absolute left-50pct transform3dx-n50 bottom-0"><img src="img/slides/slide-blue-line-big.png" class="w-auto appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="1000" data-plugin-options="{'firstLoadNoAnim': true, 'minWindowWidth': 0}" alt="" /></span></span> DESIGN
+                                        </h2>
+                                        <p class="text-4 text-color-light font-weight-light opacity-7 text-center mt-2 mb-4" data-plugin-animated-letters data-plugin-options="{'startDelay': 1000, 'firstLoadNoAnim': true, 'minWindowWidth': 0, 'animationSpeed': 25}">Trusted by over <strong class="text-color-light">40,000</strong> satisfied users, Porto is a huge success in the one of larest world's MarketPlace</p>
+                                        <a href="#" class="btn btn-primary btn-rounded font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1600" data-plugin-options="{'firstLoadNoAnim': true, 'minWindowWidth': 0}">GET STARTED NOW!</a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <!-- / -->
-                </li>
-                <!-- SLIDE 2 -->
-                <li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
-                    <!-- MAIN IMAGE -->
-                    <img src="/web/assets/images/slider/placeholder.jpg" alt="slidebg2" data-bgfit="cover">
-                    <!-- LAYERS -->
-                    <!-- LAYER 01 -->
-                    <div class="tp-caption customin customout"
-                         data-frames='[{"delay":500,"speed":1500,"from":"y:-40;o:0;","ease":"easeInOutExpo"},{"delay":"wait","speed":500,"to":"o:0;","ease":"easeInOutExpo"}]'
-                         data-x="center"
-                         data-y="['211', '257', '160', '218']"
-                    >
-                        <h4>Reliable and Stable Crews</h4>
-                    </div>
-                    <!-- LAYER 02 -->
-                    <div class="tp-caption customin customout"
-                         data-frames='[{"delay":900,"speed":2000,"from":"y:40;o:0;","ease":"easeInOutExpo"},{"delay":"wait","speed":500,"to":"o:0;","ease":"easeInOutExpo"}]'
-                         data-x="center"
-                         data-y="['273', '313', '200', '260']"
-                    >
-                        <h2><a href="service_calculator.html" title="Estimate Total Costs">OUR TEAM IS OUR MOST</a></h2>
-                    </div>
-                    <!-- LAYER 03 -->
-                    <div class="tp-caption customin customout"
-                         data-frames='[{"delay":1100,"speed":2000,"from":"y:40;o:0;","ease":"easeInOutExpo"},{"delay":"wait","speed":500,"to":"o:0;","ease":"easeInOutExpo"}]'
-                         data-x="center"
-                         data-y="['345', '368', '236', '290']"
-                    >
-                        <h2 class="slider-subtitle"><strong>VALUABLE RESOURCE</strong></h2>
-                    </div>
-                    <!-- LAYER 04 -->
-                    <div class="tp-caption customin customout"
-                         data-frames='[{"delay":1500,"speed":1500,"from":"y:40;o:0;","ease":"easeInOutExpo"},{"delay":"wait","speed":500,"to":"o:0;","ease":"easeInOutExpo"}]'
-                         data-x="center"
-                         data-y="['476', '478', '304', '353']"
-                    >
-                        <div class="align-center">
-                            <a class="more" href="service_calculator.html" title="Service calculator">Service calculator</a>
+                    <!-- Carousel Slide 2 -->
+                    <div class="owl-item position-relative overlay overlay-show overlay-op-8 pt-5" style="background-image: url(img/slides/slide-bg-2.jpg); background-size: cover; background-position: center;">
+                        <div class="container position-relative z-index-3 h-100">
+                            <div class="row justify-content-center align-items-center h-100">
+                                <div class="col-lg-6">
+                                    <div class="d-flex flex-column align-items-center">
+                                        <h3 class="position-relative text-color-light text-5 line-height-5 font-weight-medium px-4 mb-2 appear-animation" data-appear-animation="fadeInDownShorterPlus" data-plugin-options="{'minWindowWidth': 0}">
+													<span class="position-absolute right-100pct top-50pct transform3dy-n50 opacity-3">
+														<img src="img/slides/slide-title-border.png" class="w-auto appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="250" data-plugin-options="{'minWindowWidth': 0}" alt="" />
+													</span>
+                                            WE WORK HARD AND PORTO HAS
+                                            <span class="position-absolute left-100pct top-50pct transform3dy-n50 opacity-3">
+														<img src="img/slides/slide-title-border.png" class="w-auto appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="250" data-plugin-options="{'minWindowWidth': 0}" alt="" />
+													</span>
+                                        </h3>
+                                        <h2 class="text-color-light font-weight-extra-bold text-12 mb-3 appear-animation" data-appear-animation="blurIn" data-appear-animation-delay="500" data-plugin-options="{'minWindowWidth': 0}">THE BEST DESIGN</h2>
+                                        <p class="text-4 text-color-light font-weight-light opacity-7 text-center mb-0" data-plugin-animated-letters data-plugin-options="{'startDelay': 1000, 'minWindowWidth': 0, 'animationSpeed': 25}">Trusted by over <strong class="text-color-light">40,000</strong> satisfied users, Porto is a huge success in the one of larest world's MarketPlace</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <!-- / -->
-                </li>
 
-                <!-- SLIDE 3 -->
-                <li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
-                    <!-- MAIN IMAGE -->
-                    <img src="/web/assets/images/slider/placeholder.jpg" alt="slidebg3" data-bgfit="cover">
-                    <!-- LAYERS -->
-                    <!-- LAYER 01 -->
-                    <div class="tp-caption customin customout"
-                         data-frames='[{"delay":500,"speed":1500,"from":"y:-40;o:0;","ease":"easeInOutExpo"},{"delay":"wait","speed":500,"to":"o:0;","ease":"easeInOutExpo"}]'
-                         data-x="center"
-                         data-y="['211', '257', '160', '218']"
-                    >
-                        <h4>Our Focus is to Really Listen to Our Clients</h4>
+                </div>
+            </div>
+            <div class="owl-nav">
+                <button type="button" role="presentation" class="owl-prev"></button>
+                <button type="button" role="presentation" class="owl-next"></button>
+            </div>
+            <div class="owl-dots mb-5">
+                <button role="button" class="owl-dot active"><span></span></button>
+                <button role="button" class="owl-dot"><span></span></button>
+            </div>
+        </div>
+        <section id="services" class="section section-height-3 bg-primary border-0 m-0 appear-animation" data-appear-animation="fadeIn">
+            <div class="container my-3">
+                <div class="row mb-5">
+                    <div class="col text-center appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">
+                        <h2 class="font-weight-bold text-color-light mb-2">Services</h2>
+                        <p class="text-color-light opacity-7">LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT</p>
                     </div>
-                    <!-- LAYER 02 -->
-                    <div class="tp-caption customin customout"
-                         data-frames='[{"delay":900,"speed":2000,"from":"y:40;o:0;","ease":"easeInOutExpo"},{"delay":"wait","speed":500,"to":"o:0;","ease":"easeInOutExpo"}]'
-                         data-x="center"
-                         data-y="['273', '313', '200', '260']"
-                    >
-                        <h2><a href="service_calculator.html" title="Estimate Total Costs">CONTINUOUS PURSUIT</a></h2>
-                    </div>
-                    <!-- LAYER 03 -->
-                    <div class="tp-caption customin customout"
-                         data-frames='[{"delay":1100,"speed":2000,"from":"y:40;o:0;","ease":"easeInOutExpo"},{"delay":"wait","speed":500,"to":"o:0;","ease":"easeInOutExpo"}]'
-                         data-x="center"
-                         data-y="['345', '368', '236', '290']"
-                    >
-                        <h2 class="slider-subtitle"><strong>FOR PERFECTION</strong></h2>
-                    </div>
-                    <!-- LAYER 04 -->
-                    <div class="tp-caption customin customout"
-                         data-frames='[{"delay":1500,"speed":1500,"from":"y:40;o:0;","ease":"easeInOutExpo"},{"delay":"wait","speed":500,"to":"o:0;","ease":"easeInOutExpo"}]'
-                         data-x="center"
-                         data-y="['476', '478', '304', '353']"
-                    >
-                        <div class="align-center">
-                            <a class="more" href="service_calculator.html" title="Service calculator">Service calculator</a>
+                </div>
+                <div class="row mb-lg-4">
+                    <div class="col-lg-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="300">
+                        <div class="feature-box feature-box-style-2">
+                            <div class="feature-box-icon">
+                                <i class="icons icon-support text-color-light"></i>
+                            </div>
+                            <div class="feature-box-info">
+                                <h4 class="font-weight-bold text-color-light text-4 mb-2">CUSTOMER SUPPORT</h4>
+                                <p class="text-color-light opacity-7">Lorem ipsum dolor sit amet, consectetur adipiscing <span class="alternative-font text-color-light">metus.</span> elit. Quisque rutrum pellentesque imperdiet.</p>
+                            </div>
                         </div>
                     </div>
-                    <!-- / -->
-                </li>
-            </ul>
+                    <div class="col-lg-4 appear-animation" data-appear-animation="fadeInUpShorter">
+                        <div class="feature-box feature-box-style-2">
+                            <div class="feature-box-icon">
+                                <i class="icons icon-layers text-color-light"></i>
+                            </div>
+                            <div class="feature-box-info">
+                                <h4 class="font-weight-bold text-color-light text-4 mb-2">SLIDERS</h4>
+                                <p class="text-color-light opacity-7">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">
+                        <div class="feature-box feature-box-style-2">
+                            <div class="feature-box-icon">
+                                <i class="icons icon-menu text-color-light"></i>
+                            </div>
+                            <div class="feature-box-info">
+                                <h4 class="font-weight-bold text-color-light text-4 mb-2">BUTTONS</h4>
+                                <p class="text-color-light opacity-7">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="300">
+                        <div class="feature-box feature-box-style-2">
+                            <div class="feature-box-icon">
+                                <i class="icons icon-doc text-color-light"></i>
+                            </div>
+                            <div class="feature-box-info">
+                                <h4 class="font-weight-bold text-color-light text-4 mb-2">HTML5 / CSS3 / JS</h4>
+                                <p class="text-color-light opacity-7">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 appear-animation" data-appear-animation="fadeInUpShorter">
+                        <div class="feature-box feature-box-style-2">
+                            <div class="feature-box-icon">
+                                <i class="icons icon-user text-color-light"></i>
+                            </div>
+                            <div class="feature-box-info">
+                                <h4 class="font-weight-bold text-color-light text-4 mb-2">ICONS</h4>
+                                <p class="text-color-light opacity-7">Lorem ipsum dolor sit amet, consectetur adipiscing <span class="alternative-font text-color-light">metus.</span> elit. Quisque rutrum pellentesque imperdiet.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">
+                        <div class="feature-box feature-box-style-2">
+                            <div class="feature-box-icon">
+                                <i class="icons icon-screen-desktop text-color-light"></i>
+                            </div>
+                            <div class="feature-box-info">
+                                <h4 class="font-weight-bold text-color-light text-4 mb-2">LIGHTBOX</h4>
+                                <p class="text-color-light opacity-7">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="projects" class="container">
+            <div class="row justify-content-center pt-5 mt-5">
+                <div class="col-lg-9 text-center">
+                    <div class="appear-animation" data-appear-animation="fadeInUpShorter">
+                        <h2 class="font-weight-bold mb-2">Projects</h2>
+                        <p class="mb-4">LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT</p>
+                    </div>
+                    <p class="pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce elementum, nulla vel pellentesque consequat, ante nulla hendrerit arcu, ac tincidunt mauris lacus sed leo. vamus suscipit molestie vestibulum.</p>
+                </div>
+            </div>
+            <div class="row pb-5 mb-5">
+                <div class="col">
+                    <div class="appear-animation popup-gallery-ajax" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">
+                        <div class="owl-carousel owl-theme mb-0" data-plugin-options="{'items': 4, 'margin': 35, 'loop': false}">
+                            <div class="portfolio-item">
+                                <a href="ajax/portfolio-ajax-project.html" data-ajax-on-modal>
+											<span class="thumb-info thumb-info-lighten">
+												<span class="thumb-info-wrapper">
+													<img src="img/projects/project.jpg" class="img-fluid border-radius-0" alt="">
+													<span class="thumb-info-title">
+														<span class="thumb-info-inner">Presentation</span>
+														<span class="thumb-info-type">Brand</span>
+													</span>
+													<span class="thumb-info-action">
+														<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+													</span>
+												</span>
+											</span>
+                                </a>
+                            </div>
+                            <div class="portfolio-item">
+                                <a href="ajax/portfolio-ajax-project-1.html" data-ajax-on-modal>
+											<span class="thumb-info thumb-info-lighten">
+												<span class="thumb-info-wrapper">
+													<span class="owl-carousel owl-theme dots-inside m-0" data-plugin-options="{'items': 1, 'margin': 20, 'animateOut': 'fadeOut', 'autoplay': true, 'autoplayTimeout': 3000}"><span><img src="img/projects/project-1.jpg" class="img-fluid border-radius-0" alt=""></span><span><img src="img/projects/project-1-2.jpg" class="img-fluid border-radius-0" alt=""></span></span>
+													<span class="thumb-info-title">
+														<span class="thumb-info-inner">Porto Watch</span>
+														<span class="thumb-info-type">Media</span>
+													</span>
+													<span class="thumb-info-action">
+														<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+													</span>
+												</span>
+											</span>
+                                </a>
+                            </div>
+                            <div class="portfolio-item">
+                                <a href="ajax/portfolio-ajax-project-2.html" data-ajax-on-modal>
+											<span class="thumb-info thumb-info-lighten">
+												<span class="thumb-info-wrapper">
+													<img src="img/projects/project-2.jpg" class="img-fluid border-radius-0" alt="">
+													<span class="thumb-info-title">
+														<span class="thumb-info-inner">Identity</span>
+														<span class="thumb-info-type">Logo</span>
+													</span>
+													<span class="thumb-info-action">
+														<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+													</span>
+												</span>
+											</span>
+                                </a>
+                            </div>
+                            <div class="portfolio-item">
+                                <a href="ajax/portfolio-ajax-project-3.html" data-ajax-on-modal>
+											<span class="thumb-info thumb-info-lighten">
+												<span class="thumb-info-wrapper">
+													<img src="img/projects/project-27.jpg" class="img-fluid border-radius-0" alt="">
+													<span class="thumb-info-title">
+														<span class="thumb-info-inner">Porto Screens</span>
+														<span class="thumb-info-type">Website</span>
+													</span>
+													<span class="thumb-info-action">
+														<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+													</span>
+												</span>
+											</span>
+                                </a>
+                            </div>
+                            <div class="portfolio-item">
+                                <a href="ajax/portfolio-ajax-project-4.html" data-ajax-on-modal>
+											<span class="thumb-info thumb-info-lighten">
+												<span class="thumb-info-wrapper">
+													<img src="img/projects/project-4.jpg" class="img-fluid border-radius-0" alt="">
+													<span class="thumb-info-title">
+														<span class="thumb-info-inner">Three Bottles</span>
+														<span class="thumb-info-type">Logo</span>
+													</span>
+													<span class="thumb-info-action">
+														<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+													</span>
+												</span>
+											</span>
+                                </a>
+                            </div>
+                            <div class="portfolio-item">
+                                <a href="ajax/portfolio-ajax-project-5.html" data-ajax-on-modal>
+											<span class="thumb-info thumb-info-lighten">
+												<span class="thumb-info-wrapper">
+													<img src="img/projects/project-5.jpg" class="img-fluid border-radius-0" alt="">
+													<span class="thumb-info-title">
+														<span class="thumb-info-inner">Company T-Shirt</span>
+														<span class="thumb-info-type">Brand</span>
+													</span>
+													<span class="thumb-info-action">
+														<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+													</span>
+												</span>
+											</span>
+                                </a>
+                            </div>
+                            <div class="portfolio-item">
+                                <a href="ajax/portfolio-ajax-project-6.html" data-ajax-on-modal>
+											<span class="thumb-info thumb-info-lighten">
+												<span class="thumb-info-wrapper">
+													<img src="img/projects/project-6.jpg" class="img-fluid border-radius-0" alt="">
+													<span class="thumb-info-title">
+														<span class="thumb-info-inner">Mobile Mockup</span>
+														<span class="thumb-info-type">Website</span>
+													</span>
+													<span class="thumb-info-action">
+														<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+													</span>
+												</span>
+											</span>
+                                </a>
+                            </div>
+                            <div class="portfolio-item">
+                                <a href="ajax/portfolio-ajax-project-7.html" data-ajax-on-modal>
+											<span class="thumb-info thumb-info-lighten">
+												<span class="thumb-info-wrapper">
+													<img src="img/projects/project-7.jpg" class="img-fluid border-radius-0" alt="">
+													<span class="thumb-info-title">
+														<span class="thumb-info-inner">Porto Label</span>
+														<span class="thumb-info-type">Media</span>
+													</span>
+													<span class="thumb-info-action">
+														<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+													</span>
+												</span>
+											</span>
+                                </a>
+                            </div>
+                            <div class="portfolio-item">
+                                <a href="ajax/portfolio-ajax-project-1.html" data-ajax-on-modal>
+											<span class="thumb-info thumb-info-lighten">
+												<span class="thumb-info-wrapper">
+													<img src="img/projects/project-23.jpg" class="img-fluid border-radius-0" alt="">
+													<span class="thumb-info-title">
+														<span class="thumb-info-inner">Business Folders</span>
+														<span class="thumb-info-type">Logo</span>
+													</span>
+													<span class="thumb-info-action">
+														<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+													</span>
+												</span>
+											</span>
+                                </a>
+                            </div>
+                            <div class="portfolio-item">
+                                <a href="ajax/portfolio-ajax-project-2.html" data-ajax-on-modal>
+											<span class="thumb-info thumb-info-lighten">
+												<span class="thumb-info-wrapper">
+													<img src="img/projects/project-24.jpg" class="img-fluid border-radius-0" alt="">
+													<span class="thumb-info-title">
+														<span class="thumb-info-inner">Tablet Screen</span>
+														<span class="thumb-info-type">Website</span>
+													</span>
+													<span class="thumb-info-action">
+														<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+													</span>
+												</span>
+											</span>
+                                </a>
+                            </div>
+                            <div class="portfolio-item">
+                                <a href="ajax/portfolio-ajax-project-3.html" data-ajax-on-modal>
+											<span class="thumb-info thumb-info-lighten">
+												<span class="thumb-info-wrapper">
+													<img src="img/projects/project-25.jpg" class="img-fluid border-radius-0" alt="">
+													<span class="thumb-info-title">
+														<span class="thumb-info-inner">Black Watch</span>
+														<span class="thumb-info-type">Media</span>
+													</span>
+													<span class="thumb-info-action">
+														<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+													</span>
+												</span>
+											</span>
+                                </a>
+                            </div>
+                            <div class="portfolio-item">
+                                <a href="ajax/portfolio-ajax-project-4.html" data-ajax-on-modal>
+											<span class="thumb-info thumb-info-lighten">
+												<span class="thumb-info-wrapper">
+													<img src="img/projects/project-26.jpg" class="img-fluid border-radius-0" alt="">
+													<span class="thumb-info-title">
+														<span class="thumb-info-inner">Monitor Mockup</span>
+														<span class="thumb-info-type">Website</span>
+													</span>
+													<span class="thumb-info-action">
+														<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+													</span>
+												</span>
+											</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
+        <section id="clients" class="section section-background section-height-4 overlay overlay-show overlay-op-9 border-0 m-0" style="background-image: url(img/bg-one-page-1-1.jpg); background-size: cover; background-position: center;">
+            <div class="container">
+                <div class="row">
+                    <div class="col text-center">
+                        <h2 class="font-weight-bold text-color-light mb-2">We’re excited about Porto Template</h2>
+                        <p class="text-color-light opacity-7">30,000 CUSTOMERS IN 100 COUNTRIES USE PORTO TEMPLATE. MEET OUR CUSTOMERS.</p>
+                    </div>
+                </div>
+                <div class="row text-center py-3 my-4">
+                    <div class="owl-carousel owl-theme carousel-center-active-item carousel-center-active-item-style-2 mb-0" data-plugin-options="{'responsive': {'0': {'items': 1}, '476': {'items': 1}, '768': {'items': 5}, '992': {'items': 7}, '1200': {'items': 7}}, 'autoplay': true, 'autoplayTimeout': 3000, 'dots': false}">
+                        <div>
+                            <img class="img-fluid" src="img/logos/logo-light-1.png" alt="">
+                        </div>
+                        <div>
+                            <img class="img-fluid" src="img/logos/logo-light-2.png" alt="">
+                        </div>
+                        <div>
+                            <img class="img-fluid" src="img/logos/logo-light-3.png" alt="">
+                        </div>
+                        <div>
+                            <img class="img-fluid" src="img/logos/logo-light-4.png" alt="">
+                        </div>
+                        <div>
+                            <img class="img-fluid" src="img/logos/logo-light-5.png" alt="">
+                        </div>
+                        <div>
+                            <img class="img-fluid" src="img/logos/logo-light-6.png" alt="">
+                        </div>
+                        <div>
+                            <img class="img-fluid" src="img/logos/logo-light-4.png" alt="">
+                        </div>
+                        <div>
+                            <img class="img-fluid" src="img/logos/logo-light-2.png" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <div class="owl-carousel owl-theme nav-bottom rounded-nav mb-0" data-plugin-options="{'items': 1, 'loop': true, 'autoHeight': true}">
+                            <div>
+                                <div class="testimonial testimonial-style-2 testimonial-light testimonial-with-quotes testimonial-quotes-primary mb-0">
+                                    <blockquote>
+                                        <p class="text-5 line-height-5 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti.</p>
+                                    </blockquote>
+                                    <div class="testimonial-author">
+                                        <p><strong class="font-weight-extra-bold text-2">- John Smith. Okler</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="testimonial testimonial-style-2 testimonial-light testimonial-with-quotes testimonial-quotes-primary mb-0">
+                                    <blockquote>
+                                        <p class="text-5 line-height-5 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti.</p>
+                                    </blockquote>
+                                    <div class="testimonial-author">
+                                        <p><strong class="font-weight-extra-bold text-2">- John Smith. Okler</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="team" class="container pb-4">
+            <div class="row pt-5 mt-5 mb-4">
+                <div class="col text-center appear-animation" data-appear-animation="fadeInUpShorter">
+                    <h2 class="font-weight-bold mb-1">Team</h2>
+                    <p>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT</p>
+                </div>
+            </div>
+            <div class="row pb-5 mb-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">
+                <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0">
+							<span class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-zoom">
+								<span class="thumb-info-wrapper">
+									<a href="about-me.html">
+										<img src="img/team/team-1.jpg" class="img-fluid" alt="">
+									</a>
+								</span>
+								<span class="thumb-info-caption">
+									<h3 class="font-weight-extra-bold text-color-dark text-4 line-height-1 mt-3 mb-0">John Doe</h3>
+									<span class="text-2 mb-0">CEO</span>
+									<span class="thumb-info-caption-text pt-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan</span>
+									<span class="thumb-info-social-icons">
+										<a target="_blank" href="http://www.facebook.com"><i class="fab fa-facebook-f"></i><span>Facebook</span></a>
+										<a href="http://www.twitter.com"><i class="fab fa-twitter"></i><span>Twitter</span></a>
+										<a href="http://www.linkedin.com"><i class="fab fa-linkedin-in"></i><span>Linkedin</span></a>
+									</span>
+								</span>
+							</span>
+                </div>
+                <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0">
+							<span class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-zoom">
+								<span class="thumb-info-wrapper">
+									<a href="about-me.html">
+										<img src="img/team/team-2.jpg" class="img-fluid" alt="">
+									</a>
+								</span>
+								<span class="thumb-info-caption">
+									<h3 class="font-weight-extra-bold text-color-dark text-4 line-height-1 mt-3 mb-0">Jessica Doe</h3>
+									<span class="text-2 mb-0">DESIGNER</span>
+									<span class="thumb-info-caption-text pt-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan</span>
+									<span class="thumb-info-social-icons">
+										<a target="_blank" href="http://www.facebook.com"><i class="fab fa-facebook-f"></i><span>Facebook</span></a>
+										<a href="http://www.twitter.com"><i class="fab fa-twitter"></i><span>Twitter</span></a>
+										<a href="http://www.linkedin.com"><i class="fab fa-linkedin-in"></i><span>Linkedin</span></a>
+									</span>
+								</span>
+							</span>
+                </div>
+                <div class="col-sm-6 col-lg-3 mb-4 mb-sm-0">
+							<span class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-zoom">
+								<span class="thumb-info-wrapper">
+									<a href="about-me.html">
+										<img src="img/team/team-3.jpg" class="img-fluid" alt="">
+									</a>
+								</span>
+								<span class="thumb-info-caption">
+									<h3 class="font-weight-extra-bold text-color-dark text-4 line-height-1 mt-3 mb-0">Ricki Doe</h3>
+									<span class="text-2 mb-0">DEVELOPER</span>
+									<span class="thumb-info-caption-text pt-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan</span>
+									<span class="thumb-info-social-icons">
+										<a target="_blank" href="http://www.facebook.com"><i class="fab fa-facebook-f"></i><span>Facebook</span></a>
+										<a href="http://www.twitter.com"><i class="fab fa-twitter"></i><span>Twitter</span></a>
+										<a href="http://www.linkedin.com"><i class="fab fa-linkedin-in"></i><span>Linkedin</span></a>
+									</span>
+								</span>
+							</span>
+                </div>
+                <div class="col-sm-6 col-lg-3">
+							<span class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-zoom">
+								<span class="thumb-info-wrapper">
+									<a href="about-me.html">
+										<img src="img/team/team-4.jpg" class="img-fluid" alt="">
+									</a>
+								</span>
+								<span class="thumb-info-caption">
+									<h3 class="font-weight-extra-bold text-color-dark text-4 line-height-1 mt-3 mb-0">Melinda Doe</h3>
+									<span class="text-2 mb-0">SEO ANALYST</span>
+									<span class="thumb-info-caption-text pt-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan</span>
+									<span class="thumb-info-social-icons">
+										<a target="_blank" href="http://www.facebook.com"><i class="fab fa-facebook-f"></i><span>Facebook</span></a>
+										<a href="http://www.twitter.com"><i class="fab fa-twitter"></i><span>Twitter</span></a>
+										<a href="http://www.linkedin.com"><i class="fab fa-linkedin-in"></i><span>Linkedin</span></a>
+									</span>
+								</span>
+							</span>
+                </div>
+            </div>
+        </div>
+        <section id="contact" class="section bg-color-grey-scale-1 border-0 py-0 m-0">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-6">
+                        <!-- Google Maps - Settings on footer -->
+                        <div id="googlemaps" class="google-map h-100 m-0" style="min-height: 400px;"></div>
+                    </div>
+                    <div class="col-md-6 p-5 my-5">
+                        <div class="px-4">
+                            <h2 class="font-weight-bold line-height-1 mb-2">Contact Us</h2>
+                            <p class="text-3 mb-4">LOREM IPSUM DOLOR SIT A MET</p>
+                            <form class="contact-form form-style-2 pe-xl-5" action="php/contact-form.php" method="POST">
+                                <div class="contact-form-success alert alert-success d-none mt-4">
+                                    <strong>Success!</strong> Your message has been sent to us.
+                                </div>
+                                <div class="contact-form-error alert alert-danger d-none mt-4">
+                                    <strong>Error!</strong> There was an error sending your message.
+                                    <span class="mail-error-message text-1 d-block"></span>
+                                </div>
+                                <div class="row">
+                                    <div class="form-group col-xl-4">
+                                        <input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" placeholder="Name" required>
+                                    </div>
+                                    <div class="form-group col-xl-8">
+                                        <input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="email" placeholder="Email" required>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="form-group col">
+                                        <input type="text" value="" data-msg-required="Please enter the subject." maxlength="100" class="form-control" name="subject" placeholder="Subject" required>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="form-group col">
+                                        <textarea maxlength="5000" data-msg-required="Please enter your message." rows="4" class="form-control" name="message" placeholder="Message" required></textarea>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="form-group col">
+                                        <input type="submit" value="SUBMIT" class="btn btn-primary btn-rounded font-weight-semibold px-5 btn-py-2 text-2" data-loading-text="Loading...">
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="section bg-primary border-0 m-0">
+            <div class="container">
+                <div class="row justify-content-center text-center text-lg-start py-4">
+                    <div class="col-lg-auto appear-animation" data-appear-animation="fadeInRightShorter">
+                        <div class="feature-box feature-box-style-2 d-block d-lg-flex mb-4 mb-lg-0">
+                            <div class="feature-box-icon">
+                                <i class="icon-location-pin icons text-color-light"></i>
+                            </div>
+                            <div class="feature-box-info ps-1">
+                                <h5 class="font-weight-light text-color-light opacity-7 mb-0">ADDRESS</h5>
+                                <p class="text-color-light font-weight-semibold mb-0">MON - FRI: 10:00am - 6:00pm</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-auto appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">
+                        <div class="feature-box feature-box-style-2 d-block d-lg-flex mb-4 mb-lg-0 px-xl-4 mx-lg-5">
+                            <div class="feature-box-icon">
+                                <i class="icon-call-out icons text-color-light"></i>
+                            </div>
+                            <div class="feature-box-info ps-1">
+                                <h5 class="font-weight-light text-color-light opacity-7 mb-0">CALL US NOW</h5>
+                                <a href="tel:+8001234567" class="text-color-light font-weight-semibold text-decoration-none">800-123-4567</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-auto appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">
+                        <div class="feature-box feature-box-style-2 d-block d-lg-flex">
+                            <div class="feature-box-icon">
+                                <i class="icon-share icons text-color-light"></i>
+                            </div>
+                            <div class="feature-box-info ps-1">
+                                <h5 class="font-weight-light text-color-light opacity-7 mb-0">FOLLOW US</h5>
+                                <p class="mb-0">
+                                    <span class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" class="text-color-light font-weight-semibold" title="Facebook"><i class="me-1 fab fa-facebook-f"></i> FACEBOOK</a></span>
+                                    <span class="social-icons-twitter ps-3"><a href="http://www.twitter.com/" target="_blank" class="text-color-light font-weight-semibold" title="Twitter"><i class="me-1 fab fa-twitter"></i> TWITTER</a></span>
+                                    <span class="social-icons-instagram ps-3"><a href="http://www.linkedin.com/" target="_blank" class="text-color-light font-weight-semibold" title="Linkedin"><i class="me-1 fab fa-instagram"></i> INSTAGRAM</a></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
-    <!--/-->
-    <div class="theme-page">
-        <div class="clearfix">
-            <div class="row margin-top-89">
-                <div class="row">
-                    <h2 class="box-header">WHY CHOOSE US</h2>
-                    <p class="description align-center">Cleanmate operates in Ottawa and provides a variety of cleaning services.<br>Choose us because of our reputation for excellence.</p>
-                    <div class="row page-margin-top">
-                        <div class="column column-1-4">
-                            <ul class="features-list align-right margin-top-30">
-                                <li>
-                                    <div class="icon features-diamond"></div>
-                                    <h4>SPARKLING CLEAN</h4>
-                                    <p>We keep your home sparkling clean and germ free. Our disinfecting process kills 99% of common bacteria and viruses.</p>
-                                </li>
-                                <li>
-                                    <div class="icon features-umbrella"></div>
-                                    <h4>INSURED AND BONDED</h4>
-                                    <p>Our cleaners are insured and bonded so no need to worry about your apartment, office or garden.</p>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="column column-1-2 align-center">
-                            <div class="image-wrapper">
-                                <img src="/web/assets/images/samples/480x480/placeholder.jpg" alt="" class="radius border">
-                            </div>
-                        </div>
-                        <div class="column column-1-4">
-                            <ul class="features-list margin-top-30">
-                                <li>
-                                    <div class="icon features-eco"></div>
-                                    <h4>LEADING TECHNOLOGIES</h4>
-                                    <p>We use safe hospital-grade disinfectants, HEPA filtrations and microfiber cleaning cloths to reduce cross contamination.</p>
-                                </li>
-                                <li>
-                                    <div class="icon features-maid"></div>
-                                    <h4>RELIABLE CREWS</h4>
-                                    <p>Our reliable and stable crews understand your specific house and office clearning service needs.</p>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="align-center margin-top-65 padding-bottom-16">
-                        <a class="more" href="about.html" title="Learn more">Learn more</a>
-                    </div>
-                </div>
-            </div>
-            <div class="row full-width padding-top-89 padding-bottom-96 page-margin-top-section parallax parallax-1 overlay">
-                <div class="row">
-                    <h2 class="box-header white">NOTHING IS MORE IMPORTANT</h2>
-                    <p class="description align-center white">We prioritize the following.</p>
-                    <div class="tabs white no-scroll margin-top-27 clearfix">
-                        <ul class="tabs-navigation clearfix">
-                            <li>
-                                <a href="#our-customers" title="Our Customers" class="features-team">
-                                    OUR CUSTOMERS
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#the-environment" title="The Environment" class="features-leaf">
-                                    THE ENVIRONMENT
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#communication" title="Communication" class="features-megaphone">
-                                    COMMUNICATION
-                                </a>
-                            </li>
-                        </ul>
-                        <div id="our-customers">
-                            <p>Our cleaning services are affordable and our cleaning experts are highly trained. If for any reason you aren't happy with our professional cleaning services, contact Cleanmate. We will come back and clean the specific areas that didn't meet your expectations. Nothing is more important to us than your satisfaction.</p>
-                        </div>
-                        <div id="the-environment">
-                            <p>Our cleaning services are affordable and our cleaning experts are highly trained. If for any reason you aren't happy with our professional cleaning services, contact Cleanmate. We will come back and clean the specific areas that didn't meet your expectations. Nothing is more important to us than your satisfaction.</p>
-                        </div>
-                        <div id="communication">
-                            <p>Our cleaning services are affordable and our cleaning experts are highly trained. If for any reason you aren't happy with our professional cleaning services, contact Cleanmate. We will come back and clean the specific areas that didn't meet your expectations. Nothing is more important to us than your satisfaction.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row full-width gray padding-top-89 padding-bottom-96">
-                <div class="row">
-                    <h2 class="box-header">OUR CLEANING SERVICES</h2>
-                    <p class="description align-center">Do you wish you had more free time? We can make it happen!</p>
-                    <div class="carousel-container margin-top-65 clearfix">
-                        <ul class="services-list horizontal-carousel clearfix page-margin-top">
-                            <li class="column column-1-3">
-                                <a href="service_house_cleaning.html" title="House Cleaning">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <h4 class="box-header"><a href="service_house_cleaning.html" title="House Cleaning">HOUSE CLEANING</a></h4>
-                                <p>Complete apartment and house cleaning services by professional cleaners.</p>
-                            </li>
-                            <li class="column column-1-3">
-                                <a href="service_post_renovation.html" title="Post Renovation">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <h4 class="box-header"><a href="service_post_renovation.html" title="Post Renovation">POST RENOVATION</a></h4>
-                                <p>Get rid of the dust left behind after construction or renovation.</p>
-                            </li>
-                            <li class="column column-1-3">
-                                <a href="service_green_spaces_maintenance.html" title="Green Spaces Maintenance">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <h4 class="box-header"><a href="service_green_spaces_maintenance.html" title="Green Spaces Maintenance">GREEN SPACES MAINTENANCE</a></h4>
-                                <p>The right maintenance methods will make keeping your garden beautiful.</p>
-                            </li>
-                            <li class="column column-1-3">
-                                <a href="service_move_in_out.html" title="Move In Out Service">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <h4 class="box-header"><a href="service_move_in_out.html" title="Move In Out Service">MOVE IN OUT SERVICE</a></h4>
-                                <p>We will leave the place you're leaving look even better than it did when you moved in.</p>
-                            </li>
-                            <li class="column column-1-3">
-                                <a href="service_commercial_cleaning.html" title="Commercial Cleaning">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <h4 class="box-header"><a href="service_commercial_cleaning.html" title="Commercial Cleaning">COMMERCIAL CLEANING</a></h4>
-                                <p>Only the most skilled professionals for commercial office cleaning.</p>
-                            </li>
-                            <li class="column column-1-3">
-                                <a href="service_window_cleaning.html" title="Window Cleaning">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <h4 class="box-header"><a href="service_window_cleaning.html" title="Window Cleaning">WINDOW CLEANING</a></h4>
-                                <p>The highest quality window cleaning service at a competitive price.</p>
-                            </li>
-                            <li class="column column-1-3">
-                                <a href="service_house_cleaning.html" title="House Cleaning">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <h4 class="box-header"><a href="service_house_cleaning.html" title="House Cleaning">HOUSE CLEANING</a></h4>
-                                <p>Complete apartment and house cleaning services by professional cleaners.</p>
-                            </li>
-                            <li class="column column-1-3">
-                                <a href="service_post_renovation.html" title="Post Renovation">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <h4 class="box-header"><a href="service_post_renovation.html" title="Post Renovation">POST RENOVATION</a></h4>
-                                <p>Get rid of the dust left behind after construction or renovation.</p>
-                            </li>
-                            <li class="column column-1-3">
-                                <a href="service_green_spaces_maintenance.html" title="Green Spaces Maintenance">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <h4 class="box-header"><a href="service_green_spaces_maintenance.html" title="Green Spaces Maintenance">GREEN SPACES MAINTENANCE</a></h4>
-                                <p>The right maintenance methods will make keeping your garden beautiful.</p>
-                            </li>
-                        </ul>
-                        <div class="cm-carousel-pagination"></div>
-                    </div>
-                </div>
-            </div>
-            <div class="row page-margin-top-section">
-                <div class="column column-1-4">
-                    <div class="row">
-                        <a href="/web/assets/images/samples/480x320/placeholder.jpg" class="prettyPhoto cm-preload" title="House Cleaning">
-                            <img src='/web/assets/images/samples/480x320/placeholder.jpg' alt='img'>
-                        </a>
-                    </div>
-                    <div class="row margin-top-30">
-                        <a href="/web/assets/images/samples/480x320/placeholder.jpg" class="prettyPhoto cm-preload" title="Window Cleaning">
-                            <img src='/web/assets/images/samples/480x320/placeholder.jpg' alt='img'>
-                        </a>
-                    </div>
-                </div>
-                <div class="column column-1-4">
-                    <a href="/web/assets/images/samples/480x693/placeholder.jpg" class="prettyPhoto cm-preload" title="Apartment Cleaning">
-                        <img src='/web/assets/images/samples/480x693/placeholder.jpg' alt='img'>
-                    </a>
-                </div>
-                <div class="column column-1-2">
-                    <h2 class="box-header">ABOUT OUR COMPANY</h2>
-                    <p class="description align-center">Exceptional level of cleaning services.</p>
-                    <p class="align-center padding-0 margin-top-27 padding-left-right-35">Founded in 1995 Cleanmate quickly built a reputation as one of the leading providers of residential and commercial cleaning solutions. Our continuous pursuit for perfection has resulted in consistent growth each year. Our focus is to listen to our clients, understand their needs and provide the exceptional level of residential and commercial cleaning service.</p>
-                    <div class="align-center page-margin-top padding-bottom-16">
-                        <a class="more" href="about.html" title="Learn more">Learn more</a>
-                    </div>
-                </div>
-            </div>
-            <div class="row full-width page-margin-top-section padding-bottom-100 counters-group parallax parallax-2 overlay">
-                <div class="row">
-                    <div class="column column-1-4">
-                        <div class="counter-box">
-                            <div class="ornament-container">
-                                <div class="ornament animated-element duration-2000 animation-ornamentHeight" data-animation-start="230"></div>
-                            </div>
-                            <span class="number animated-element" data-value="295" data-animation-start="230"></span>
-                            <p>COMPLETED MOVINGS</p>
-                        </div>
-                    </div>
-                    <div class="column column-1-4">
-                        <div class="counter-box">
-                            <div class="ornament-container">
-                                <div class="ornament animated-element duration-2000 animation-ornamentHeight" data-animation-start="230"></div>
-                            </div>
-                            <span class="number animated-element" data-value="400" data-animation-start="230"></span>
-                            <p>HAPPY CUSTOMERS</p>
-                        </div>
-                    </div>
-                    <div class="column column-1-4">
-                        <div class="counter-box">
-                            <div class="ornament-container">
-                                <div class="ornament animated-element duration-2000 animation-ornamentHeight" data-animation-start="230"></div>
-                            </div>
-                            <span class="number animated-element" data-value="527" data-animation-start="230"></span>
-                            <p>COMPLETED PROJECTS</p>
-                        </div>
-                    </div>
-                    <div class="column column-1-4">
-                        <div class="counter-box">
-                            <div class="ornament-container">
-                                <div class="ornament animated-element duration-2000 animation-ornamentHeight" data-animation-start="230"></div>
-                            </div>
-                            <span class="number animated-element" data-value="105" data-animation-start="230"></span>
-                            <p>PLACES CLEANED</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row full-width gray padding-top-89 padding-bottom-100">
-                <div class="row">
-                    <h2 class="box-header">SIMPLE PLANS. SIMPLE PRICING</h2>
-                    <p class="description align-center">Cleanmate comes with cost calculator - a unique tool which allows you to easily create<br>price estimation forms to give your client idea of the cost of your service.</p>
-                    <form class="cost-calculator-container row margin-top-65 prevent-submit" method="post" action="#">
-                        <fieldset class="column column-1-2">
-                            <div class="cost-calculator-box clearfix">
-                                <label>Total area to be cleaned in square feet:</label>
-                                <input type="hidden" name="clean-area-label" value="Total area to be cleaned">
-                                <div class="cost-slider-container">
-                                    <input id="clean-area" class="cost-slider-input" name="clean-area" type="number" value="1200">
-                                    <div class="cost-slider" data-value="1200" data-step="1" data-min="1" data-max="2000" data-input="clean-area"></div>
-                                </div>
-                            </div>
-                        </fieldset>
-                        <fieldset class="column column-1-2">
-                            <div class="cost-calculator-box clearfix">
-                                <label>Cleaning frequency:</label>
-                                <input type="hidden" name="cleaning-frequency-label" value="Cleaning frequency">
-                                <select name="cleaning-frequency" id="cleaning-frequency" class="cost-dropdown">
-                                    <option value="">Choose...</option>
-                                    <option value="0.4">Weekly Service</option>
-                                    <option value="0.8">Bi-Weekly Service</option>
-                                    <option value="1.2">Tri-Weekly Service</option>
-                                    <option value="1.6">Quarter Weekly Service</option>
-                                    <option value="0.1">Monthly Service</option>
-                                    <option value="0.2" selected="selected">One Time Service</option>
-                                </select>
-                                <input type="hidden" class="cleaning-frequency" name="cleaning-frequency-name" value="">
-                            </div>
-                        </fieldset>
-                    </form>
-                    <div class="row margin-top-30 flex-box">
-                        <form class="cost-calculator-container column column-1-3" method="post" action="service_calculator.html">
-                            <div class="cost-calculator-box cost-calculator-sum clearfix">
-                                <h4>BASIC SERVICE</h4>
-                                <span class="cost-calculator-price small-currency margin-top-33" id="basic-service-cost"><span class="currency">$</span>0.00</span>
-                                <input type="hidden" id="basic-service-total-cost" name="basic-service-total-cost">
-                                <p class="cost-calculator-price-description">/ per month</p>
-                                <ul class="simple-list margin-top-20">
-                                    <li>1 Bathroom cleaning</li>
-                                    <li>Up to 3 bedrooms cleaning</li>
-                                    <li>1 Livingroom cleaning</li>
-                                    <li>Small kitchen (0 - 150 ft2)</li>
-                                    <!--<li>Dinning room cleaning</li>
-                                    <li>Garage cleaning</li>-->
-                                    <li>Up to 2 additional rooms cleaning</li>
-                                    <!--<li>Wiping the dust from furniture</li>
-                                    <li>Cleaning window sills</li>
-                                    <li>Cleaning mirrors</li>
-                                    <li>Vacumming floors and floor coverings</li>
-                                    <li>Emptying garbage cans</li>
-                                    <li>Cleaning kitchen worktops, sink and hob</li>
-                                    <li>Cleaning toilets and bathroom fixtures</li>-->
-                                </ul>
-                                <div class="cost-calculator-submit-container">
-                                    <input type="hidden" class="clean-area-hidden" name="clean-area" value="1200">
-                                    <input type="hidden" class="cleaning-frequency-hidden" name="cleaning-frequency" value="0.2">
-                                    <input type="hidden" id="basic-service-bathrooms" name="bathrooms" value="1">
-                                    <input type="hidden" id="basic-service-bedrooms" name="bedrooms" value="3">
-                                    <input type="hidden" id="basic-service-livingrooms" name="livingrooms" value="1">
-                                    <input type="hidden" id="basic-service-kitchen-size" name="kitchen-size" value="15">
-                                    <input type="hidden" id="basic-service-bathroom-includes" name="bathroom-includes" value="">
-                                    <input type="hidden" id="basic-service-pets" name="pets" value="0">
-                                    <input type="hidden" id="basic-service-cleaning-supplies" name="cleaning-supplies" value="0">
-                                    <input type="hidden" id="basic-service-dining-room" name="dining-room" value="10">
-                                    <input type="hidden" id="basic-service-play-room" name="play-room" value="0">
-                                    <input type="hidden" id="basic-service-laundry" name="laundry" value="0">
-                                    <input type="hidden" id="basic-service-gym" name="gym" value="0">
-                                    <input type="hidden" id="basic-service-garage" name="garage" value="20">
-                                    <input type="hidden" id="basic-service-refrigerator-clean" name="refrigerator-clean" value="0">
-                                    <input type="submit" name="submit_basic" value="Customize" class="more gray">
-                                </div>
-                            </div>
-                        </form>
-                        <form class="cost-calculator-container column column-1-3" method="post" action="service_calculator.html">
-                            <div class="cost-calculator-box cost-calculator-sum clearfix">
-                                <h4>PREMIUM SERVICE</h4>
-                                <span class="cost-calculator-price small-currency margin-top-33" id="premium-service-cost"><span class="currency">$</span>0.00</span>
-                                <input type="hidden" id="premium-service-total-cost" name="premium-service-total-cost">
-                                <p class="cost-calculator-price-description">/ per month</p>
-                                <ul class="simple-list margin-top-20">
-                                    <li>Up to 2 bathrooms cleaning</li>
-                                    <li>Up to 4 bedrooms cleaning</li>
-                                    <li>Up to 2 livingrooms cleaning</li>
-                                    <li>Medium kitchen (151 - 250 ft2)</li>
-                                    <li>Pets hair removing</li>
-                                    <li>Up to 5 additional rooms cleaning</li>
-                                    <!--<li>Dinning room cleaning</li>
-                                    <li>Play room cleaning</li>
-                                    <li>Laundry cleaning</li>
-                                    <li>Gym cleaning</li>
-                                    <li>Garage cleaning</li>
-                                    <li>The scope of basic service +</li>
-                                    <li>Washing floors</li>
-                                    <li>Cleaning lamps and heaters</li>
-                                    <li>Cleaning of bathroom and kitchen tiles</li>
-                                    <li>Cleaning cabinets fronts</li>
-                                    <li>Cleaning doors and doorframes</li>-->
-                                </ul>
-                                <div class="cost-calculator-submit-container">
-                                    <input type="hidden" class="clean-area-hidden" name="clean-area" value="1200">
-                                    <input type="hidden" class="cleaning-frequency-hidden" name="cleaning-frequency" value="0.2">
-                                    <input type="hidden" id="premium-service-bathrooms" name="bathrooms" value="2">
-                                    <input type="hidden" id="premium-service-bedrooms" name="bedrooms" value="4">
-                                    <input type="hidden" id="premium-service-livingrooms" name="livingrooms" value="2">
-                                    <input type="hidden" id="premium-service-kitchen-size" name="kitchen-size" value="20">
-                                    <input type="hidden" id="premium-service-bathroom-includes" name="bathroom-includes" value="10">
-                                    <input type="hidden" id="premium-service-pets" name="pets" value="30">
-                                    <input type="hidden" id="premium-service-cleaning-supplies" name="cleaning-supplies" value="300">
-                                    <input type="hidden" id="premium-service-dining-room" name="dining-room" value="10">
-                                    <input type="hidden" id="premium-service-play-room" name="play-room" value="15">
-                                    <input type="hidden" id="premium-service-laundry" name="laundry" value="0">
-                                    <input type="hidden" id="premium-service-gym" name="gym" value="17">
-                                    <input type="hidden" id="premium-service-garage" name="garage" value="20">
-                                    <input type="hidden" id="premium-service-refrigerator-clean" name="refrigerator-clean" value="0">
-                                    <input type="submit" name="submit_premium" value="Customize" class="more gray">
-                                </div>
-                            </div>
-                        </form>
-                        <form class="cost-calculator-container column column-1-3" method="post" action="service_calculator.html">
-                            <div class="cost-calculator-box cost-calculator-sum clearfix">
-                                <h4>POST RENOVATION</h4>
-                                <span class="cost-calculator-price small-currency margin-top-33" id="post-renovation-service-cost"><span class="currency">$</span>0.00</span>
-                                <input type="hidden" id="post-renovation-service-total-cost" name="post-renovation-service-total-cost">
-                                <p class="cost-calculator-price-description">/ per month</p>
-                                <ul class="simple-list margin-top-20">
-                                    <li>Up to 3 bathrooms cleaning</li>
-                                    <li>Up to 6 bedrooms cleaning</li>
-                                    <li>Up to 3 livingrooms cleaning</li>
-                                    <li>Large kitchen (>250 ft2)</li>
-                                    <li>Pets hair removing</li>
-                                    <!--<li>Dinning room cleaning</li>
-                                    <li>Play room cleaning</li>
-                                    <li>Laundry cleaning</li>
-                                    <li>Gym cleaning</li>
-                                    <li>Garage cleaning</li>-->
-                                    <li>Up to 5 additional rooms cleaning</li>
-                                    <li>Refrigerator cleaning</li>
-                                    <!--<li>The scope of premium service +</li>
-                                    <li>Dust removal after renovation</li>
-                                    <li>Cleaning cabinets inside</li>
-                                    <li>Cleaning windows and window frames</li>
-                                    <li>Washing the inside of the refrigerator</li>-->
-                                </ul>
-                                <div class="cost-calculator-submit-container">
-                                    <input type="hidden" class="clean-area-hidden" name="clean-area" value="1200">
-                                    <input type="hidden" class="cleaning-frequency-hidden" name="cleaning-frequency" value="0.2">
-                                    <input type="hidden" id="post-renovation-bathrooms" name="bathrooms" value="3">
-                                    <input type="hidden" id="post-renovation-bedrooms" name="bedrooms" value="6">
-                                    <input type="hidden" id="post-renovation-livingrooms" name="livingrooms" value="3">
-                                    <input type="hidden" id="post-renovation-kitchen-size" name="kitchen-size" value="25">
-                                    <input type="hidden" id="post-renovation-bathroom-includes" name="bathroom-includes" value="15">
-                                    <input type="hidden" id="post-renovation-pets" name="pets" value="30">
-                                    <input type="hidden" id="post-renovation-cleaning-supplies" name="cleaning-supplies" value="500">
-                                    <input type="hidden" id="post-renovation-dining-room" name="dining-room" value="10">
-                                    <input type="hidden" id="post-renovation-play-room" name="play-room" value="15">
-                                    <input type="hidden" id="post-renovation-laundry" name="laundry" value="14">
-                                    <input type="hidden" id="post-renovation-gym" name="gym" value="17">
-                                    <input type="hidden" id="post-renovation-garage" name="garage" value="20">
-                                    <input type="hidden" id="post-renovation-refrigerator-clean" name="refrigerator-clean" value="20">
-                                    <input type="submit" name="submit_post_renovation" value="Customize" class="more gray">
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-            <div class="row full-width padding-top-59 padding-bottom-60 align-center">
-                <h3><span class="button-label">SEE MORE CALCULATOR EXAMPLES</span> <a class="more" href="service_calculator.html" title="Service calculator">Service calculator</a></h3>
-            </div>
-            <div class="row full-width padding-top-112 padding-bottom-115 parallax parallax-3 overlay">
-                <div class="row testimonials-container">
-                    <a href="#" class="slider-control left template-arrow-horizontal-3"></a>
-                    <ul class="testimonials-list testimonials-carousel">
-                        <li>
-                            <div class="testimonials-icon template-quote"></div>
-                            <p>Cleanmate cleaned my home today - they did a terrific job. They even moved the folding chairs beside the washer to be sure the laundry floor was cleaned - they really paid attention to detail. Thank you!</p>
-                            <h6>STACEY, NORTH LYNNWOOD</h6>
-                            <!--<div class="author-details">CEO OF NEW PORT COMPANY</div>-->
-                        </li>
-                        <li>
-                            <div class="testimonials-icon template-quote"></div>
-                            <p>We would like to thank Cleanmate company for an outstanding effort on this recently completed project located in the Moscow. The project involved a very aggressive schedule and it was completed on time.</p>
-                            <h6>MARK, SOUTH EVERETT</h6>
-                            <!--<div class="author-details">CEO OF NEW PORT COMPANY</div>-->
-                        </li>
-                        <li>
-                            <div class="testimonials-icon template-quote"></div>
-                            <p>Cleanmate cleaned my home today - they did a terrific job. They even moved the folding chairs beside the washer to be sure the laundry floor was cleaned - they really paid attention to detail. Thank you!</p>
-                            <h6>ANTHONY, BELLEVUE</h6>
-                            <!--<div class="author-details">CEO OF NEW PORT COMPANY</div>-->
-                        </li>
-                    </ul>
-                    <a href="#" class="slider-control right template-arrow-horizontal-3"></a>
-                </div>
-            </div>
-            <div class="row full-width padding-top-89 padding-bottom-100">
-                <div class="row">
-                    <h2 class="box-header">SELECTED PROJECTS</h2>
-                    <p class="description align-center">Explore completed projects.</p>
-                    <div class="carousel-container margin-top-65 clearfix">
-                        <ul class="projects-list horizontal-carousel clearfix page-margin-top">
-                            <li class="column column-1-3">
-                                <a href="project_apartment_cleaning.html" title="Apartment Cleaning">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <div class="view align-center">
-                                    <div class="vertical-align-table">
-                                        <div class="vertical-align-cell">
-                                            <p>Apartment cleaning</p>
-                                            <a class="more simple" href="project_apartment_cleaning.html" title="View project">View project</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="column column-1-3">
-                                <a href="project_gutter_cleaning.html" title="Gutter Cleaning">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <div class="view align-center">
-                                    <div class="vertical-align-table">
-                                        <div class="vertical-align-cell">
-                                            <p>Gutter Cleaning</p>
-                                            <a class="more simple" href="project_gutter_cleaning.html" title="View project">View project</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="column column-1-3">
-                                <a href="project_move_in_out.html" title="Move In Out">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <div class="view align-center">
-                                    <div class="vertical-align-table">
-                                        <div class="vertical-align-cell">
-                                            <p>Move In Out</p>
-                                            <a class="more simple" href="project_move_in_out.html" title="View project">View project</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="column column-1-3">
-                                <a href="project_after_renovation_cleaning.html" title="After Renovation Cleaning">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <div class="view align-center">
-                                    <div class="vertical-align-table">
-                                        <div class="vertical-align-cell">
-                                            <p>After Renovation Cleaning</p>
-                                            <a class="more simple" href="project_after_renovation_cleaning.html" title="View project">View project</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="column column-1-3">
-                                <a href="project_house_cleaning.html" title="House Cleaning">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <div class="view align-center">
-                                    <div class="vertical-align-table">
-                                        <div class="vertical-align-cell">
-                                            <p>House Cleaning</p>
-                                            <a class="more simple" href="project_house_cleaning.html" title="View project">View project</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="column column-1-3">
-                                <a href="project_garden_maintenance.html" title="Garden Maintenance">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <div class="view align-center">
-                                    <div class="vertical-align-table">
-                                        <div class="vertical-align-cell">
-                                            <p>Garden Maintenance</p>
-                                            <a class="more simple" href="project_garden_maintenance.html" title="View project">View project</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="column column-1-3">
-                                <a href="project_apartment_cleaning.html" title="Apartment Cleaning">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <div class="view align-center">
-                                    <div class="vertical-align-table">
-                                        <div class="vertical-align-cell">
-                                            <p>Apartment cleaning</p>
-                                            <a class="more simple" href="project_apartment_cleaning.html" title="View project">View project</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="column column-1-3">
-                                <a href="project_gutter_cleaning.html" title="Gutter Cleaning">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <div class="view align-center">
-                                    <div class="vertical-align-table">
-                                        <div class="vertical-align-cell">
-                                            <p>Gutter Cleaning</p>
-                                            <a class="more simple" href="project_gutter_cleaning.html" title="View project">View project</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="column column-1-3">
-                                <a href="project_move_in_out.html" title="Move In Out">
-                                    <img src="/web/assets/images/samples/480x320/placeholder.jpg" alt="">
-                                </a>
-                                <div class="view align-center">
-                                    <div class="vertical-align-table">
-                                        <div class="vertical-align-cell">
-                                            <p>Move In Out</p>
-                                            <a class="more simple" href="project_move_in_out.html" title="View project">View project</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                        <div class="cm-carousel-pagination"></div>
+    <footer id="footer" class="mt-0">
+        <div class="footer-copyright">
+            <div class="container py-2">
+                <div class="row py-4">
+                    <div class="col d-flex align-items-center justify-content-center">
+                        <p><strong>PORTO TEMPLATE</strong> - © Copyright 2021. All Rights Reserved.</p>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="row dark footer-row full-width padding-top-30">
-        <div class="row padding-bottom-33">
-            <div class="column column-1-3">
-                <ul class="contact-details-list">
-                    <li class="features-phone">
-                        <label>CALL US TODAY</label>
-                        <p><a href="tel:2507257052">250 725 7052</a></p>
-                    </li>
-                </ul>
-            </div>
-            <div class="column column-1-3">
-                <ul class="contact-details-list">
-                    <li class="features-map">
-                        <label>OTTAWA, ONTARIO</label>
-                        <p>745 Adelaide St.</p>
-                    </li>
-                </ul>
-            </div>
-            <div class="column column-1-3">
-                <ul class="contact-details-list">
-                    <li class="features-wallet">
-                        <label>ESTIMATE YOUR COSTS</label>
-                        <p><a href="service_calculator.html" title="Online Service Calculator">Online Calculator</a></p>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="row dark-gray footer-row full-width padding-top-61 padding-bottom-36">
-        <div class="row row-4-4">
-            <div class="column column-1-4">
-                <h6>ABOUT US</h6>
-                <p class="margin-top-23">Founded in 1995 Cleanmate quickly built a reputation as one of the leading providers of residential and commercial cleaning solutions.</p>
-                <p>Our focus is to listen to our clients, understand their needs and provide the exceptional level of cleaning service.</p>
-                <div class="margin-top-37 padding-bottom-16">
-                    <a class="more gray" href="about.html" title="Learn more">Learn more</a>
-                </div>
-            </div>
-            <div class="column column-1-4">
-                <h6>OUR SERVICES</h6>
-                <ul class="list margin-top-31">
-                    <li class="template-arrow-horizontal-2"><a href="service_commercial_cleaning.html" title="Commercial Cleaning">Commercial Cleaning</a></li>
-                    <li class="template-arrow-horizontal-2"><a href="service_house_cleaning.html" title="House Cleaning">House Cleaning</a></li>
-                    <li class="template-arrow-horizontal-2"><a href="service_move_in_out.html" title="Move In Out Service">Move In Out Service</a></li>
-                    <li class="template-arrow-horizontal-2"><a href="service_post_renovation.html" title="Post Renovation">Post Renovation</a></li>
-                    <li class="template-arrow-horizontal-2"><a href="service_window_cleaning.html" title="Window Cleaning">Window Cleaning</a></li>
-                    <li class="template-arrow-horizontal-2"><a href="service_green_spaces_maintenance.html" title="Green Spaces Maintenance">Green Spaces Maintenance</a></li>
-                    <li class="template-arrow-horizontal-2">Novum Elementum</li>
-                    <li class="template-arrow-horizontal-2">Sicilium Polon</li>
-                </ul>
-            </div>
-            <div class="column column-1-4">
-                <h6>LATEST POSTS</h6>
-                <ul class="latest-post margin-top-42">
-                    <li>
-                        <a href="post.html" title="Best pro tips for home cleaning">Best pro tips for home cleaning</a>
-                        <abbr title="August 25, 2017">August 25, 2017</abbr>
-                    </li>
-                    <li>
-                        <a href="post.html" title="Best pro tips for home cleaning">Best pro tips for home cleaning</a>
-                        <abbr title="August 24, 2017">August 24, 2017</abbr>
-                    </li>
-                    <li>
-                        <a href="post.html" title="Best pro tips for home cleaning">Best pro tips for home cleaning</a>
-                        <abbr title="August 23, 2017">August 23, 2017</abbr>
-                    </li>
-                </ul>
-            </div>
-            <div class="column column-1-4">
-                <h6>CONTACT INFO</h6>
-                <ul class="contact-data margin-top-20">
-                    <li class="template-location"><div class="value">745 Adelaide St., Ottawa, Ontario</div></li>
-                    <li class="template-mobile"><div class="value"><a href="tel:2507257052">250 725 7052</a></div></li>
-                    <li class="template-email"><div class="value"><a href="mailto:contact@cleanmate.com">contact@cleanmate.com</a></div></li>
-                    <li class="template-clock"><div class="value">Mon-Fri: 08.00 am - 05.00 pm</div></li>
-                    <li class="template-clock"><div class="value">Saturday, Sunday: closed</div></li>
-                </ul>
-            </div>
-        </div>
-        <div class="row page-padding-top">
-            <ul class="social-icons align-center">
-                <li>
-                    <a target="_blank" href="https://twitter.com/QuanticaLabs" class="social-twitter" title="twitter"></a>
-                </li>
-                <li>
-                    <a href="https://pinterest.com/quanticalabs/" class="social-pinterest" title="pinterest"></a>
-                </li>
-                <li>
-                    <a target="_blank" href="https://facebook.com/QuanticaLabs" class="social-facebook" title="facebook"></a>
-                </li>
-            </ul>
-        </div>
-        <div class="row align-center padding-top-30">
-            <span class="copyright">© Copyright 2021 <a href="https://1.envato.market/cleanmate-cleaning-company-maid-gardening-template" title="Cleanmate Template" target="_blank">Cleanmate Template</a> by <a href="https://quanticalabs.com" title="QuanticaLabs" target="_blank">QuanticaLabs</a></span>
-        </div>
-    </div>
+    </footer>
 </div>
-<a href="#top" class="scroll-top animated-element template-arrow-vertical-3" title="Scroll to top"></a>
-<div class="background-overlay"></div>
 
-<!--js-->
-<script type="text/javascript" src="/web/assets/js/jquery-3.6.0.min.js"></script>
-<!--slider revolution-->
-<script type="text/javascript" src="/web/assets/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-<script type="text/javascript" src="/web/assets/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-<script type="text/javascript" src="/web/assets/js/jquery.ba-bbq.min.js"></script>
-<script type="text/javascript" src="/web/assets/js/jquery-ui-1.12.1.custom.min.js"></script>
-<script type="text/javascript" src="/web/assets/js/jquery.ui.touch-punch.min.js"></script>
-<script type="text/javascript" src="/web/assets/js/jquery.isotope.min.js"></script>
-<script type="text/javascript" src="/web/assets/js/jquery.easing.1.4.1.min.js"></script>
-<script type="text/javascript" src="/web/assets/js/jquery.carouFredSel-6.2.1-packed.js"></script>
-<script type="text/javascript" src="/web/assets/js/jquery.touchSwipe.min.js"></script>
-<script type="text/javascript" src="/web/assets/js/jquery.transit.min.js"></script>
-<script type="text/javascript" src="/web/assets/js/jquery.timeago.js"></script>
-<script type="text/javascript" src="/web/assets/js/jquery.hint.min.js"></script>
-<script type="text/javascript" src="/web/assets/js/jquery.costCalculator.min.js"></script>
-<script type="text/javascript" src="/web/assets/js/jquery.parallax.min.js"></script>
-<script type="text/javascript" src="/web/assets/js/jquery.prettyPhoto.js"></script>
-<script type="text/javascript" src="/web/assets/js/jquery.qtip.min.js"></script>
-<script type="text/javascript" src="/web/assets/js/jquery.blockUI.min.js"></script>
-<script type="text/javascript" src="/web/assets/js/jquery.imagesloaded-packed.js"></script>
-<script type="text/javascript" src="/web/assets/js/main.js"></script>
-<script type="text/javascript" src="/web/assets/js/odometer.min.js"></script>
+<!-- Vendor -->
+<script src="/web/vendor/jquery/jquery.min.js"></script>
+<script src="/web/vendor/jquery.appear/jquery.appear.min.js"></script>
+<script src="/web/vendor/jquery.easing/jquery.easing.min.js"></script>
+<script src="/web/vendor/jquery.cookie/jquery.cookie.min.js"></script>
+<script src="/web/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/web/vendor/jquery.validation/jquery.validate.min.js"></script>
+<script src="/web/vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script>
+<script src="/web/vendor/jquery.gmap/jquery.gmap.min.js"></script>
+<script src="/web/vendor/lazysizes/lazysizes.min.js"></script>
+<script src="/web/vendor/isotope/jquery.isotope.min.js"></script>
+<script src="/web/vendor/owl.carousel/owl.carousel.min.js"></script>
+<script src="/web/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+<script src="/web/vendor/vide/jquery.vide.min.js"></script>
+<script src="/web/vendor/vivus/vivus.min.js"></script>
+<!-- Theme Base, Components and Settings -->
+<script src="/web/assets/js/theme.js"></script>
+
+<script src="/web/assets/js/views/view.contact.js"></script>
+
+<!-- Theme Custom -->
+<script src="/web/assets/js/custom.js"></script>
+<!-- Theme Initialization Files -->
+<script src="/web/assets/js/theme.init.js"></script>
+
+<!-- Examples -->
+<script src="/web/assets/js/examples/examples.portfolio.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
+<script>
+    /*
+    Map Settings
+        Find the Latitude and Longitude of your address:
+            - https://www.latlong.net/
+            - http://www.findlatitudeandlongitude.com/find-address-from-latitude-and-longitude/
+    */
+    function initializeGoogleMaps() {
+        // Map Markers
+        var mapMarkers = [{
+            address: "New York, NY 10017",
+            html: "<strong>New York Office</strong><br>New York, NY 10017<br><br><a href='#' onclick='mapCenterAt({latitude: 40.75198, longitude: -73.96978, zoom: 16}, event)'>[+] zoom here</a>",
+            icon: {
+                image: "img/pin.png",
+                iconsize: [26, 46],
+                iconanchor: [12, 46]
+            }
+        }];
+        // Map Initial Location
+        var initLatitude = 40.75198;
+        var initLongitude = -73.96978;
+        // Map Extended Settings
+        var mapSettings = {
+            controls: {
+                draggable: (($.browser.mobile) ? false : true),
+                panControl: true,
+                zoomControl: true,
+                mapTypeControl: true,
+                scaleControl: true,
+                streetViewControl: true,
+                overviewMapControl: true
+            },
+            scrollwheel: false,
+            markers: mapMarkers,
+            latitude: initLatitude,
+            longitude: initLongitude,
+            zoom: 5
+        };
+        var map = $('#googlemaps').gMap(mapSettings),
+            mapRef = $('#googlemaps').data('gMap.reference');
+        // Styles from https://snazzymaps.com/
+        var styles = [{"featureType":"water","elementType":"geometry","stylers":[{"color":"#e9e9e9"},{"lightness":17}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#f5f5f5"},{"lightness":20}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#ffffff"},{"lightness":17}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#ffffff"},{"lightness":29},{"weight":0.2}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#ffffff"},{"lightness":18}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#ffffff"},{"lightness":16}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#f5f5f5"},{"lightness":21}]},{"featureType":"poi.park","elementType":"geometry","stylers":[{"color":"#dedede"},{"lightness":21}]},{"elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#ffffff"},{"lightness":16}]},{"elementType":"labels.text.fill","stylers":[{"saturation":36},{"color":"#333333"},{"lightness":40}]},{"elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#f2f2f2"},{"lightness":19}]},{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#fefefe"},{"lightness":20}]},{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#fefefe"},{"lightness":17},{"weight":1.2}]}];
+        var styledMap = new google.maps.StyledMapType(styles, {
+            name: 'Styled Map'
+        });
+        mapRef.mapTypes.set('map_style', styledMap);
+        mapRef.setMapTypeId('map_style');
+    }
+    // Initialize Google Maps when element enter on browser view
+    theme.fn.intObs( '.google-map', 'initializeGoogleMaps()', {} );
+    // Map text-center At
+    var mapCenterAt = function(options, e) {
+        e.preventDefault();
+        $('#googlemaps').gMap("centerAt", options);
+    }
+</script>
+</body>
+</html>
+
+
+<?
+exit();
+?>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <?php $this->load->view( 'web/common/head', $this->data ); ?>
+</head>
+<body >
+<div class="page-wrapper">
+    <h1 class="d-none"><?=HEAD_TITLE?></h1>
+    <!-- HEADER -->
+    <?php $this->load->view( 'web/common/header', $this->data ); ?>
+    <!-- HEADER -->
+
+    <!-- Main -->
+    <?php $this->load->view( $main_content, $this->data ); ?>
+    <!-- Main -->
+
+    <!-- FOOTER -->
+    <?php $this->load->view( 'web/common/footer', $this->data ); ?>
+    <!-- FOOTER -->
+</div>
+
+
+<!-- Plugins JS File -->
+<!--<script src="<?/*=WEB_RES*/?>/vendor/jquery/jquery.min.js"></script>-->
+
+<?php
+$script_str = "";
+if (isset($JS_MODULE) && is_array($JS_MODULE)) {
+
+    if (in_array('validate', $JS_MODULE)) {
+        $script_str .= '<script src="/resource/global_assets/js/plugins/forms/validation/validate.min.js"></script>' . PHP_EOL;
+    }
+
+    if (in_array('number', $JS_MODULE)) {
+        $script_str .= '<script src="'.WEB_RES.'/js/jquery.number.js"></script>' . PHP_EOL;
+    }
+
+    if (in_array('datepicker', $JS_MODULE)) {
+        $script_str .= '<script src="'.WEB_RES.'/vendor/jquery/jquery-ui.js"></script>' . PHP_EOL;
+        $script_str .= '<link rel="stylesheet" href="'.WEB_RES.'/vendor/jquery/jquery-ui.css">' . PHP_EOL;
+        $script_str .= '<script src="'.WEB_RES.'/vendor/jquery/jquery.ko.js"></script>' . PHP_EOL;
+    }
+
+    print($script_str);
+}
+?>
+
+<?
+/*if (isset($JS_MODULE) && is_array($JS_MODULE)) {
+    if (in_array('photoswipe', $JS_MODULE)) {
+        */?><!--
+                <script src="<?/*=WEB_RES*/?>/vendor/photoswipe/photoswipe.min.js"></script>
+                <script src="<?/*=WEB_RES*/?>/vendor/photoswipe/photoswipe-ui-default.min.js"></script>
+                --><?/*
+            }
+        }
+
+        print(isset($ADD_SCRIPT) ? $ADD_SCRIPT : "");
+        print(isset($ADD_CSS) ? $ADD_CSS : "");*/
+?>
+
+<?php print(isset($this->buffer_script) ? $this->buffer_script : '');?>
 </body>
 </html>

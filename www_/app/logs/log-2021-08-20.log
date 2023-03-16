@@ -1,0 +1,511 @@
+ERROR - 2021-08-20 01:39:22 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 01:44:43 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 01:48:14 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 01:48:51 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 01:49:13 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 01:49:28 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 01:50:55 --> Severity: error --> Exception: Call to undefined function join_member() D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 82
+ERROR - 2021-08-20 01:50:55 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 01:51:04 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 01:55:25 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 01:55:25 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 01:55:25 --> 404 Page Not Found: web/Assets/fonts
+ERROR - 2021-08-20 01:55:25 --> 404 Page Not Found: web/Assets/fonts
+ERROR - 2021-08-20 01:55:25 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 01:55:27 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 01:55:27 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 01:55:28 --> 404 Page Not Found: web/Assets/fonts
+ERROR - 2021-08-20 01:55:28 --> 404 Page Not Found: web/Assets/fonts
+ERROR - 2021-08-20 01:55:28 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 01:57:46 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 01:57:46 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 01:57:46 --> 404 Page Not Found: web/Assets/fonts
+ERROR - 2021-08-20 01:57:46 --> 404 Page Not Found: web/Assets/fonts
+ERROR - 2021-08-20 01:57:46 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 01:57:47 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 01:57:47 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 01:57:47 --> 404 Page Not Found: web/Assets/fonts
+ERROR - 2021-08-20 01:57:47 --> 404 Page Not Found: web/Assets/fonts
+ERROR - 2021-08-20 01:57:47 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 01:58:02 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 01:58:02 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 01:58:03 --> 404 Page Not Found: web/Assets/fonts
+ERROR - 2021-08-20 01:58:03 --> 404 Page Not Found: web/Assets/fonts
+ERROR - 2021-08-20 01:58:03 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 01:58:38 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 01:58:38 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 01:58:39 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 01:58:40 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 01:58:40 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 01:58:41 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:02:12 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 02:02:12 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 02:02:13 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:02:14 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 02:02:14 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 02:02:14 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:02:14 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 02:02:14 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 02:02:15 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:02:17 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 02:02:17 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 02:02:17 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:02:40 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 02:02:40 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 02:02:41 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:02:56 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 02:02:56 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 02:02:56 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:03:58 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 02:03:58 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 02:03:58 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:05:13 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 02:05:13 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 02:05:13 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:05:21 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 02:05:21 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 02:05:22 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:05:23 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 02:05:23 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 02:05:23 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:06:28 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 02:06:28 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 02:06:29 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:06:47 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 02:06:47 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 02:06:53 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 02:06:53 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 02:06:55 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:09:25 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 02:09:25 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 02:09:25 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:10:34 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 546
+ERROR - 2021-08-20 02:10:34 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\layout_hlcrf.php 547
+ERROR - 2021-08-20 02:10:35 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:12:03 --> Severity: error --> Exception: syntax error, unexpected '$this' (T_VARIABLE) D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 67
+ERROR - 2021-08-20 02:12:03 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:12:11 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:12:32 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:13:45 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:13:48 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:14:10 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:15:33 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:16:51 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:18:57 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:20:16 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:22:53 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:23:50 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:24:09 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\KUMYO\www\app\views\web\join\join_member.php 81
+ERROR - 2021-08-20 02:24:10 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:24:56 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:25:40 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:27:12 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:28:00 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:29:44 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:31:14 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:31:16 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:31:20 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:32:08 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:32:27 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:32:41 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:32:51 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:34:38 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:34:55 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:35:06 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:35:31 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:39:34 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:40:59 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:41:41 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:42:19 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:43:12 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:43:42 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:44:55 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:45:45 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:48:33 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 02:48:38 --> Severity: Notice --> Undefined property: CI::$school_m D:\WORK\PHP\KUMYO\www\app\third_party\MX\Controller.php 62
+ERROR - 2021-08-20 02:48:38 --> Severity: error --> Exception: Call to a member function codeExistsChk() on null D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 81
+ERROR - 2021-08-20 02:49:31 --> Severity: error --> Exception: Call to undefined method Mem_m::userIdExistsChk() D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 87
+ERROR - 2021-08-20 02:52:06 --> Query error: Unknown column 'user' in 'where clause' - Invalid query: SELECT COUNT(*) AS cnt FROM ky_member WHERE user=''
+ERROR - 2021-08-20 02:55:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT COUNT(*) AS cnt FROM ky_member WHERE userid='yuhwanni9896')' at line 1 - Invalid query: SELECT EXIST (SELECT COUNT(*) AS cnt FROM ky_member WHERE userid='yuhwanni9896') 
+ERROR - 2021-08-20 03:00:01 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:00:22 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:00:38 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:01:05 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:02:01 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:02:03 --> Severity: error --> Exception: Call to undefined function show_json_success() D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 85
+ERROR - 2021-08-20 03:02:39 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:35:55 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:39:30 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:44:36 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:45:15 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:45:50 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:46:12 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:46:58 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:47:02 --> Severity: Notice --> Undefined variable: memberPw D:\WORK\PHP\KUMYO\www\app\libraries\Func.php 1607
+ERROR - 2021-08-20 03:50:58 --> Severity: error --> Exception: syntax error, unexpected '}' D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 131
+ERROR - 2021-08-20 03:53:26 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:56:42 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:58:28 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:58:57 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 03:59:27 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:02:19 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:02:41 --> Severity: Notice --> Undefined property: CI::$encrypt D:\WORK\PHP\KUMYO\www\app\third_party\MX\Controller.php 62
+ERROR - 2021-08-20 04:02:41 --> Severity: error --> Exception: Call to a member function encode() on null D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 146
+ERROR - 2021-08-20 04:04:03 --> Severity: error --> Exception: Call to undefined method CI_Encryption::encode() D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 146
+ERROR - 2021-08-20 04:11:36 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:11:44 --> Severity: Notice --> Undefined index: upload_file D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 147
+ERROR - 2021-08-20 04:12:08 --> Severity: Notice --> Undefined index: upload_file D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 147
+ERROR - 2021-08-20 04:12:24 --> Severity: Warning --> mkdir(): No such file or directory D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 159
+ERROR - 2021-08-20 04:16:53 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:17:31 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:22:59 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:23:19 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:23:45 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:24:18 --> Severity: Notice --> Undefined index: ADD_SCRIPT D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 68
+ERROR - 2021-08-20 04:24:18 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:25:24 --> Severity: Notice --> Undefined index: ADD_SCRIPT D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 68
+ERROR - 2021-08-20 04:28:02 --> Severity: Notice --> Undefined index: ADD_SCRIPT D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 68
+ERROR - 2021-08-20 04:28:02 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:29:31 --> Severity: Notice --> Undefined index: ADD_SCRIPT D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 68
+ERROR - 2021-08-20 04:29:33 --> Severity: Notice --> Undefined index: ADD_SCRIPT D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 68
+ERROR - 2021-08-20 04:29:54 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:30:13 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:30:25 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:30:45 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:30:46 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:31:10 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:31:57 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:34:00 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:38:28 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:38:29 --> Severity: error --> Exception: Call to undefined method Mem_m::setMember() D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 156
+ERROR - 2021-08-20 04:39:00 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:39:56 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:41:50 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:43:50 --> Severity: error --> Exception: syntax error, unexpected '=>' (T_DOUBLE_ARROW) D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 165
+ERROR - 2021-08-20 04:44:16 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:44:17 --> Severity: error --> Exception: Call to undefined method Mem_m::setMember() D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 175
+ERROR - 2021-08-20 04:48:55 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:50:55 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:51:01 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:51:03 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:51:22 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:52:01 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:53:16 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:53:44 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 04:53:51 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 05:03:00 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 05:03:09 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 05:05:51 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 05:05:55 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 05:07:08 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 05:07:10 --> Severity: Notice --> Undefined property: CI::$form_validation D:\WORK\PHP\KUMYO\www\app\third_party\MX\Controller.php 62
+ERROR - 2021-08-20 05:07:10 --> Severity: error --> Exception: Call to a member function set_rules() on null D:\WORK\PHP\KUMYO\www\app\controllers\web\Join.php 83
+ERROR - 2021-08-20 05:07:20 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:13:21 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:14:42 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:16:15 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:18:18 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:24:10 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:24:37 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:26:57 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:37:30 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:37:44 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:38:13 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:39:05 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:39:12 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:39:26 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:44:31 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:46:42 --> Severity: error --> Exception: Call to undefined method Contactus::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Contactus.php 39
+ERROR - 2021-08-20 11:47:42 --> Severity: error --> Exception: Call to undefined method Contactus::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Contactus.php 39
+ERROR - 2021-08-20 11:47:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 11:48:07 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:48:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 11:49:03 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:49:18 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:49:31 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:49:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 11:50:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 11:51:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 11:53:00 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:53:16 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:53:23 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 11:53:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 11:54:42 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:54:53 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:54:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 11:55:10 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:55:18 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:55:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 11:55:54 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:56:06 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:56:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 11:57:29 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:57:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 11:58:37 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:58:45 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:58:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 11:58:56 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:59:00 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:59:38 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:59:50 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 11:59:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:00:18 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:00:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:01:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:02:20 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:02:30 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:02:54 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:02:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:03:01 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:03:06 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:03:32 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:03:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:04:26 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:04:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:04:57 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:05:28 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:05:38 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:05:54 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:06:06 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:06:41 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:06:43 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:07:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:08:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:09:20 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:09:24 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:09:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:10:07 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:10:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:11:06 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:11:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:12:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:13:05 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:13:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:14:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:15:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:15:54 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:16:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:16:36 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:17:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:18:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:19:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:19:31 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:20:07 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:20:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:21:25 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:21:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:21:44 --> Severity: error --> Exception: Call to undefined method Auction::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Auction.php 39
+ERROR - 2021-08-20 12:21:49 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:22:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:22:52 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:23:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:23:37 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:23:52 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:24:21 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:24:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:24:52 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:25:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:25:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:25:52 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:26:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:26:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:26:52 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:27:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:27:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:27:53 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:28:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:28:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:28:54 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:29:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:29:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:29:55 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:30:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:30:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:30:56 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:31:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:31:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:31:57 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:32:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:32:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:32:58 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:33:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:33:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:33:59 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:34:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:34:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:35:00 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:35:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:35:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:36:01 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:36:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:36:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:37:02 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:37:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:37:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:38:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:38:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:38:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:39:04 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:39:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:39:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:40:05 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:40:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:40:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:41:06 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:41:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:41:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:42:07 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:42:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:42:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:43:08 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:43:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:43:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:44:09 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:44:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:44:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:45:10 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:45:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:45:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:46:11 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:46:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:46:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:47:12 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:47:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:47:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:48:13 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:48:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:48:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:49:14 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:49:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:49:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:50:15 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:50:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:50:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:51:16 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:51:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:51:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:52:17 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:52:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:52:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:53:18 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:53:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:53:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:54:19 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:54:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:54:32 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:55:20 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:55:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:56:03 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:56:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:56:52 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:57:08 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:57:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:57:31 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:57:43 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:57:52 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 12:58:15 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:58:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:58:53 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 12:59:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 12:59:48 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:00:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:00:42 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:00:48 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:01:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:01:42 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:01:52 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:02:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:02:30 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:02:52 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:02:59 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:03:09 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:03:18 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:03:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:03:30 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:04:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:04:30 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:05:09 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:05:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:05:30 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:06:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:06:30 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:06:30 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:07:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:07:30 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:07:32 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:08:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:08:30 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:09:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:09:30 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:09:53 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:10:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:10:30 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:10:59 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:11:24 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:11:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:11:31 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:12:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:12:32 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:12:54 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:13:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:13:33 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:13:55 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:14:21 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:14:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:14:34 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:14:59 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:15:20 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:15:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:15:34 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:15:35 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:16:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:16:32 --> 404 Page Not Found: web/Images/newsletter-popup.jpg
+ERROR - 2021-08-20 13:16:36 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:17:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:17:33 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:17:37 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:18:26 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:18:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:18:38 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:19:26 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:19:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:19:39 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:19:48 --> 404 Page Not Found: web/Images/newsletter-popup.jpg
+ERROR - 2021-08-20 13:19:51 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:20:17 --> 404 Page Not Found: web/Images/newsletter-popup.jpg
+ERROR - 2021-08-20 13:20:18 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:20:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:20:40 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:21:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:21:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:21:41 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:22:18 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:22:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:22:42 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:23:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:23:41 --> 404 Page Not Found: web/Images/newsletter-popup.jpg
+ERROR - 2021-08-20 13:23:41 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:23:43 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:24:26 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:24:28 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:24:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:24:44 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:24:44 --> 404 Page Not Found: web/Images/demos
+ERROR - 2021-08-20 13:24:45 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:25:22 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:25:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:25:45 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:26:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:26:38 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:26:46 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:26:57 --> 404 Page Not Found: /index
+ERROR - 2021-08-20 13:27:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:27:47 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:27:57 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:28:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:28:48 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:29:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:29:49 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:30:28 --> 404 Page Not Found: web/Images/cart
+ERROR - 2021-08-20 13:30:37 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39
+ERROR - 2021-08-20 13:30:50 --> Severity: error --> Exception: Call to undefined method Shop::index() D:\WORK\PHP\KUMYO\www\app\controllers\web\Shop.php 39

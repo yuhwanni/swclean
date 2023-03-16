@@ -1,0 +1,57 @@
+ERROR - 2021-10-27 00:02:34 --> 404 Page Not Found: web/Img/blank.gif
+ERROR - 2021-10-27 00:02:34 --> 404 Page Not Found: web/Assets/img
+ERROR - 2021-10-27 00:03:34 --> 404 Page Not Found: web/Img/blank.gif
+ERROR - 2021-10-27 00:03:34 --> 404 Page Not Found: web/Assets/img
+ERROR - 2021-10-27 00:03:57 --> 404 Page Not Found: web/Img/blank.gif
+ERROR - 2021-10-27 00:03:57 --> 404 Page Not Found: web/Assets/img
+ERROR - 2021-10-27 00:04:08 --> 404 Page Not Found: web/Img/blank.gif
+ERROR - 2021-10-27 00:04:08 --> 404 Page Not Found: web/Assets/img
+ERROR - 2021-10-27 00:04:19 --> 404 Page Not Found: web/Img/blank.gif
+ERROR - 2021-10-27 00:04:19 --> 404 Page Not Found: web/Assets/img
+ERROR - 2021-10-27 00:04:32 --> 404 Page Not Found: web/Img/blank.gif
+ERROR - 2021-10-27 00:04:32 --> 404 Page Not Found: web/Assets/img
+ERROR - 2021-10-27 00:04:36 --> 404 Page Not Found: web/Img/blank.gif
+ERROR - 2021-10-27 00:04:36 --> 404 Page Not Found: web/Assets/img
+ERROR - 2021-10-27 00:04:36 --> 404 Page Not Found: web/Img/favicon.ico
+ERROR - 2021-10-27 00:06:21 --> 404 Page Not Found: web/Img/blank.gif
+ERROR - 2021-10-27 00:06:21 --> 404 Page Not Found: web/Assets/img
+ERROR - 2021-10-27 00:11:55 --> Severity: Warning --> Use of undefined constant SITE_MENU - assumed 'SITE_MENU' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 50
+ERROR - 2021-10-27 00:11:56 --> 404 Page Not Found: web/Img/favicon.ico
+ERROR - 2021-10-27 00:12:09 --> Severity: Warning --> Use of undefined constant SITE_MENU - assumed 'SITE_MENU' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 50
+ERROR - 2021-10-27 00:12:09 --> Severity: Warning --> Illegal string offset 'kor' D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 50
+ERROR - 2021-10-27 00:12:14 --> 404 Page Not Found: web/Indexhtml/index
+ERROR - 2021-10-27 00:12:14 --> 404 Page Not Found: /index
+ERROR - 2021-10-27 00:12:15 --> Severity: Warning --> Use of undefined constant SITE_MENU - assumed 'SITE_MENU' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 50
+ERROR - 2021-10-27 00:12:15 --> Severity: Warning --> Illegal string offset 'kor' D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 50
+ERROR - 2021-10-27 00:12:16 --> Severity: Warning --> Use of undefined constant SITE_MENU - assumed 'SITE_MENU' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 50
+ERROR - 2021-10-27 00:12:16 --> Severity: Warning --> Illegal string offset 'kor' D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 50
+ERROR - 2021-10-27 00:12:16 --> 404 Page Not Found: web/Img/favicon.ico
+ERROR - 2021-10-27 00:14:11 --> Severity: error --> Exception: Call to undefined method FW_Loader::uri_segment() D:\WORK\PHP\PIXCELCAST\www\app\config\globals.php 178
+ERROR - 2021-10-27 00:14:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-27 00:14:26 --> 404 Page Not Found: web/Img/favicon.ico
+ERROR - 2021-10-27 00:15:03 --> 404 Page Not Found: web/Eng/index
+ERROR - 2021-10-27 00:15:06 --> 404 Page Not Found: web/Eng/index
+ERROR - 2021-10-27 00:15:23 --> 404 Page Not Found: web/Img/favicon.ico
+ERROR - 2021-10-27 00:16:53 --> 404 Page Not Found: web/Img/favicon.ico
+ERROR - 2021-10-27 00:17:36 --> Severity: error --> Exception: Call to undefined method FW_Loader::uri_segment() D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 51
+ERROR - 2021-10-27 00:17:36 --> 404 Page Not Found: web/Img/favicon.ico
+ERROR - 2021-10-27 00:17:42 --> Severity: error --> Exception: Call to undefined method FW_Loader::uri_segment() D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 51
+ERROR - 2021-10-27 00:17:42 --> 404 Page Not Found: web/Img/favicon.ico
+ERROR - 2021-10-27 00:20:53 --> Severity: Warning --> Use of undefined constant TOP_MENU - assumed 'TOP_MENU' (this will throw an Error in a future version of PHP) D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 50
+ERROR - 2021-10-27 00:20:53 --> 404 Page Not Found: web/Img/favicon.ico
+ERROR - 2021-10-27 00:21:08 --> Severity: Notice --> Undefined variable: top_menu D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 50
+ERROR - 2021-10-27 00:21:09 --> 404 Page Not Found: web/Img/favicon.ico
+ERROR - 2021-10-27 00:22:05 --> 404 Page Not Found: web/Img/favicon.ico
+ERROR - 2021-10-27 00:22:10 --> 404 Page Not Found: web/Img/favicon.ico
+ERROR - 2021-10-27 00:23:02 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 57
+ERROR - 2021-10-27 00:23:02 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 57
+ERROR - 2021-10-27 00:23:02 --> 404 Page Not Found: web/Img/favicon.ico
+ERROR - 2021-10-27 00:23:08 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 57
+ERROR - 2021-10-27 00:23:08 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 57
+ERROR - 2021-10-27 00:23:20 --> 404 Page Not Found: web/Indexhtml/index
+ERROR - 2021-10-27 00:23:20 --> 404 Page Not Found: /index
+ERROR - 2021-10-27 00:23:20 --> 404 Page Not Found: web/Indexhtml/index
+ERROR - 2021-10-27 00:23:21 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 57
+ERROR - 2021-10-27 00:23:21 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 57
+ERROR - 2021-10-27 00:23:22 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 57
+ERROR - 2021-10-27 00:23:22 --> Severity: Notice --> Array to string conversion D:\WORK\PHP\PIXCELCAST\www\app\views\web\common\header.php 57

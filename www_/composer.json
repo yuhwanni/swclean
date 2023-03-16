@@ -1,0 +1,17 @@
+{
+    "name": "jh/kum",
+    "autoload": {
+        "psr-4": {
+            "Jh\\Kum\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "전형",
+            "email": "hjeon@adforus.co.kr"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.0"
+    }
+}

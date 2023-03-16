@@ -42,6 +42,6 @@ class Main extends FW_Controller
     }
 
     function index() {
-        redirect("/web/eng");
+        redirect("/web/main");
     }
 }
