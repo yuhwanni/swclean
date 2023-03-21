@@ -35,7 +35,7 @@
             <li class="nav-item" data-option-value=".product05"><a class="nav-link text-1 text-uppercase" href="#">Medias</a></li>
         </ul>
 
-        <div class="sort-destination-loader sort-destination-loader-showing mt-4 pt-2">
+        <div class="sort-destination-loader sort-destination-loader-showing mt-4 pt-2 product_sub">
             <div class="row portfolio-list sort-destination" data-sort-id="portfolio">
 
 

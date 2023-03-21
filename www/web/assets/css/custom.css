@@ -125,3 +125,12 @@ html .pixelsystem {
     font-size: 18px;
 }
 .product_menu a { font-size:16px !important; }
+.product_sub .thumb-info img {
+    height: 274px;
+    overflow: hidden;
+}
+
+.buss-content { margin-top:15%; }
+.buss-content h2 { font-size:1.9rem !important; }
+.buss-content div { }
+.buss-content p { font-size:1.3rem !important;  }

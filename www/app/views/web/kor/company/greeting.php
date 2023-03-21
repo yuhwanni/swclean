@@ -24,7 +24,7 @@
         </div>
         <div class="spacer py-5" style="padding:0px 90px 0px 90px !important;">
             <div class="col">
-                <h4>
+                <h4 style="font-size:1.6rem">
                     인사말
                 </h4>
                 <hr>
